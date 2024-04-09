@@ -12,9 +12,9 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 class Scraper:
-    def __init__(self):
+    def __init__(self, n_threads: int = 2):
         self.base_url = "https://www.loc.gov/search/?fa=partof:burkina+faso+legal+gazettes"
-        self.starting_page_number = 1
+        self.starting_page_number = 5
         self.all_publication_urls = []  # Contains the list of all publications urls
         self.document = {}  # 'id', 'pages': ['page': 1, 'content': "the content"]
         self.time_wait_till_visible = 10  # Time in seconds to wait till a given element is loaded in the DOM
@@ -22,7 +22,7 @@ class Scraper:
         # Configure logging
         logging.basicConfig(level=logging.ERROR, format='%(levelname)s: %(message)s')
 
-        self.num_threads = 1  # Number of threads
+        self.num_threads = n_threads  # Number of threads
 
     def run(self):
         # Collect all publication urls

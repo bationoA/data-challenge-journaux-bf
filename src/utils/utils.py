@@ -1,9 +1,25 @@
 import os
 import re
+import json
 
 # CONSTANTS
 DOWNLOADED_FILES_FOLDER = os.path.join("data", "journaux")
 CSV_FOLDER = os.path.join("data", "csv")
+
+
+def clean_text(txt):
+    # Replace special characters with spaces
+    cleaned_text = re.sub(r'[•*■]', ' ', txt)
+
+    # Remove unnecessary newlines and extra spaces
+    cleaned_text = re.sub(r'\n+', ' ', cleaned_text)
+    cleaned_text = re.sub(r'\s+', ' ', cleaned_text)
+
+    # Correct spacing around punctuation marks
+    cleaned_text = re.sub(r'\s([.,:;!?])', r'\1', cleaned_text)
+    cleaned_text = re.sub(r'([.,:;!?])\s', r'\1 ', cleaned_text)
+
+    return cleaned_text.strip()
 
 
 def remove_special_characters(txt, keep: list = None):
@@ -20,16 +36,71 @@ def remove_special_characters(txt, keep: list = None):
     return txt
 
 
-def extract_declaration_sections(txt, keyword):
+def extract_declaration_sections(txt, keyword, first=True):
     txt = txt.lower().replace("é", "e")
-    # txt = remove_special_characters(txt=txt, keep=["(", ")", "."]).lower().replace("é", "e")
     # Compile a regular expression pattern to match sections based on the keyword
-    pattern = re.compile(rf"\b{keyword}\b.*?(?=\b{keyword}\b|$)", re.DOTALL)
+    recepisse = "cepisse"
+    recepisse = "\s?".join(recepisse)
+    recepisse = "r?e?" + recepisse
+    denomination = "denomination"
+    denomination = "\s?".join(denomination)
+    pattern = re.compile(rf"\b{keyword}\b.*?president.*?(?=\br?{recepisse}|{denomination}\b|$)", re.DOTALL)
+    # pattern = re.compile(rf"\b{keyword}\b.*?(?=\b{keyword}\b|$)", re.DOTALL)
     # Find all matches of the pattern in the text
     sections = pattern.findall(txt)
     if len(sections):
         sections = [sc.strip() for sc in sections]
-    return sections
+
+    return sections if not first else sections[0]
+
+
+def extract_declaration_numbers_and_dates(txt):
+    txt = txt.lower().replace("é", "e")
+    declaration = "declaration"
+    declaration = "\s?".join(declaration)
+    # declaration += "?\s?d?\s?\\?’?"
+    declaration += "\s?d?\s?'?"
+    declaration += "\s?".join("association")
+    # Define the pattern to match the declaration numbers
+    pattern = re.compile(r"\s?.*?" + declaration + "\s?(.*?du.*?\d{4})")
+    # Find all matches of the pattern in the text
+    declaration_numbers = pattern.findall(txt)
+    # Remove 'n°'
+    declaration_numbers_dates = [dc.removeprefix("n°").removeprefix(" n").removeprefix('n"').split("du") for dc in
+                                 declaration_numbers]
+    results = []
+    for dn_dt in declaration_numbers_dates:
+        try:
+            new_dn_dt = dn_dt[0].strip(), dn_dt[1].strip() if len(dn_dt) == 2 else dn_dt[0].strip()
+            results.append(new_dn_dt)
+        except:
+            pass
+
+    return results
+
+
+# def extract_declaration_numbers_and_dates_old(txt):
+#     txt = txt.lower()
+#     declaration = "declaration"
+#     declaration = "\s?".join(declaration)
+#     declaration += "?\s?d?\s?’?"
+#     declaration += "\s?".join("association")
+#     # Define the pattern to match the declaration numbers
+#     # pattern = re.compile(r"\s?.*?c\s?e\s?p\s?(.*?)\d{4}")
+#     pattern = re.compile(r"\s?.*?" + declaration + "\s?(.*?\d{4})")
+#     # Find all matches of the pattern in the text
+#     declaration_numbers = pattern.findall(txt)
+#     # Remove 'n°'
+#     declaration_numbers_dates = [dc.removeprefix("n°").split("du") for dc in declaration_numbers]
+#     results = []
+#     for dn_dt in declaration_numbers_dates:
+#         try:
+#             new_dn_dt = dn_dt[0].strip(), dn_dt[1].strip() if len(dn_dt) == 2 else dn_dt[0].strip()
+#             results.append(new_dn_dt)
+#         except:
+#             pass
+#
+#     return results
 
 
 def get_association_name(txt: str) -> str:
@@ -94,8 +165,32 @@ def get_association_abbreviation(txt: str, denomination: str = None) -> str:
     if abbreviation != "":
         return abbreviation
 
-    # If abbreviation not foound
+    # If abbreviation not found
     # Try pattern: denomination followed by abbreviation like 'A.S.K.'
     abbreviation = get_abbreviation_2(txt=txt, denomination=denomination)
 
     return abbreviation
+
+
+def get_siege(txt: str) -> str:
+    return ""
+
+
+def get_objective(txt: str) -> str:
+    return ""
+
+
+def read_txt_file(file_path: str) -> str | None:
+    try:
+        with open(file_path, "r") as f:
+            return f.read()
+    except BaseException as e:
+        print(f"Error: {e.__str__()}")
+        return None
+
+
+def load_json(filepath: str) -> json:
+    with open(filepath, 'r') as f:
+        file = json.load(f)
+
+    return file
