@@ -1,8 +1,10 @@
 import os
 import logging
+from time import time
+
 from tqdm import tqdm
 from selenium import webdriver  # for simulating user action such as a click on a button
-from src.utils import DOWNLOADED_FILES_FOLDER
+from src.utils import DOWNLOADED_FILES_FOLDER, delete_chromium_temp_files
 from selenium.webdriver.common.by import By
 from concurrent.futures import ThreadPoolExecutor
 from selenium.webdriver.chrome.options import Options  # Options while setting up the webdriver with chrome
@@ -24,12 +26,15 @@ class Scraper:
 
         self.num_threads = n_threads  # Number of threads
 
-    def run(self):
-        # Collect all publication urls
-        self.get_all_publication_urls()
+        self.last_chromium_clean_time = time()
+        self.chromium_cleaning_interval = 10  # In seconds
 
-        # Filter urls by removing urls those document have already been downloaded
-        self.filter_urls()
+    def run(self):
+        # # Collect all publication urls
+        # self.get_all_publication_urls()
+        #
+        # # Filter urls by removing urls those document have already been downloaded
+        # self.filter_urls()
 
         # Construct all documents
         self.construct_and_save_all_documents()
@@ -59,17 +64,20 @@ class Scraper:
         # Set up web driver with Chrome options
         # driver = webdriver.Chrome()  # show browser
         driver = webdriver.Chrome(options=chrome_options)  # Hide browser
-        # Navigate to the website
-        driver.get(url)
 
-        if wait_time is None:
-            wait_time = self.time_wait_till_visible
 
         try:
+            # Navigate to the website
+            driver.get(url)
+
+            if wait_time is None:
+                wait_time = self.time_wait_till_visible
+
             if wait_time is not None:
                 WebDriverWait(driver, wait_time).until(EC.visibility_of_element_located(wait_till_visible))
         except BaseException as e:
             # Log the error message with level ERROR
+            print(url)
             logging.error(e.__str__())
             return None
 
@@ -121,6 +129,8 @@ class Scraper:
             if next_page_exist:
                 current_page_number += 1
 
+            self.clean_chromium_temp_files()
+
         if WebDriver is not None:
             driver_main.quit()  # Close driver
 
@@ -171,14 +181,14 @@ class Scraper:
             print(f"   Pages to merge: {total_pages} - ({url})")
             for i in tqdm(range(1, total_pages + 1)):
                 current_url = self.generate_publication_page_url(url=url, page=i)
-                driver = self.get_page(url=current_url, wait_till_visible=(By.ID, "fulltext-box"), wait_time=20)
-
-                if driver is None:
-                    return False
-
-                div_fulltext_box = driver.find_element(By.ID, "fulltext-box")
+                # driver = self.get_page(url=current_url, wait_till_visible=(By.ID, "fulltext-box"), wait_time=20)
+                #
+                # if driver is None:
+                #     return False
 
                 try:
+                    driver = self.get_page(url=current_url, wait_till_visible=(By.ID, "fulltext-box"), wait_time=20)
+                    div_fulltext_box = driver.find_element(By.ID, "fulltext-box")
                     text += f""" 
                     PAGE {i}
                     {div_fulltext_box.text}
@@ -187,6 +197,8 @@ class Scraper:
                     # Log the error message with level ERROR
                     logging.error(e.__str__())
                     print("\n Continuing...")
+
+                self.clean_chromium_temp_files()
 
             # Save text as a txt file
             file_name = "file_" + url.split("/")[-2]
@@ -199,8 +211,13 @@ class Scraper:
         return True
 
     def construct_and_save_all_documents(self):
-
+        self.all_publication_urls = ["https://www.loc.gov/resource/llflg.87648643_20190624_01/?st=text"]
         with ThreadPoolExecutor(max_workers=self.num_threads) as executor:
             executor.map(self.construct_document, self.all_publication_urls)
 
         return True
+
+    def clean_chromium_temp_files(self):
+        if time() - self.last_chromium_clean_time >= self.chromium_cleaning_interval:
+            delete_chromium_temp_files()
+            self.last_chromium_clean_time - time()

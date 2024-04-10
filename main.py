@@ -4,14 +4,14 @@ from src import Extractor
 
 if __name__ == "__main__":
     print("Starting...")
-    scraper = Scraper()
+    scraper = Scraper(n_threads=2)
     scraper.run()
+
+    # extractor = Extractor()
+    # extractor.run()
+
 #
-#     # extractor = Extractor()
-#     # extractor.run()
-
-
-
+#
 # import argparse
 # import sys
 #

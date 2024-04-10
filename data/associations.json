@@ -1,74 +1,62 @@
 [
     {
-        "number": "fj‘ç4-74/mat/pknd/hc/cab",
-        "date": "27 septembre 1994",
-        "denomination": "L’EXPERIENCE CLUB\nBUA1\n01240)",
-        "abbreviation": ""
+        "id": "b9e924151f3dc10d4a982479be7d8eb6",
+        "declaration number": [
+            "2013- 172/mats/rhbs/pknd/hc",
+            "13 mai 2013"
+        ],
+        "details": {
+            "number": "2013- 172/mats/rhbs/pknd/hc",
+            "date": "13 mai 2013",
+            "denomination": "ASSOCIATION NBINIDJO DE NDOSSO",
+            "abbreviation": "",
+            "siege": "NDOSSO DEPARTEMENT DE KAYAN",
+            "objective": "Lassociation nbinidjo de ndosso se fixe pour objectifs de promouvoir la culture de la paix entre burkinabe contribuer à la sauvegarde de la dignite humaine promouvoir lauto-emploi des jeunes dans les domaines de lelevage et de lagriculture contribuer à la preservation de lenvironnement par des seances de sensibilisation contribuer à lelevation du niveau de sante des jeunes par des sensibilisations contribuer à leducation civique des membres sur les valeurs de la republique participer à lexportation de nos valeurs culturelles mettre laccent sur leducation des jeunes filles mettre laccent sur lauto-emploi des femmes en milieu rural"
+        }
     },
     {
-        "number": "9 4-86/mat/pknd/hc/cab",
-        "date": "24 octobre1994",
-        "denomination": "",
-        "abbreviation": ""
+        "id": "6c9e5f29e39409b0a9e83628184fe334",
+        "declaration number": [
+            "2008- 021/matd/rcen/pkad/hc/sg/dase",
+            "07 fevrier 2008"
+        ],
+        "details": {
+            "number": "2008- 021/matd/rcen/pkad/hc/sg/dase",
+            "date": "07 fevrier 2008",
+            "denomination": "ASSOCIATION YAOLOM NERE",
+            "abbreviation": "",
+            "siege": "OUAGADOUGOU SECTEUR N°25",
+            "objective": "Lassociation a pour objectif de rechercher des sou- tiens financiers pour des realisations socio-economiques dans le cadre de la politique de lutte contre la pauvrete et le chô- mage defini par le gouvernement en vue de generer des reve- nus pour ameliorer les conditions de vie des adherents."
+        }
     },
     {
-        "number": "94-013/psng/hc",
-        "date": "19 octobre 1994",
-        "denomination": "ASSOCIATION SOLIDARITE DES\nHANDICAPES DE DIDYR",
-        "abbreviation": "ASSOHAD"
+        "id": "46c3df9fea0f1ef345742aef2adde148",
+        "declaration number": [
+            "2008- 0006/matd/sg/dglpap/doasoc",
+            "25 janvier 2008"
+        ],
+        "details": {
+            "number": "2008- 0006/matd/sg/dglpap/doasoc",
+            "date": "25 janvier 2008",
+            "denomination": "COLLECTIF DES ASSOCIATIONS DES RESTAURATRICES ET TRANSFORMATRICES DES PRODUITS LOCAUX",
+            "abbreviation": "CARTPL",
+            "siege": "OUAGADOUGOU PROVINCE DU KADIOGO",
+            "objective": "Lassociation collectif des associations des restauratrices et transformatrices des produits locaux a pour objectifs dœuvrer à renforcer les capacites institutionnelles et les competences des membres dans les domaines de la communication, de la mobilisation, du plaidoyer de la negociation et la mise en œuvre des activites de developpement creatrices des dyna- miques damelioration de lenvironnement socio-econo- mique, sanitaire et culturelle page 16 304 journal officiel du burkina faso n°09 28 fevrier 2008 renforcer les capacites institutionnelles et les competences des membres dans les domaines de la mobilisation des res- sources et de la creativites stimuler les synergies au niveau local regional national et international par la mise en reseau de partenaires nationaux et internationaux"
+        }
     },
     {
-        "number": "94-129/ma t/phue/hc/dag",
-        "date": "18 octobre 1994",
-        "denomination": "ASSOCIATION SINIGNASSIGUI",
-        "abbreviation": ""
-    },
-    {
-        "number": "94-016/ma t/pbzg/hc/sg/dasec",
-        "date": "26 octobre 1994",
-        "denomination": "ASSOCIATION DES SCOLAIRES DE KOMSILGA",
-        "abbreviation": "ASK"
-    },
-    {
-        "number": "94-97/mat/pkad/hc/sg/da/sag",
-        "date": "10 novembre 1994",
-        "denomination": "ASSOCIATION TAAB YINGA",
-        "abbreviation": ""
-    },
-    {
-        "number": "94- 84/ma t/pkad/h c/s g/da/sa g",
-        "date": "8 septembre 1994",
-        "denomination": "ASSOCIATION POUR LE DEVELOPPEMENT\nECONOMIQUE ET SOCIAL DE KOUNDOUBA ADESKO ZEMS\nTAABA",
-        "abbreviation": ""
-    },
-    {
-        "number": "95-4/ma t/pmhn/hc/da g",
-        "date": "23 février 1995",
-        "denomination": "ASSOCIATION TARO",
-        "abbreviation": ""
-    },
-    {
-        "number": "95- 2/ma t/pbgb/hc/sg/d1",
-        "date": "14 mars 1995",
-        "denomination": "ZAMBOLAW TAA",
-        "abbreviation": ""
-    },
-    {
-        "number": "94-55/ma t/pytg/h c/s g/d a ap",
-        "date": "20 décembre 1994",
-        "denomination": "ASSOCIATION AIDE AU YATENGA",
-        "abbreviation": ""
-    },
-    {
-        "number": "95-60/mat/sg/dgat/dlpaj",
-        "date": "1er mars 1995",
-        "denomination": "FEMMES DU SAHEL",
-        "abbreviation": ""
-    },
-    {
-        "number": "95-047/matiphveihcidag",
-        "date": "09 mars 1995",
-        "denomination": "ASSOCIATION DES SAISONNIERS DES SANS\nEMPLOIS ET DES ELÈVES DU FASO",
-        "abbreviation": "ASSEEF"
+        "id": "7fec6bf3170e30f7e770b03e355d1662",
+        "declaration number": [
+            "2016- 768/ma tdsi/sg/dglpap/doasoc",
+            "09 mai 2016"
+        ],
+        "details": {
+            "number": "2016- 768/ma tdsi/sg/dglpap/doasoc",
+            "date": "09 mai 2016",
+            "denomination": "DE LASSOCIATION ASSOCIATION DORCAS TABITA",
+            "abbreviation": "",
+            "siege": "OUAGADOUGOU PROVINCE DU KADIOGO",
+            "objective": "Lassociation dorcas tabita a pour objectifs participer au developpement et au renforcement de la lutte contre la pauvrete sensibiliser les populations sur la si personnes vulnerables creer un environnement favorable aut< populations œuvrer à lamelioration et au changement de leur situation j 1 tisser des relations de cooperation avec les autres associations de même nature."
+        }
     }
 ]
