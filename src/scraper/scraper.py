@@ -30,11 +30,11 @@ class Scraper:
         self.chromium_cleaning_interval = 10  # In seconds
 
     def run(self):
-        # # Collect all publication urls
-        # self.get_all_publication_urls()
-        #
-        # # Filter urls by removing urls those document have already been downloaded
-        # self.filter_urls()
+        # Collect all publication urls
+        self.get_all_publication_urls()
+
+        # Filter urls by removing urls those document have already been downloaded
+        self.filter_urls()
 
         # Construct all documents
         self.construct_and_save_all_documents()
@@ -211,7 +211,6 @@ class Scraper:
         return True
 
     def construct_and_save_all_documents(self):
-        self.all_publication_urls = ["https://www.loc.gov/resource/llflg.87648643_20190624_01/?st=text"]
         with ThreadPoolExecutor(max_workers=self.num_threads) as executor:
             executor.map(self.construct_document, self.all_publication_urls)
 

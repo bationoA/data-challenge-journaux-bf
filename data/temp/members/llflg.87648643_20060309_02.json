@@ -1,0 +1,452 @@
+[
+    {
+        "association_id": "9c8dd585f3efc12b068b4d89b4497d46",
+        "role": "CONSEILLERS",
+        "name": "IER SANA OUSMANE COMMERÇANT 2EME SADOU HAMADOUM, ELEVEUR"
+    },
+    {
+        "association_id": "9c8dd585f3efc12b068b4d89b4497d46",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'INFORMATION SANA ALI, CULTIVATEUR"
+    },
+    {
+        "association_id": "9c8dd585f3efc12b068b4d89b4497d46",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "ZANGO SIDIKI, CULTIVATEUR"
+    },
+    {
+        "association_id": "9c8dd585f3efc12b068b4d89b4497d46",
+        "role": "SECRETAIRE GENERAL",
+        "name": "ZANGO MAMOUDOU, CULTIVATEUR"
+    },
+    {
+        "association_id": "9c8dd585f3efc12b068b4d89b4497d46",
+        "role": "PRESIDENT",
+        "name": "SANA IDRISSA, CULTIVATEUR"
+    },
+    {
+        "association_id": "9c8dd585f3efc12b068b4d89b4497d46",
+        "role": "SECRETAIRE ADJOINT A L'INFORMATION",
+        "name": "SANA ALI, CULTIVATEUR"
+    },
+    {
+        "association_id": "9c8dd585f3efc12b068b4d89b4497d46",
+        "role": "TRESORIER GENERAL",
+        "name": "SORE KADRE, CULTIVATEUR TRESORIER GENERAL ADJOINT OUEDRAOGO YASSYA, CULTIVATEUR"
+    },
+    {
+        "association_id": "9c8dd585f3efc12b068b4d89b4497d46",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "DICKO OUSMANE, ELEVEUR"
+    },
+    {
+        "association_id": "d9e88cd4296c01bc2fef5494e2d6a877",
+        "role": "SECRETAIRE GENERAL",
+        "name": "TIENDREBEOGO ALASSANE, CULTIVATEUR A KOULWEOGO"
+    },
+    {
+        "association_id": "d9e88cd4296c01bc2fef5494e2d6a877",
+        "role": "VICE-PRESIDENT",
+        "name": "DEMBEGA SALIF, CULTIVATEUR A KOULWEOGO"
+    },
+    {
+        "association_id": "d9e88cd4296c01bc2fef5494e2d6a877",
+        "role": "PRESIDENT",
+        "name": "KABORE HAMADO, CULTIVATEUR A KOULWEOGO"
+    },
+    {
+        "association_id": "9509bcf9383a44b7e3a7bc51302c1aef",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E OUEDRAOGO/OUEDRAOGO SALIMATA, S/C DE OUEDRAOGO MARIAM, 01 BP 5207 OUAGADOUGOU 01, TEL. 70 17 00 82"
+    },
+    {
+        "association_id": "9509bcf9383a44b7e3a7bc51302c1aef",
+        "role": "PRESIDENT",
+        "name": "GANSORE LASSINA, 01 BP 3244 BOBO-DIOULASSO 01, TEL. 70 27 64 98 PAGE 35 09 MARS 2006 JOURNAL OFFICIEL DU BURKINA FASO N°10 309 VICE- PRESIDENT GANSONRE ISSOUF, S/C GANSONRE LASSINA 01 BP 3244 BOBO-DIOULASSO 01"
+    },
+    {
+        "association_id": "9509bcf9383a44b7e3a7bc51302c1aef",
+        "role": "TRESORIERE",
+        "name": "OUEDRAOGO MARIAM, 01 BP 5207 OUAGADOUGOU 01, TEL. 70 75 71 57 1ER"
+    },
+    {
+        "association_id": "79632e472577c51a14f63f65c30070fa",
+        "role": "CONSEILLERS",
+        "name": "SORO MADY, TEL. 78 87 18 98 RICCI DANIELA TEL 0039 32 84 64 92 22"
+    },
+    {
+        "association_id": "79632e472577c51a14f63f65c30070fa",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "KOUMARE OUSENI, TEL. 76 41 09 21"
+    },
+    {
+        "association_id": "79632e472577c51a14f63f65c30070fa",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SAVADOGO SALAM, TEL. 76 68 97 51"
+    },
+    {
+        "association_id": "79632e472577c51a14f63f65c30070fa",
+        "role": "PRESIDENT",
+        "name": "DEMBELE DRISSA, TEL. 76 53 14 23 BP 3772 BOBO-DIOULASSO"
+    },
+    {
+        "association_id": "79632e472577c51a14f63f65c30070fa",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "KOITA HAKRI, TEL. 76 67 98 72"
+    },
+    {
+        "association_id": "79632e472577c51a14f63f65c30070fa",
+        "role": "TRESORIERE",
+        "name": "BAZIE RAMATA, TEL. 20 97 44 75"
+    },
+    {
+        "association_id": "0d4559cbd5e3a5b399907d9e4cb4b0f8",
+        "role": "SECRETAIRE ADJOINT AUX AFFAIRES CULTURELLES",
+        "name": "ET SPORTIVES ZIO WAMBIE, CULTIVATEUR AU VILLAGE DE VALIOU DEPARTEMENT DE POUNI"
+    },
+    {
+        "association_id": "0d4559cbd5e3a5b399907d9e4cb4b0f8",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'INFORMATION ET A L'ORGANISATION ZIO BESSIOU MICHEL DIT BAWOMON, CULTIVATEUR AU VILLAGE DE VALIOU DEPARTEMENT DE POUNI"
+    },
+    {
+        "association_id": "0d4559cbd5e3a5b399907d9e4cb4b0f8",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E TIEMTORE MARIAM, ENSP 03 BP 7002 OUAGADOUGOU 03, CEL. 70 26 19 05"
+    },
+    {
+        "association_id": "0d4559cbd5e3a5b399907d9e4cb4b0f8",
+        "role": "PRESIDENT",
+        "name": "IDO IBIE KOABIE, INGENIEUR DES EAUX ET FORÊTS, TEL. 70 75 39 19 PNGT NAHOURI BP 41"
+    },
+    {
+        "association_id": "0d4559cbd5e3a5b399907d9e4cb4b0f8",
+        "role": "SECRETAIRE ADJOINT A L'INFORMATION",
+        "name": "ET A L'ORGANISATION ZIO BESSIOU MICHEL DIT BAWOMON, CULTIVATEUR AU VILLAGE DE VALIOU DEPARTEMENT DE POUNI"
+    },
+    {
+        "association_id": "0d4559cbd5e3a5b399907d9e4cb4b0f8",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "ET A L'ORGANISATION IDO KOAMA, TECHNICIEN DE PRODUCTION, TEL. 78 81 91 35 SIRRES 01 BP 1486 OUAGA 01"
+    },
+    {
+        "association_id": "0d4559cbd5e3a5b399907d9e4cb4b0f8",
+        "role": "TRESORIERE",
+        "name": "GENERALE KABORE/BONKOUNGOU MADELEINE, CMA/SECTEUR N°30 BP 6150 OUAGADOUGOU 05, CEL. 76 64 07 40"
+    },
+    {
+        "association_id": "436ffce43e9478e81f13365399545020",
+        "role": "SECRETAIRE ADJOINT AUX AFFAIRES CULTURELLES",
+        "name": "ET SPORTIVES ZIO WAMBIE, CULTIVATEUR AU VILLAGE DE VALIOU DEPARTEMENT DE POUNI"
+    },
+    {
+        "association_id": "436ffce43e9478e81f13365399545020",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'INFORMATION ET A L'ORGANISATION ZIO BESSIOU MICHEL DIT BAWOMON, CULTIVATEUR AU VILLAGE DE VALIOU DEPARTEMENT DE POUNI"
+    },
+    {
+        "association_id": "436ffce43e9478e81f13365399545020",
+        "role": "SECRETAIRE GENERAL",
+        "name": "IDO BELELE JOSEPH, SOCIOLOGUE, TEL. 70 23 48 54 AJPO 06 BP 10243 OUAGA 06"
+    },
+    {
+        "association_id": "436ffce43e9478e81f13365399545020",
+        "role": "PRESIDENT",
+        "name": "IDO IBIE KOABIE, INGENIEUR DES EAUX ET FORÊTS, TEL. 70 75 39 19 PNGT NAHOURI BP 41"
+    },
+    {
+        "association_id": "436ffce43e9478e81f13365399545020",
+        "role": "SECRETAIRE ADJOINT A L'INFORMATION",
+        "name": "ET A L'ORGANISATION ZIO BESSIOU MICHEL DIT BAWOMON, CULTIVATEUR AU VILLAGE DE VALIOU DEPARTEMENT DE POUNI"
+    },
+    {
+        "association_id": "436ffce43e9478e81f13365399545020",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "ET A L'ORGANISATION IDO KOAMA, TECHNICIEN DE PRODUCTION, TEL. 78 81 91 35 SIRRES 01 BP 1486 OUAGA 01"
+    },
+    {
+        "association_id": "b290fb7472c540d314eed982f2181766",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'INFORMATION:GANAME ALLASSANE, CULTIVATEUR, SECTEUR 6, TITAO, S/C 40 55 70 38"
+    },
+    {
+        "association_id": "b290fb7472c540d314eed982f2181766",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "OUEDRAOGO SALIF, ENSEIGNANT, SECTEUR 6, S/C 40 55 70 38"
+    },
+    {
+        "association_id": "b290fb7472c540d314eed982f2181766",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SAVADOGO YASSIA, ENSEIGNEMENT ECOLE B SECTEUR 3"
+    },
+    {
+        "association_id": "b290fb7472c540d314eed982f2181766",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO EL HADJI ABDOU AZIZ, BP 40 TITAO, TEL. 40 55 70 38 VICE PRESIDENT MAIGA EL HADJI MADI, SALKOUDGOU, SECTEUR 5, TEL. 40 55 70 91"
+    },
+    {
+        "association_id": "b290fb7472c540d314eed982f2181766",
+        "role": "SECRETAIRE ADJOINT A L'INFORMATION",
+        "name": "GANAME ALLASSANE, CULTIVATEUR, SECTEUR 6, TITAO, S/C 40 55 70 38"
+    },
+    {
+        "association_id": "b290fb7472c540d314eed982f2181766",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "OUEDRAOGO ABASSE, COMMERÇANT, SECTEUR 6 TITAO, TEL. 40 55 70 64"
+    },
+    {
+        "association_id": "b290fb7472c540d314eed982f2181766",
+        "role": "TRESORIERE",
+        "name": "GENERALE GUIRO ROUKETOU, MENAGERE, SECTEUR 3, KAPALIN"
+    },
+    {
+        "association_id": "7acb12698d8c6322947b98a4434662ae",
+        "role": "SECRETAIRE GENERAL",
+        "name": "DIAKITE MAMADOU,"
+    },
+    {
+        "association_id": "7acb12698d8c6322947b98a4434662ae",
+        "role": "PRESIDENT",
+        "name": "TRAORE BOUKARY,"
+    },
+    {
+        "association_id": "7acb12698d8c6322947b98a4434662ae",
+        "role": "TRESORIER GENERAL",
+        "name": "ADJOINT BOUDO AUGUSTE,"
+    },
+    {
+        "association_id": "41ace55001276acaa463d20741882401",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "E AUX ACTIVITES FEMININES COMPAORE SONIA, S/C 01 BP 612 OUAGADOUGOU 01, TEL. 70 28 16 33"
+    },
+    {
+        "association_id": "41ace55001276acaa463d20741882401",
+        "role": "SECRETAIRE ADJOINT A L'ORGANISATION",
+        "name": "OUEDRAOGO ALBERT, 01 BP 3051 OUAGADOUGOU 01, TEL. 50 30 36 43"
+    },
+    {
+        "association_id": "41ace55001276acaa463d20741882401",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "TAPSOBA ALIDOU, 01 BP 3451 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "41ace55001276acaa463d20741882401",
+        "role": "SECRETAIRE GENERAL",
+        "name": "GUIMBOU SOULEYMANE, 04 BP 549 OUAGADOUGOU 04, TEL. 76 62 55 44"
+    },
+    {
+        "association_id": "41ace55001276acaa463d20741882401",
+        "role": "VICE-PRESIDENT",
+        "name": "BAGAGNAN AHMED, 01 BP 612 OUAGADOUGOU 01, TEL. 78 83 11 14"
+    },
+    {
+        "association_id": "41ace55001276acaa463d20741882401",
+        "role": "PRESIDENT",
+        "name": "COMPAORE M. SALAM, 11 BP 1218 OUAGADOUGOU 11, TEL. 50 30 16 86"
+    },
+    {
+        "association_id": "41ace55001276acaa463d20741882401",
+        "role": "SECRETAIRE ADJOINT A L'INFORMATION",
+        "name": "ET A LA PRESSE KONOMBO DRAMANE, 01 BP 613 OUAGADOUGOU 01,TEL. 78 88 86 53"
+    },
+    {
+        "association_id": "41ace55001276acaa463d20741882401",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "ET A LA PRESSE TAPSOBA OUMAROU, S/C 07 BP 5310 OUAGADOUGOU 07, TEL. 76 58 05 13"
+    },
+    {
+        "association_id": "41ace55001276acaa463d20741882401",
+        "role": "TRESORIERE",
+        "name": "CISSE FATIMATA, S/C 04 BP 549 OUAGADOUGOU 04, TEL. 76 58 98 49"
+    },
+    {
+        "association_id": "3705af5f46930cd8dcceae8b5729aa97",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO SIBIRI, 01 BP 1327 OUAGADOUGOU 01, TEL. 76 64 12 56"
+    },
+    {
+        "association_id": "3705af5f46930cd8dcceae8b5729aa97",
+        "role": "PRESIDENT",
+        "name": "BARRY YACOUBA JACOB, 09 BP 245 OUAGADOUGOU 09, TEL. 76 66 45 83"
+    },
+    {
+        "association_id": "3705af5f46930cd8dcceae8b5729aa97",
+        "role": "TRESORIER GENERAL",
+        "name": "YAMEOGO REMI, 10 BP 15853 OUAGADOUGOU 10,TEL. 70 27 48 10 TRESORIER GENERAL ADJOINT EL HADJI OUEDRAOGO OUMAROU TAGMASSER PAGE 39 09 MARS 2006 JOURNAL OFFICIEL DU BURKINA FASO N°10 313"
+    },
+    {
+        "association_id": "0608426fd748d7115536252ff12c8742",
+        "role": "SECRETAIRE GENERAL",
+        "name": "TRAORE BAMA, TEL. 50 32 54 97 76 57 28 51"
+    },
+    {
+        "association_id": "0608426fd748d7115536252ff12c8742",
+        "role": "VICE-PRESIDENT",
+        "name": "E TIANKA ALICE, TEL. 50 32 54 74 70 25 43 45"
+    },
+    {
+        "association_id": "0608426fd748d7115536252ff12c8742",
+        "role": "PRESIDENT",
+        "name": "ZIBARE BOUKARY, TEL. 50 32 54 96 76 61 68 62"
+    },
+    {
+        "association_id": "0608426fd748d7115536252ff12c8742",
+        "role": "TRESORIER GENERAL",
+        "name": "ZOROME ISSOUF, TEL. 50 32 54 11 76 61 42 66"
+    },
+    {
+        "association_id": "0608426fd748d7115536252ff12c8742",
+        "role": "TRESORIERE",
+        "name": "GENERALE ADJOINTE MONNE ALINE, TEL.50 32 53 73"
+    },
+    {
+        "association_id": "b7a10f1bb6d1a10e1201aa4c0d982eef",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "POAN GISELE, 01 BP 1668 OUAGADOUGOU 01, TEL. 50 37 00 76"
+    },
+    {
+        "association_id": "b7a10f1bb6d1a10e1201aa4c0d982eef",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E OUEDRAOGO FANTA 01 BP 13711 OUAGADOUGOU 01, TEL. 50 37 23 96"
+    },
+    {
+        "association_id": "b7a10f1bb6d1a10e1201aa4c0d982eef",
+        "role": "PRESIDENT",
+        "name": "E COULIBALY AWA, TEL. 01 BP 1668 OUAGADOUGOU 01, TEL. 50 37 00 76"
+    },
+    {
+        "association_id": "b7a10f1bb6d1a10e1201aa4c0d982eef",
+        "role": "TRESORIERE",
+        "name": "GENERALE ZONGO SALY SEMETA, TEL. 50 37 74 53"
+    },
+    {
+        "association_id": "09a991bec52287238f130c0ba8543151",
+        "role": "TRESORIERE ADJOINTE",
+        "name": "SANOU ELISABETH, TEL. 20 97 12 26"
+    },
+    {
+        "association_id": "09a991bec52287238f130c0ba8543151",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "E A L'ORGANISATION SANOU EUGENIE DE JOSEPH, TEL. 20 97 48 08"
+    },
+    {
+        "association_id": "09a991bec52287238f130c0ba8543151",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "MILLOGO MATENE ELYSE, BP 392, TEL. 20 97 14 13"
+    },
+    {
+        "association_id": "09a991bec52287238f130c0ba8543151",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E COMBASSERE SANON BLANDINE, TEL. 20 97 48 08"
+    },
+    {
+        "association_id": "09a991bec52287238f130c0ba8543151",
+        "role": "VICE-PRESIDENT",
+        "name": "E SANON/KANKO ANASTASIE, BP 997, TEL. 20 97 47 40"
+    },
+    {
+        "association_id": "09a991bec52287238f130c0ba8543151",
+        "role": "PRESIDENT",
+        "name": "E TRAORE BERTE FATOUMATA, BP 392, TEL. 20 97 14 13"
+    },
+    {
+        "association_id": "09a991bec52287238f130c0ba8543151",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "SANOU PAÏ MARIE, TEL. 70 25 85 59"
+    },
+    {
+        "association_id": "09a991bec52287238f130c0ba8543151",
+        "role": "TRESORIERE",
+        "name": "GENERALE ZANGO M. CONSTANCE SANOU BP 236, TEL. 20 97 23 14 20 98 29 17"
+    },
+    {
+        "association_id": "1154cbef48fe7716f8629dcbe23de89d",
+        "role": "PRESIDENT",
+        "name": "FONDATEUR PASTEUR SIMPORE SIDBEWINDIN PASCAL, 01 BP 2336 OUAGADOUGOU 01, TEL. 50 37 15 06 76 44 30 38"
+    },
+    {
+        "association_id": "fc42a5ad4ba6f89e5c1f75ddda73fa31",
+        "role": "RESPONSABLE ADJOINT A L'INFORMATION",
+        "name": "ET A LA FORMATION DES ARMES JULIE ASSITA, 01 BP 15072 OUAGADOUGOU 01, TEL. 76 54 57 01"
+    },
+    {
+        "association_id": "fc42a5ad4ba6f89e5c1f75ddda73fa31",
+        "role": "PRESIDENT",
+        "name": "ZOUNGMORE H. ROGER, S/C BP 47 KOUPELA, TEL. 70 25 80 80"
+    },
+    {
+        "association_id": "fc42a5ad4ba6f89e5c1f75ddda73fa31",
+        "role": "RESPONSABLE A L'INFORMATION",
+        "name": "ET A LA FORMATION BOUA BOWENDE JOSIANE, 10 BP 13698 OUAGADOUGOU 10, TEL. 78 88 12 98"
+    },
+    {
+        "association_id": "fc42a5ad4ba6f89e5c1f75ddda73fa31",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "YAMEOGO I. BOUKARE, S/C BP 47 KOUPELA, TEL. 70 15 48 01"
+    },
+    {
+        "association_id": "fc42a5ad4ba6f89e5c1f75ddda73fa31",
+        "role": "TRESORIERE",
+        "name": "BERE THERESE, S/C BP 47 KOUPELA, S/C TEL. 40 70 03 74"
+    },
+    {
+        "association_id": "ca582527284a1535d6b0b7afc08800a3",
+        "role": "PRESIDENT",
+        "name": "ZOUNGMORE H. ROGER, S/C BP 47 KOUPELA, TEL. 70 25 80 80"
+    },
+    {
+        "association_id": "ca582527284a1535d6b0b7afc08800a3",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "YAMEOGO I. BOUKARE, S/C BP 47 KOUPELA, TEL. 70 15 48 01"
+    },
+    {
+        "association_id": "ca582527284a1535d6b0b7afc08800a3",
+        "role": "TRESORIERE",
+        "name": "BERE THERESE, S/C BP 47 KOUPELA, S/C TEL. 40 70 03 74"
+    },
+    {
+        "association_id": "c03e4e4488bb40cb32bcf79cc7b224cc",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'ANIMATION, INFORMATION, AUX ACTIVITES CULTURELLES ET SPORTIVES ZOROME GERHARD, BP 39 OUAHIGOUYA, SECTEUR 13, TEL. 76 60 77 96"
+    },
+    {
+        "association_id": "c03e4e4488bb40cb32bcf79cc7b224cc",
+        "role": "SECRETAIRE ADJOINT A L'ORGANISATION",
+        "name": ", COORDINATION ET A LA MOBILISATION OUEDRAOGO MAHAMADI, BP 18 KAYA, SECTEUR 4, TEL. 70 28 27 83"
+    },
+    {
+        "association_id": "c03e4e4488bb40cb32bcf79cc7b224cc",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": ", COORDINATION ET A LA MOBILISATION BIRBA BABOU JEAN, 01 BP 4601 OUAGADOUGOU 01, SECTEUR 25, TEL. 78 81 65 38"
+    },
+    {
+        "association_id": "c03e4e4488bb40cb32bcf79cc7b224cc",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SAWADOGO SEYDOU, 12 BP 157 OUAGADOUGOU 12, SECTEUR 28, TEL. 70 25 11 29"
+    },
+    {
+        "association_id": "c03e4e4488bb40cb32bcf79cc7b224cc",
+        "role": "SECRETAIRE ADJOINT A L'ANIMATION",
+        "name": ", INFORMATION, AUX ACTIVITES CULTURELLES ET SPORTIVES ZOROME GERHARD, BP 39 OUAHIGOUYA, SECTEUR 13, TEL. 76 60 77 96"
+    },
+    {
+        "association_id": "c03e4e4488bb40cb32bcf79cc7b224cc",
+        "role": "PRESIDENT",
+        "name": "SIGZANGA GABRIEL, 06 BP 9045 OUAGADOUGOU 06, SECTEUR 28, TEL. 50 36 45 91 70 17 08 11"
+    },
+    {
+        "association_id": "c03e4e4488bb40cb32bcf79cc7b224cc",
+        "role": "SECRETAIRE A L'ANIMATION",
+        "name": ", INFORMATION, AUX ACTIVITES CULTURELLES ET SPORTIVES YAMEOGO DIDIER, 01 BP 4601 OUAGADOUGOU 01, SECTEUR 16, TEL. 76 55 27 64"
+    },
+    {
+        "association_id": "c03e4e4488bb40cb32bcf79cc7b224cc",
+        "role": "TRESORIER GENERAL",
+        "name": "OUEDRAOGO N. PIERRE, 01 BP 4601 OUAGADOUGOU 01, SECTEUR 27, TEL. 76 63 23 50"
+    },
+    {
+        "association_id": "c03e4e4488bb40cb32bcf79cc7b224cc",
+        "role": "TRESORIERE",
+        "name": "GENERALE ADJOINTE OUEDRAOGO ADELE, S/C 02 BP 5329 OUAGADOUGOU 02, SECTEUR 22, TEL. 78 90 88 16"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "association_id": "f5771e0113529d6bc9df261f11ac3dff",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO MOUSSA"
+    },
+    {
+        "association_id": "f5771e0113529d6bc9df261f11ac3dff",
+        "role": "VICE-PRESIDENT",
+        "name": "KAFANDO PIGA GEORGES"
+    },
+    {
+        "association_id": "f5771e0113529d6bc9df261f11ac3dff",
+        "role": "PRESIDENT",
+        "name": "E OUALI BOUAMPOUNDI CLAUDINE MIRIAM"
+    },
+    {
+        "association_id": "f5771e0113529d6bc9df261f11ac3dff",
+        "role": "TRESORIERE",
+        "name": "GENERALE LAMIZANA CHRISTINE"
+    },
+    {
+        "association_id": "7d94dcbd363461029d031895413a6042",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BADOLO BAWALA LEOPOLD"
+    },
+    {
+        "association_id": "7d94dcbd363461029d031895413a6042",
+        "role": "PRESIDENT",
+        "name": "YOUGBARE SEBASTIEN"
+    },
+    {
+        "association_id": "25ba4d7b7616c5bd8d28a98ba445c315",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E BOUGOUMA HAOULATOU"
+    },
+    {
+        "association_id": "25ba4d7b7616c5bd8d28a98ba445c315",
+        "role": "VICE-PRESIDENT",
+        "name": "E COMPAORE ANTOINETTE"
+    },
+    {
+        "association_id": "25ba4d7b7616c5bd8d28a98ba445c315",
+        "role": "PRESIDENT",
+        "name": "E NIKIEMA NATHALIE"
+    },
+    {
+        "association_id": "25ba4d7b7616c5bd8d28a98ba445c315",
+        "role": "TRESORIERE",
+        "name": "GENERALE BERE LIZETA"
+    },
+    {
+        "association_id": "f5da03de006ddbd80ea024119582f13b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "NEZIEN BECEBIE DENIS"
+    },
+    {
+        "association_id": "f5da03de006ddbd80ea024119582f13b",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO MOUSSA"
+    },
+    {
+        "association_id": "f5da03de006ddbd80ea024119582f13b",
+        "role": "TRESORIER GENERAL",
+        "name": "BATIENON EMILE CHARLES"
+    },
+    {
+        "association_id": "7cf630ca9b8438ae2bb69ed3194c58ab",
+        "role": "SECRETAIRE GENERAL",
+        "name": "NEZIEN BECEBIE DENIS"
+    },
+    {
+        "association_id": "7cf630ca9b8438ae2bb69ed3194c58ab",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO MOUSSA"
+    },
+    {
+        "association_id": "7cf630ca9b8438ae2bb69ed3194c58ab",
+        "role": "TRESORIER GENERAL",
+        "name": "BATIENON EMILE CHARLES"
+    }
+]

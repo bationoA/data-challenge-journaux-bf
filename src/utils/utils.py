@@ -4,14 +4,14 @@ import json
 import glob
 import shutil
 import hashlib
+import pandas as pd
+from tqdm import tqdm
 
 # CONSTANTS
 DATA_FOLDER = os.path.join("data")
 TEMP_FOLDER = os.path.join("data", "temp")
 DOWNLOADED_FILES_FOLDER = os.path.join(DATA_FOLDER, "journaux")
 CSV_FOLDER = os.path.join(DATA_FOLDER, "csv")
-
-import re
 
 
 def remove_journal_header(text):
@@ -79,23 +79,27 @@ def remove_special_characters(txt, keep: list = None):
 
 def extract_declaration_sections(txt, keyword, first=True):
     txt = txt.lower().replace("é", "e")
-    # Compile a regular expression pattern to match sections based on the keyword
     recepisse = "cepisse"
     recepisse = "\s?".join(recepisse)
     recepisse = "r?e?" + recepisse
     denomination = "denomination"
     denomination = "\s?".join(denomination)
-    # pattern = re.compile(rf"\b{keyword}\b.*?president.*?(?=\br?{recepisse}|{denomination}\b|$)", re.DOTALL)
     pattern = re.compile(rf"{keyword}.*?president.*?(?=\br?{recepisse}|{denomination}\b|$)", re.DOTALL)
     # pattern = re.compile(rf"\b{keyword}\b.*?(?=\b{keyword}\b|$)", re.DOTALL)
     # Find all matches of the pattern in the text
     sections = pattern.findall(txt)
     if len(sections):
         sections = [sc.strip() for sc in sections]
-    else:
-        return ""
 
     return sections if not first else sections[0]
+
+
+def remove_date_from_string(text):
+    # Define a pattern to match the date at the end of the string
+    pattern = r'\d{1,2}\s+(janvier|fevrier|mars|avril|mai|juin|juillet|aout|septembre|octobre|novembre|decembre)\s+\d{4}$'
+
+    # Use re.sub to replace the matched date with an empty string
+    return re.sub(pattern, '', text)
 
 
 def extract_declaration_numbers_and_dates(txt):
@@ -106,22 +110,32 @@ def extract_declaration_numbers_and_dates(txt):
     declaration += "\s?d?\s?'?"
     declaration += "\s?".join("association")
     # Define the pattern to match the declaration numbers
-    pattern = re.compile(r"\s?.*?" + declaration + "\s?(.*?du?.*?\d{4}\.?)")
+    pattern = re.compile(r"\s?.*?" + declaration + "\s?(.*?du.*?\d{4})\.?")
     # Find all matches of the pattern in the text
-    declaration_numbers = pattern.findall(txt)
+    declaration_numbers = pattern.findall(txt)  # declaration numbers
+
+    new_declaration_numbers = []
+    tmp = declaration_numbers.copy()
+    for dn_dt in tmp:
+        new_match = dn_dt
+        if len(dn_dt) >= 150:
+            new_pattern = re.compile(r"(.*?\/+.*?\d{4})\.?")
+            new_matches = new_pattern.findall(dn_dt)
+            if len(new_matches):
+                new_match = new_matches[0]
+                _num = remove_date_from_string(new_match)
+                _date = new_match.removeprefix(_num)
+                new_match = _num + " du " + _date
+            else:
+                continue
+        new_declaration_numbers.append(new_match)
+
+        declaration_numbers.append(dn_dt)
+
     # Remove 'n°'
-    declaration_numbers_dates = []
-    for dc in declaration_numbers:
-        dc = dc.removeprefix("n°").removeprefix(" n").removeprefix('n"').removesuffix(".")
-        if "du" in dc:
-            declaration_numbers_dates.append([_.strip() for _ in dc.split("du")])
-        else:
-            split_dc = dc.split(" ")
-            dc_num = " ".join(split_dc[0:-3])
-            dc_date = " ".join(split_dc[-3:])
-            declaration_numbers_dates.append((dc_num, dc_date))
-    # declaration_numbers_dates = [dc.removeprefix("n°").removeprefix(" n").removeprefix('n"').split("du") for dc in
-    #                              declaration_numbers]
+    declaration_numbers_dates = [dc.removeprefix("n°").removeprefix(" n").removeprefix('n"').split("du") for dc in
+                                 new_declaration_numbers]
+    # print(f"declaration_numbers_dates: {declaration_numbers_dates}")
     results = []
     for dn_dt in declaration_numbers_dates:
         try:
@@ -139,7 +153,18 @@ def get_association_name(txt: str) -> str:
     txt = remove_special_characters(txt=txt, keep=["(", ")"])
 
     # Pattern to find the denomination
-    pattern = re.compile(r"(?i)(?u)denomination:?\s*(.*?)(?:\s*en abrege|abrege|siege|\()", re.DOTALL)
+    pattern = re.compile(rf"(?i)(?u)denomination:?\s*(.*?)(?:\s*en abrege|abrege|siege|\()", re.DOTALL)
+
+    matches = re.findall(pattern, txt)
+    name = matches[0].strip().upper() if len(matches) else ""
+    if name != "":
+        return name
+
+    # --- Update the regex pattern and retry
+    # Pattern to find the denomination
+    denomination = "?".join("denomi")
+    denomination += "?nation"
+    pattern = re.compile(rf"(?i)(?u){denomination}:?\s*(.*?)(?:\s*en abrege|abrege|siege|\()", re.DOTALL)
 
     matches = re.findall(pattern, txt)
     return matches[0].strip().upper() if len(matches) else ""
@@ -149,7 +174,9 @@ def get_abbreviation_1(txt: str, denomination: str) -> str:
     """
     Pattern to find the abbreviation based on the denomination: denomination followed by abbreviation like '(A.S.K.)'
     """
-    txt = txt.lower().replace("é", "e").replace('"', '').replace("'", "")
+    txt = txt.lower().replace("é", "e").replace("è", "e").replace('"', '').replace("'", "")
+
+    # print(f"txt: {txt}")
 
     denomination = denomination.lower()
 
@@ -157,10 +184,24 @@ def get_abbreviation_1(txt: str, denomination: str) -> str:
 
     # Find abbreviation in the text
     matches = re.findall(pattern, txt.lower())
+    # print(f"matches: {matches}")
     abbreviation = matches[0].strip().upper() if len(matches) else ""
+    if abbreviation == "":
+        return ""
     abbreviation = abbreviation.removesuffix(".")
 
-    return abbreviation
+    # Check if abbreviation is a combination of words without .
+    words = abbreviation.split(" ")
+    if len(words) <= 1:
+        return abbreviation  # If abbreviation does not contain any spaces
+
+    words = [w for w in words if len(w) >= 2]  # Get words of more than 2 characters
+    if len(words) == 0:
+        return abbreviation  # Return abbreviation if all words are in fact single letters like (A B C)
+
+    # If the extracted abbreviation is composed of words instead of single letters
+    # Then the abbreviation is not a valid one
+    return ""
 
 
 def get_abbreviation_2(txt: str, denomination: str) -> str:
@@ -176,7 +217,16 @@ def get_abbreviation_2(txt: str, denomination: str) -> str:
     abbreviation = matches[0].strip().upper() if len(matches) else ""
     abbreviation = abbreviation.removesuffix(".")
 
-    return abbreviation
+    # Check if abbreviation is a combination of words without .
+    words = abbreviation.split(" ")
+    if len(words) <= 1:
+        return abbreviation  # If abbreviation does not contain any spaces
+
+    words = [w for w in words if len(w) >= 2]  # Get words of more than 2 characters
+    if len(words) == 0:
+        return abbreviation  # Return abbreviation if all words are in fact single letters like A B C
+
+    return ""
 
 
 def get_association_abbreviation(txt: str, denomination: str = None) -> str:
@@ -195,7 +245,7 @@ def get_association_abbreviation(txt: str, denomination: str = None) -> str:
     if abbreviation != "":
         return abbreviation
 
-    # If abbreviation not foound
+    # If abbreviation not found
     # Try pattern: denomination followed by abbreviation like 'A.S.K.'
     abbreviation = get_abbreviation_2(txt=txt, denomination=denomination)
 
@@ -206,14 +256,12 @@ def get_siege(txt: str) -> str:
     txt = txt.lower().replace("é", "e").replace("è", "e").replace('"', '').replace("'", "")
     txt = remove_special_characters(txt=txt)
 
-    # print(txt)
-
     siege = "\s?".join("siege")
-    objectif = "\s?".join("objectif")
+    end_with = ["objectif", "objet principal", "mission principal", "domaine dintervention", "a pour but", "objectif",
+                "objet", "mission", "\s?".join("objectif"), "p?r?i?n?cipal"]
+    end_with = "|".join(end_with)
 
-    pattern = re.compile(rf"{siege}\s*?:?(.*?)(?:\s*{objectif}|,|\.)")
-
-    # print(f"\n{pattern}")
+    pattern = re.compile(rf"{siege}\s*?:?(.*?)(?:\s*{end_with}|,|\.)")
 
     # Find abbreviation in the text
     matches = re.findall(pattern, txt)
@@ -225,42 +273,39 @@ def get_siege(txt: str) -> str:
 
 def get_objectifs(txt: str) -> str:
     txt = txt.lower().replace("é", "e").replace("è", "e").replace('"', '').replace("'", "")
-    # txt = remove_special_characters(txt=txt)
 
-    # print(txt)
+    start_with = ["objectif principal", "objet principal", "mission principal", "domaine dintervention", "a pour but",
+                  "objectifs?", "objet", "mission", "\s?".join("objectif"), "p?r?i?n?cipal"]
 
-    # denomination = denomination.lower()
+    end_with = ["la composition", "composition", "les noms", "prenoms", "noms", "prenoms", "nom", "prenom",
+                "nom et prenom",
+                "le bureau", "bureau", "domaine dintervention", "a pour but", "principaux dirigeants?", "dirigeant"]
 
-    objectif = "\s?".join("objectif")
+    start_with = "|".join(start_with)
+    end_with = "|".join(end_with)
 
-    stop_at = ["la composition", "les noms", "prenoms", "noms", "prenoms", "nom", "prenom", "nom et prenom", "noms",
-               "le bureau", "bureau", "domaine d'intervention", "a pour but"]
-
-    stop_at = "|".join(stop_at)
-
-    pattern = re.compile(
-        rf"{objectif}s?(.*?)(?:\s*{stop_at})")
-
-    # print(f"\n{pattern}")
+    pattern = rf"\b(?:{start_with})(.*?)\b(?:{end_with})"
+    pattern = re.compile(pattern, re.IGNORECASE | re.DOTALL)
 
     # Find abbreviation in the text
     matches = re.findall(pattern, txt)
+
     objectifs = matches[0].strip().capitalize() if len(matches) else ""
 
     return objectifs
 
 
-def extract_association(file: str, dec_num_date: str) -> dict | None:
+def extract_association(section_text: str, dec_num_date: str) -> dict | None:
     """
     Extract information related to the association, excluding the members
-    :param file:
+    :param section_text:
     :param dec_num_date:
     :return:
     """
     association = dict()
 
     num, dt = dec_num_date
-    section = extract_declaration_sections(keyword=num, txt=file, first=True)
+    section = extract_declaration_sections(keyword=num, txt=section_text, first=True)
 
     if section == "":
         return None
@@ -270,8 +315,6 @@ def extract_association(file: str, dec_num_date: str) -> dict | None:
     association['date'] = dt
     association['denomination'] = get_association_name(txt=section)
     association['objective'] = get_objectifs(txt=section)
-    if association['denomination'] == "" or association['objective'] == "":
-        return None
     association['abbreviation'] = get_association_abbreviation(txt=section, denomination=association['denomination'])
     association['siege'] = get_siege(txt=section)
 
@@ -336,15 +379,61 @@ def extract_association_details(file_text: str, dec_num_date: str, roles: list) 
     section = extract_declaration_sections(keyword=num, txt=file_text, first=True)
     association["declaration number"] = dec_num_date
 
-    details = extract_association(file=file_text, dec_num_date=dec_num_date)
+    details = extract_association(section_text=file_text, dec_num_date=dec_num_date)
 
     if details is None:
+        print(f"dec_num_date: {dec_num_date}")
         return None
 
-    association['details'] = extract_association(file=file_text, dec_num_date=dec_num_date)
+    association['details'] = details
     association['members'] = extract_members(section=section, roles=roles)
 
     return association
+
+
+def add_to_dataframe(list_of_dicts: list, df: pd.DataFrame = None) -> pd.DataFrame:
+    # Initialize an empty DataFrame
+    if df is None:
+        cols = list(list_of_dicts[0].keys())
+        df = pd.DataFrame(columns=cols)
+
+    # Iterate over each dictionary and append it to the DataFrame
+    df = df.copy()
+    df = pd.concat([df.copy(), pd.DataFrame(list_of_dicts)])
+
+    return df.copy()
+
+
+def generate_and_save_df(entity: str) -> pd.DataFrame | None:
+    """
+        Extract and save json temporary files of associations or members as csv
+        :param entity: 'associations' OR 'members'
+        :return:
+        """
+    if entity not in ['associations', 'members']:
+        print(f"ERROR: 'entity' must be either 'associations' OR 'members'. {entity} was given.")
+        return None
+    list_tmp_names = os.listdir(os.path.join(TEMP_FOLDER, entity))
+
+    list_tmp_paths = [os.path.join(TEMP_FOLDER, entity, name) for name in list_tmp_names]
+
+    df = None
+    for path in tqdm(list_tmp_paths):
+        json_file = load_json(path)
+        if len(json_file) != 0:
+            df = add_to_dataframe(df=df, list_of_dicts=json_file)
+
+    # Remove commas from all cells to avoid value overflow in other cells due to the presence if commas
+    df = df.replace(',', '', regex=True)
+
+    # Save as csv
+    try:
+        df.to_csv(os.path.join(CSV_FOLDER, f"{entity}.csv"), sep=";", index=False)
+    except BaseException as e:
+        print(f"{entity.title()} df SAVING ERROR: {e.__str__()}")
+        return None
+
+    return df
 
 
 def read_txt_file(file_path: str) -> str | None:

@@ -1,0 +1,612 @@
+[
+    {
+        "association_id": "19a0f7e959c74717b030ab3a0fa60f9c",
+        "role": "SECRETAIRE GENERAL",
+        "name": "MOURFOU ADAMA"
+    },
+    {
+        "association_id": "19a0f7e959c74717b030ab3a0fa60f9c",
+        "role": "PRESIDENT",
+        "name": "KAMBIRE DINANIBE"
+    },
+    {
+        "association_id": "e67e510b9d3adc6a5268f3f73ba94e54",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "TRAORE FOUSSENI N° 2, SECTEUR 15, BOBO-DIOULASSO, TEL. 77 77 81 63"
+    },
+    {
+        "association_id": "e67e510b9d3adc6a5268f3f73ba94e54",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SISSAO MAHAMADOU, SECTEUR 17, BOBO-DIOULASSO, TEL. 76 98 26 09"
+    },
+    {
+        "association_id": "e67e510b9d3adc6a5268f3f73ba94e54",
+        "role": "PRESIDENT",
+        "name": "SANOU MAMADOU, SECTEUR 25, BOBO- DIOULASSO, TEL. 78 49 06 48"
+    },
+    {
+        "association_id": "e67e510b9d3adc6a5268f3f73ba94e54",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "TRAORE FOUSSENJ N° 1, SECTEUR 33, BOBO-DIOULASSO, TEL. 76 51 42 50"
+    },
+    {
+        "association_id": "f885ce9d7c76ae0c9652ed3b35110141",
+        "role": "SECRETAIRE GENERAL",
+        "name": "MILLOGO OUROHIRE, TEL. 70 11 04 24"
+    },
+    {
+        "association_id": "f885ce9d7c76ae0c9652ed3b35110141",
+        "role": "PRESIDENT",
+        "name": "KONATE SOUTERE, TEL. 70 67 97 53"
+    },
+    {
+        "association_id": "45f70bbe433850734590e2dc2e412ad7",
+        "role": "SECRETAIRE GENERAL",
+        "name": "AKIBE AMINA"
+    },
+    {
+        "association_id": "45f70bbe433850734590e2dc2e412ad7",
+        "role": "PRESIDENT",
+        "name": "OUENA NIOKA"
+    },
+    {
+        "association_id": "a2f953325d2fda4f97b95da97a6389dd",
+        "role": "VICE-PRESIDENT",
+        "name": "E ARKHURST/NEBOUT PATRICIA MARIE BOMOH"
+    },
+    {
+        "association_id": "a2f953325d2fda4f97b95da97a6389dd",
+        "role": "PRESIDENT",
+        "name": "GUEYE BABACAR"
+    },
+    {
+        "association_id": "700863b61265ad95ce52c2462577200b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO KOUGOUYAM MOUKAILOU"
+    },
+    {
+        "association_id": "700863b61265ad95ce52c2462577200b",
+        "role": "PRESIDENT",
+        "name": "E KONE FATOUMATA NINA"
+    },
+    {
+        "association_id": "76093d787bf388a184376872cf8b809b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "NIKIEMA ISSOUF"
+    },
+    {
+        "association_id": "76093d787bf388a184376872cf8b809b",
+        "role": "PRESIDENT",
+        "name": "BELEM HAROUNA"
+    },
+    {
+        "association_id": "6ad26b41ec4e047f7c90c36e38aec61b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E ILBOUDO SOLANGE, TEL. 77 97 29 60"
+    },
+    {
+        "association_id": "6ad26b41ec4e047f7c90c36e38aec61b",
+        "role": "PRESIDENT",
+        "name": "E ILBOUDO NONGDO CECILE, TEL. 75 32 91 72"
+    },
+    {
+        "association_id": "6ad26b41ec4e047f7c90c36e38aec61b",
+        "role": "TRESORIERE",
+        "name": "GENERALE YANOGO PASCALINE, TEL. 58 33 44 15"
+    },
+    {
+        "association_id": "cfe9e8482b41f43691b1685b95e5f589",
+        "role": "SECRETAIRE GENERAL",
+        "name": "ZEMBA RATAMANEGRE SAMUEL, TEL. 65 08 27 95"
+    },
+    {
+        "association_id": "cfe9e8482b41f43691b1685b95e5f589",
+        "role": "PRESIDENT",
+        "name": "ZEMBA OUAMKOUMA ALBERT, TEL. 65 49 84 33"
+    },
+    {
+        "association_id": "cfe9e8482b41f43691b1685b95e5f589",
+        "role": "TRESORIER GENERAL",
+        "name": "ZEMBA NOBILA DIT ANDRE, TEL. 76 56 90 89 TRESORIER GENERAL ADJOINT ZEMBA TINGA, TEL. 67 32 73 70"
+    },
+    {
+        "association_id": "c25892bc403b62b7f91b06d303462a56",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BELEM P. WENCESLAS,"
+    },
+    {
+        "association_id": "c25892bc403b62b7f91b06d303462a56",
+        "role": "PRESIDENT",
+        "name": "SAVADOGO R. JACQUES, MANAGER DES ENTREPRISES DES PROJETS, TEL. 70 28 53 67 77 43 90 04"
+    },
+    {
+        "association_id": "af1d60f99a7c11892be91feb2b9d7b80",
+        "role": "VICE-PRESIDENT",
+        "name": "KONSIMBO BOUKARE"
+    },
+    {
+        "association_id": "af1d60f99a7c11892be91feb2b9d7b80",
+        "role": "PRESIDENT",
+        "name": "KONSIMBO LAMOUSSA RASMANE"
+    },
+    {
+        "association_id": "f65815a00a847e063d8e979350720249",
+        "role": "VICE-PRESIDENT",
+        "name": "KONSIMBO BOUKARE"
+    },
+    {
+        "association_id": "f65815a00a847e063d8e979350720249",
+        "role": "PRESIDENT",
+        "name": "KONSIMBO LAMOUSSA RASMANE"
+    },
+    {
+        "association_id": "c12a5c081b84c65bd61f28727a24ad6e",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E BANSE SAKINATOU"
+    },
+    {
+        "association_id": "c12a5c081b84c65bd61f28727a24ad6e",
+        "role": "PRESIDENT",
+        "name": "BARA SAHANOUNA"
+    },
+    {
+        "association_id": "5c1d59b10288c2afb1434edb02f3625e",
+        "role": "TRESORIERE ADJOINTE",
+        "name": "COMPAORE/TIENDREBEOGO DENISE, TE. 70 14 90 08"
+    },
+    {
+        "association_id": "5c1d59b10288c2afb1434edb02f3625e",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'ORGANISATION COMPAORE TIBILA ANTOINE, TEL. 78 52 23 61"
+    },
+    {
+        "association_id": "5c1d59b10288c2afb1434edb02f3625e",
+        "role": "SECRETAIRE ADJOINT A L'ORGANISATION",
+        "name": "COMPAORE TIBILA ANTOINE, TEL. 78 52 23 61"
+    },
+    {
+        "association_id": "5c1d59b10288c2afb1434edb02f3625e",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "COMPAORE NONGMA, TEL. 78 59 17 64"
+    },
+    {
+        "association_id": "5c1d59b10288c2afb1434edb02f3625e",
+        "role": "SECRETAIRE GENERAL",
+        "name": "COMPAORE HAROUNA, TEL. 79 08 86 51"
+    },
+    {
+        "association_id": "5c1d59b10288c2afb1434edb02f3625e",
+        "role": "VICE-PRESIDENT",
+        "name": "COMPAORE DESIRE, TEL. 70 09 08 19"
+    },
+    {
+        "association_id": "5c1d59b10288c2afb1434edb02f3625e",
+        "role": "PRESIDENT",
+        "name": "COMPAORE ABDOULAYE, TEL. 70 70 00 55"
+    },
+    {
+        "association_id": "5c1d59b10288c2afb1434edb02f3625e",
+        "role": "TRESORIERE",
+        "name": "ADJOINTE COMPAORE/TIENDREBEOGO DENISE, TE. 70 14 90 08"
+    },
+    {
+        "association_id": "326862db7ce2c98278ca16d7249cdde4",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO HONORE, TEL. 74 37 39 70"
+    },
+    {
+        "association_id": "326862db7ce2c98278ca16d7249cdde4",
+        "role": "PRESIDENT",
+        "name": "BERE POUSWENDE MICHEL, TEL. 79 55 14 50"
+    },
+    {
+        "association_id": "326862db7ce2c98278ca16d7249cdde4",
+        "role": "TRESORIERE",
+        "name": "GENERALE NION ANGELLE, TEL. 79 69 98 61/70 28 98 33"
+    },
+    {
+        "association_id": "24f2c6dcdc11aa6d07dbc9ede641f74b",
+        "role": "TRESORIERE ADJOINTE",
+        "name": "GNOULA MIMBOABA, TEL. 62 25 90 07"
+    },
+    {
+        "association_id": "24f2c6dcdc11aa6d07dbc9ede641f74b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "YONLI LABIDI, TEL. 71 71 25 57"
+    },
+    {
+        "association_id": "24f2c6dcdc11aa6d07dbc9ede641f74b",
+        "role": "VICE-PRESIDENT",
+        "name": "TANKOANO BAHOUABA, TEL. 70 69 01 52"
+    },
+    {
+        "association_id": "24f2c6dcdc11aa6d07dbc9ede641f74b",
+        "role": "PRESIDENT",
+        "name": "OBULBIGAT. CYRILLE, TEL. 70 24 85 72"
+    },
+    {
+        "association_id": "24f2c6dcdc11aa6d07dbc9ede641f74b",
+        "role": "TRESORIERE",
+        "name": "GENERALE KOANARI D. THERESE, TEL. 71 96 46 77"
+    },
+    {
+        "association_id": "eea61836d78b801e15444313d08cf1b0",
+        "role": "VICE-PRESIDENT",
+        "name": "KAGONE RACHID FARIK RAPESSIAN"
+    },
+    {
+        "association_id": "eea61836d78b801e15444313d08cf1b0",
+        "role": "PRESIDENT",
+        "name": "NACOULMA SAMADO"
+    },
+    {
+        "association_id": "6e2f60177629f382b6dbbe9a5558bdee",
+        "role": "VICE-PRESIDENT",
+        "name": "NIKIEMA MOUSSA"
+    },
+    {
+        "association_id": "6e2f60177629f382b6dbbe9a5558bdee",
+        "role": "PRESIDENT",
+        "name": "GNAKENE MOUSTAPHA"
+    },
+    {
+        "association_id": "7b5f6d1a1adf8927389f50681d9aedb8",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E DIARRA/LOMPO MARIE NADEGE"
+    },
+    {
+        "association_id": "7b5f6d1a1adf8927389f50681d9aedb8",
+        "role": "PRESIDENT",
+        "name": "ZOROM SEYDOU"
+    },
+    {
+        "association_id": "e30f77498e1d602688bc5d5b25da41ed",
+        "role": "SECRETAIRE GENERAL",
+        "name": "KABORE MOUSSA"
+    },
+    {
+        "association_id": "e30f77498e1d602688bc5d5b25da41ed",
+        "role": "PRESIDENT",
+        "name": "PALOGO OUAONGO"
+    },
+    {
+        "association_id": "142810697cd6c6fec56a01f87d6c8c0a",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SAVADOGO RAOGO JACQUES, MANAGER DES ENTREPRISES ET PROJETS, TEL. 70 42 52 72"
+    },
+    {
+        "association_id": "142810697cd6c6fec56a01f87d6c8c0a",
+        "role": "PRESIDENT",
+        "name": "BELEM SOULEYMANE, ANIMATEUR AGROPASTORAL, TEL. 66 24 01 47"
+    },
+    {
+        "association_id": "142810697cd6c6fec56a01f87d6c8c0a",
+        "role": "TRESORIERE",
+        "name": "GENERALE BELEM FELICITE,"
+    },
+    {
+        "association_id": "bc4600c129df8c5a20590f623f8b3be4",
+        "role": "SECRETAIRE GENERAL",
+        "name": "COULIBALY ARSENE BENJAMIN, TEL. 60 61 05 91"
+    },
+    {
+        "association_id": "bc4600c129df8c5a20590f623f8b3be4",
+        "role": "PRESIDENT",
+        "name": "COULIBALY MICHEL, TEL. 72 77 08 81"
+    },
+    {
+        "association_id": "d9a2394384f4f9cf9c4c5ab46ebd1bed",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BARRO ABDOULAYE, TEL. 76 66 72 25"
+    },
+    {
+        "association_id": "d9a2394384f4f9cf9c4c5ab46ebd1bed",
+        "role": "PRESIDENT",
+        "name": "DA SIE PARFAIT, TEL. 76 48 51 81/70 14 83 68"
+    },
+    {
+        "association_id": "300eaf1f78ae43b158f2136c4ea8c9ea",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E KABORE/KALMOGO THERESE"
+    },
+    {
+        "association_id": "300eaf1f78ae43b158f2136c4ea8c9ea",
+        "role": "PRESIDENT",
+        "name": "KALMOGO GENEVIEVE MARIE FLORE NATACHA"
+    },
+    {
+        "association_id": "d6fb151a1c08da7f46516ad33a3b9234",
+        "role": "VICE-PRESIDENT",
+        "name": "DAKISSAGA SALIFOU"
+    },
+    {
+        "association_id": "d6fb151a1c08da7f46516ad33a3b9234",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO ABDOUL AZIZI 1ER"
+    },
+    {
+        "association_id": "8725412f87d7299e34ecddec4cdea682",
+        "role": "TRESORIERE ADJOINTE",
+        "name": "GENERALE SERE RAMATOU, ELEVE, TEL. 74 97 70 06"
+    },
+    {
+        "association_id": "8725412f87d7299e34ecddec4cdea682",
+        "role": "RESPONSABLE ADJOINT A L'INFORMATION",
+        "name": "GNISSIEN YACOUBA, ELEVE, TEL. 65 31 30 37"
+    },
+    {
+        "association_id": "8725412f87d7299e34ecddec4cdea682",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "DAMOLGA D. MARCELLIN, PIELA, TEL. 78 48 38 75"
+    },
+    {
+        "association_id": "8725412f87d7299e34ecddec4cdea682",
+        "role": "SECRETAIRE GENERAL",
+        "name": "DAO ZAKARIA, ELEVE, TEL. 75 75 79 85"
+    },
+    {
+        "association_id": "8725412f87d7299e34ecddec4cdea682",
+        "role": "VICE-PRESIDENT",
+        "name": "DAO MOCTAR, INSTITUTEUR, TEL. 70 69 35 37"
+    },
+    {
+        "association_id": "8725412f87d7299e34ecddec4cdea682",
+        "role": "PRESIDENT",
+        "name": "GNISSIEN SOUMANA, ELEVE, TEL. 76 56 46 65"
+    },
+    {
+        "association_id": "8725412f87d7299e34ecddec4cdea682",
+        "role": "RESPONSABLE A LA MOBILISATION FEMININE",
+        "name": "DIALLO NAOMIE K., ELEVE, TEL. 66 62 52 62"
+    },
+    {
+        "association_id": "8725412f87d7299e34ecddec4cdea682",
+        "role": "RESPONSABLE ADJOINTE A LA MOBILISATION FEMININE",
+        "name": "GNISSIEN BINTOU, ELEVE, TEL. 66 40 41 17 RECEPISSE DE DECLARATION D'ASSOCIATION N° 2018- 002S/MA TD/REST/PGNG/HC DU 13 AOÛT 2018. LE HAUT-COMMISSAIRE DE LA PROVINCE DE LA GNAGNA, DONNE AUX PERSONNES CI-APRES DESIGNEES, RECEPISSE DE DECLARATION D'EXISTENCE POUR L'ASSOCIATION REGIE PAR LA LOI N° 064-2015/CNT DU 20 OCTOBRE 2015, PORTANT LIBERTE D'ASSOCIATION DENOMINATION^; ASSOCIATION MARIE YANNI EN ABREGE (AMY) SIEGE PIELA, DEPARTEMENT DE PIELA, PROVINCE DE LA GNAGNA, REGION DE L'EST OBJECTIFS L'ASSOCIATION MARIE YANNI (AMY) POURSUIT LES OBJECTIFS SUIVANTS INITIER DES PROJETS D'ORDRE ECONOMIQUE, ENVIRONNEMENTAL, SOCIAL ET CULTUREL IDENTIFIER, ETUDIER ET RECHERCHER DES SOURCES DE FINANCEMENTS SENSIBILISER LES POPULATIONS A LA SCOLARISATION ET AU MAINTIEN DES FILLES A L'ECOLE CONTRIBUER A LA HAUSSE DU TAUX DE SCOLARISATION EN GENERAL ET CELUI DES FILLES EN PARTICULIER SOUTENIR TOUTE ACTION EDUCATIVE DANS LA PROVINCE FAVORISER ET RENFORCER L'AMITIE ET LA SOLIDARITE ENTRE LES MEMBRES ET LES AUTRES ASSOCIATIONS LA COMPOSITION DE L'ORGANE DIRIGEANT DE L'ASSOCIATION DES FORCES VIVES DE KONKOLIKO A.F.V.K EST LA SUIVANTE"
+    },
+    {
+        "association_id": "8725412f87d7299e34ecddec4cdea682",
+        "role": "RESPONSABLE A L'INFORMATION",
+        "name": "GNISSIEN §IAKA, ELEVE, TEL. 78 79 44 32"
+    },
+    {
+        "association_id": "8725412f87d7299e34ecddec4cdea682",
+        "role": "TRESORIER GENERAL",
+        "name": "GNISSIEN DJIBRIL, ETUDIANT, TEL. 75 78 14 29"
+    },
+    {
+        "association_id": "8725412f87d7299e34ecddec4cdea682",
+        "role": "TRESORIERE",
+        "name": "ADJOINTE GENERALE SERE RAMATOU, ELEVE, TEL. 74 97 70 06"
+    },
+    {
+        "association_id": "b7c8569d344268c842ac7689da416d00",
+        "role": "TRESORIERE ADJOINTE",
+        "name": "GENERALE SERE RAMATOU, ELEVE, TEL. 74 97 70 06"
+    },
+    {
+        "association_id": "b7c8569d344268c842ac7689da416d00",
+        "role": "RESPONSABLE ADJOINT A L'INFORMATION",
+        "name": "GNISSIEN YACOUBA, ELEVE, TEL. 65 31 30 37"
+    },
+    {
+        "association_id": "b7c8569d344268c842ac7689da416d00",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "DAMOLGA D. MARCELLIN, PIELA, TEL. 78 48 38 75"
+    },
+    {
+        "association_id": "b7c8569d344268c842ac7689da416d00",
+        "role": "SECRETAIRE GENERAL",
+        "name": "DAO ZAKARIA, ELEVE, TEL. 75 75 79 85"
+    },
+    {
+        "association_id": "b7c8569d344268c842ac7689da416d00",
+        "role": "VICE-PRESIDENT",
+        "name": "DAO MOCTAR, INSTITUTEUR, TEL. 70 69 35 37"
+    },
+    {
+        "association_id": "b7c8569d344268c842ac7689da416d00",
+        "role": "PRESIDENT",
+        "name": "GNISSIEN SOUMANA, ELEVE, TEL. 76 56 46 65"
+    },
+    {
+        "association_id": "b7c8569d344268c842ac7689da416d00",
+        "role": "RESPONSABLE A LA MOBILISATION FEMININE",
+        "name": "DIALLO NAOMIE K., ELEVE, TEL. 66 62 52 62"
+    },
+    {
+        "association_id": "b7c8569d344268c842ac7689da416d00",
+        "role": "RESPONSABLE ADJOINTE A LA MOBILISATION FEMININE",
+        "name": "GNISSIEN BINTOU, ELEVE, TEL. 66 40 41 17 RECEPISSE DE DECLARATION D'ASSOCIATION N° 2018- 002S/MA TD/REST/PGNG/HC DU 13 AOÛT 2018. LE HAUT-COMMISSAIRE DE LA PROVINCE DE LA GNAGNA, DONNE AUX PERSONNES CI-APRES DESIGNEES, RECEPISSE DE DECLARATION D'EXISTENCE POUR L'ASSOCIATION REGIE PAR LA LOI N° 064-2015/CNT DU 20 OCTOBRE 2015, PORTANT LIBERTE D'ASSOCIATION DENOMINATION^; ASSOCIATION MARIE YANNI EN ABREGE (AMY) SIEGE PIELA, DEPARTEMENT DE PIELA, PROVINCE DE LA GNAGNA, REGION DE L'EST OBJECTIFS L'ASSOCIATION MARIE YANNI (AMY) POURSUIT LES OBJECTIFS SUIVANTS INITIER DES PROJETS D'ORDRE ECONOMIQUE, ENVIRONNEMENTAL, SOCIAL ET CULTUREL IDENTIFIER, ETUDIER ET RECHERCHER DES SOURCES DE FINANCEMENTS SENSIBILISER LES POPULATIONS A LA SCOLARISATION ET AU MAINTIEN DES FILLES A L'ECOLE CONTRIBUER A LA HAUSSE DU TAUX DE SCOLARISATION EN GENERAL ET CELUI DES FILLES EN PARTICULIER SOUTENIR TOUTE ACTION EDUCATIVE DANS LA PROVINCE FAVORISER ET RENFORCER L'AMITIE ET LA SOLIDARITE ENTRE LES MEMBRES ET LES AUTRES ASSOCIATIONS LA COMPOSITION DE L'ORGANE DIRIGEANT DE L'ASSOCIATION DES FORCES VIVES DE KONKOLIKO A.F.V.K EST LA SUIVANTE"
+    },
+    {
+        "association_id": "b7c8569d344268c842ac7689da416d00",
+        "role": "RESPONSABLE A L'INFORMATION",
+        "name": "GNISSIEN §IAKA, ELEVE, TEL. 78 79 44 32"
+    },
+    {
+        "association_id": "b7c8569d344268c842ac7689da416d00",
+        "role": "TRESORIER GENERAL",
+        "name": "GNISSIEN DJIBRIL, ETUDIANT, TEL. 75 78 14 29"
+    },
+    {
+        "association_id": "b7c8569d344268c842ac7689da416d00",
+        "role": "TRESORIERE",
+        "name": "ADJOINTE GENERALE SERE RAMATOU, ELEVE, TEL. 74 97 70 06"
+    },
+    {
+        "association_id": "65810681ed5fbe869e3a89ec75c5e2a6",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "DAMOLGA D. MARCELLIN, PIELA, TEL. 78 48 38 75"
+    },
+    {
+        "association_id": "65810681ed5fbe869e3a89ec75c5e2a6",
+        "role": "SECRETAIRE GENERAL",
+        "name": "DAO ZAKARIA, ELEVE, TEL. 75 75 79 85"
+    },
+    {
+        "association_id": "65810681ed5fbe869e3a89ec75c5e2a6",
+        "role": "VICE-PRESIDENT",
+        "name": "DAO MOCTAR, INSTITUTEUR, TEL. 70 69 35 37"
+    },
+    {
+        "association_id": "65810681ed5fbe869e3a89ec75c5e2a6",
+        "role": "PRESIDENT",
+        "name": "GNISSIEN SOUMANA, ELEVE, TEL. 76 56 46 65"
+    },
+    {
+        "association_id": "65810681ed5fbe869e3a89ec75c5e2a6",
+        "role": "TRESORIER GENERAL",
+        "name": "DAMIBA TANDI, NAKODOU, TEL. 78 70 30 59 TRESORIER GENERAL ADJOINT OUOBA KANGUEDIKANOU, HINGA, TEL. 70 09 59 05"
+    },
+    {
+        "association_id": "728b1755ca39ddc1e89093e31ca65162",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "E A L'INFORMATION: ZOURI ZARATA, TEL. 70 33 30 75"
+    },
+    {
+        "association_id": "728b1755ca39ddc1e89093e31ca65162",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E KE1TA HONORINE, TEL. 70 15 15 21"
+    },
+    {
+        "association_id": "728b1755ca39ddc1e89093e31ca65162",
+        "role": "VICE-PRESIDENT",
+        "name": "ZOUNGRANA SYLVESTRE, TEL. 70 82 44 55"
+    },
+    {
+        "association_id": "728b1755ca39ddc1e89093e31ca65162",
+        "role": "PRESIDENT",
+        "name": "NIANOGO AIME, TEL. 74 77 67 67"
+    },
+    {
+        "association_id": "728b1755ca39ddc1e89093e31ca65162",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "KABORE ALASSANE, TEL. 78 87 93 30"
+    },
+    {
+        "association_id": "3991df58438fee003df7cdf4ddbcc1dd",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BONDE INOUSSA"
+    },
+    {
+        "association_id": "3991df58438fee003df7cdf4ddbcc1dd",
+        "role": "PRESIDENT",
+        "name": "TRAORE AMED"
+    },
+    {
+        "association_id": "bd9c283485369cfb12508ece0b877fc4",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BAZIE APPOLINAIRE"
+    },
+    {
+        "association_id": "bd9c283485369cfb12508ece0b877fc4",
+        "role": "PRESIDENT",
+        "name": "PARE ACHILLE"
+    },
+    {
+        "association_id": "84834489a92ec61f9e5c5d5c38e349c1",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BAZIE APPOLINAIRE"
+    },
+    {
+        "association_id": "84834489a92ec61f9e5c5d5c38e349c1",
+        "role": "PRESIDENT",
+        "name": "PARE ACHILLE"
+    },
+    {
+        "association_id": "e254c1b5eaa443b86e1b7f20577abe9b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "COMPAORE NONGOUBSOM LAURENT WENCESLAS"
+    },
+    {
+        "association_id": "e254c1b5eaa443b86e1b7f20577abe9b",
+        "role": "PRESIDENT",
+        "name": "COMPAORE MADY"
+    },
+    {
+        "association_id": "3d84d6d79501f67f24261e1f9442de38",
+        "role": "SECRETAIRE GENERAL",
+        "name": "KADIO ABOU CORNEILLE"
+    },
+    {
+        "association_id": "3d84d6d79501f67f24261e1f9442de38",
+        "role": "PRESIDENT",
+        "name": "YALDIA DAMEDUO SAMUEL"
+    },
+    {
+        "association_id": "0ec0044ea0f88f205ceba05776222221",
+        "role": "PRESIDENT",
+        "name": "TRAORE DEKRIN JULES"
+    },
+    {
+        "association_id": "d07830e3182dc53df772e778b6195063",
+        "role": "SECRETAIRE GENERAL",
+        "name": "NATIONAL BAMOGO EDMOND MARIE"
+    },
+    {
+        "association_id": "d07830e3182dc53df772e778b6195063",
+        "role": "PRESIDENT",
+        "name": "E DIBLONI YERI FAITI"
+    },
+    {
+        "association_id": "d07830e3182dc53df772e778b6195063",
+        "role": "TRESORIER GENERAL",
+        "name": "DERRA TASERE RECEPISSE DE DECLARATION D'ASSOCIATION N° 2018- 00446501 DU 07 AOÛT 2018. LE MINISTRE DE L'ADMINISTRATION TERRITORIALE ET DE LA DECENTRALISATION, DONNE AUX PERSONNES CI-APRES DESIGNEES, RECEPISSE DE DECLARATION D'EXISTENCE POUR L'ASSOCIATION REGIE PAR LA LOI N° 064/2015/CNT DU 20 OCTOBRE 2015, PORTANT LIBERTE D'ASSOCIATION. DENOMINATION ASSOCIATION EGLISE HOPE FOR BURKINA FASO MINISTRIES SIEGE PASSINTINGA ADRESSE TEL. 65 14 35 71 DOMAINE D'INTERVENTION RELIGION OBJET PRINCIPAL PRÊCHER L'EVANGILE DE JESUS CHRIST PRINCIPAUX DIRIGEANTS"
+    },
+    {
+        "association_id": "c01b0ecdcfa1bf63e733bddd59cbdf42",
+        "role": "SECRETAIRE GENERAL",
+        "name": "ZAGRE WENDLASSIDA ERIC"
+    },
+    {
+        "association_id": "c01b0ecdcfa1bf63e733bddd59cbdf42",
+        "role": "PRESIDENT",
+        "name": "E DIBLONI YERI FAITI"
+    },
+    {
+        "association_id": "87f3b6ea85f34592b76a1b8240271863",
+        "role": "SECRETAIRE GENERAL",
+        "name": "GANAME SOULEYMANE, ELEVE, TEL. 74 14 44 72"
+    },
+    {
+        "association_id": "87f3b6ea85f34592b76a1b8240271863",
+        "role": "PRESIDENT",
+        "name": "BONKOUNGOU IDRISSA, COIFFEUR, TEL. 75 23 56 71"
+    },
+    {
+        "association_id": "f348effa85cb5768d63eb7ce97bee6fc",
+        "role": "VICE-PRESIDENT",
+        "name": "ITSEUMAH ANTHONY AUDU"
+    },
+    {
+        "association_id": "f348effa85cb5768d63eb7ce97bee6fc",
+        "role": "PRESIDENT",
+        "name": "MAIGA YOUSSOUF 1ER"
+    },
+    {
+        "association_id": "0edbb1d126dc24f7f60540f6eac4443c",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO AROUNA"
+    },
+    {
+        "association_id": "0edbb1d126dc24f7f60540f6eac4443c",
+        "role": "PRESIDENT",
+        "name": "BASSOLE WILIAM"
+    },
+    {
+        "association_id": "0537bcb4c1f333dcb3b64e6aed7fb6c7",
+        "role": "VICE-PRESIDENT",
+        "name": "CONGO HAMIDOU"
+    },
+    {
+        "association_id": "0537bcb4c1f333dcb3b64e6aed7fb6c7",
+        "role": "PRESIDENT",
+        "name": "CONGO INOUSSA"
+    },
+    {
+        "association_id": "0537bcb4c1f333dcb3b64e6aed7fb6c7",
+        "role": "TRESORIER GENERAL",
+        "name": "CONGO MIKAIL PAGE 33 06 SEPTEMBRE 2018 JOURNAL OFFICIEL DU BURKINA FASO N°36 2517 MLIN DESTINE A M PUMUC4TÏM DEC 2800 ETAT Î BURKINA FASO [CJ \\2M7\\ N 31 1 C DATE D' RRÇLE ETABLISSEMENT SOCIETE FINANCIERE DE GARANTIE INTER A 1:0 A»2 A03 A04 A05 AO? A08 B02 BIO BU BT2 B2A B2C B2G B2N B50 CIO DJA DSO D20 D22 EOI CP C6A E90 CO 146 C I B JSJ ACQ 1 1 01 LC F M S CAISSE CREANCES INTERBANCAIRES -A VUE FINTTQUE CENTRALE TTCSOÎ PUBLIC,GPP AUTRES ETABIISKAANSTO DE CREDIT I A TERME CREANCES SUR LA CLIENTELE J PFÂRTE&UILLT D'EFFETS COMMERCIAUX CREDITS CREDITE ORDINAIRES AUTRES.CONCOURT! A I» CLIENTELE CREDITS CREDITS ORDINAITES COMPTES ORD MAIRES DEBITEURS AFFACTURAGE TITRES DE PLACEMENT IMMOBILISATIONS FINANCIERES CREDIT-BAIL ET OPERATIONS ASSIMILEES IMMOBILISATIONS INCORPORELLES IMMOBILISATIONS CORPORELLES ACTIONNAIRES OU ASSOCIES I M ÎTFÂF'S ACTIFS COMPTES D'ORDRE ET DIVERS (ACTIF) I TOTAL ACTIF I EXERCICE N- 1 R RFISFE;...I 6 831 I 967 5 864 1 9 031 2513 S 2 508 6 51# II? S '042 14 45 171 8 9 276 I N 4A«IS WJMFE  IPV I DEC2H00 MSRM A LA NMUCA RIA\\ F ETAT R BURKINA FASO 111 L'H I LIIL L DATE D'SRRÇTE ETABLIS5.IMENT SOCIETE FINANCIERE DE GARAI\"1 NM 1 (D U2J LÏÏJ KJ BJ C 1 L C D F M F03 FGS F07 PW 002 C03 G04 CM GÛE GO? M ÏIL'EÊESSEEEI I DETTES INTERBANCAIRES A VM TVSWSR FHBIFCTCFF AU® DE CTETFÂL -A TERME 1 DETTES A L'EGARD DE LA CLIENTELE COMPTES (FEPRPE A VUE COMPTES D'EPARGNE A TERME STRAS DE «ALISE AUTRES DETTES A WE AUTRES DETTES A TERME 2 053 2 053 05 PROVISIONS REGLEMENTEES L4J LIE EMPRUNTS ET TITRES EMIS SUBORDONNES SUBVENTIONS D'INVESTISSEMENT L FONDS AFFECTES 145 L6E FONDS POUR RISQUES BANCAIRES GENERAUX CAPITAL OU DOTATION L5Ô PRIMES LIEES AU CAPITAL L5S RESERVES W ECARTS DE REEVALUATION LTÔ REPORT A NOUVEAU!-/-) LSO RESULTAT DE L'EXERCICE M'-) L90 TOTAL DU PASSIF 52 J 2 534' 1 2001 M 70 J 7 042 1 181 1 1» 1130 H35 DETTES REPRESENTEES PAR UN TITRE AUTRES PASSIFS 769 405 USA COMPTES D'ORDRE ET DI VERS (PASSIF) 36 21 L3Û PROVISIONS POUR RISQUES"
+    }
+]

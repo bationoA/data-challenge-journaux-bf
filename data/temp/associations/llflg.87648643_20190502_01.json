@@ -1,107 +1,72 @@
 [
     {
+        "number": "2019-001/pgng",
+        "date": "20 fevrier 2019",
+        "denomination": "ASSOCIATION DES ANIMATEURS POUR LE DEVELOPPEMENT AGROPASTORAL ET LA PROMOTION DE LHYGIENE ET DE LASSAINISSEMENT DANS LA GNAGNA",
+        "objective": "Promotion des activites agropastorales, dhygiene et dassainissement au sein des communautes",
+        "abbreviation": "ADAHG",
+        "siege": "SOCIAL BOGANDE",
         "id": "65e915e47ef2f0a19b4c1f45396ddb80",
-        "declaration number": [
-            "2019-001/pgng",
-            "20 fevrier 2019"
-        ],
-        "details": {
-            "number": "2019-001/pgng",
-            "date": "20 fevrier 2019",
-            "denomination": "ASSOCIATION DES ANIMATEURS POUR LE DEVELOPPEMENT AGROPASTORAL ET LA PROMOTION DE LHYGIENE ET DE LASSAINISSEMENT DANS LA GNAGNA",
-            "objective": "",
-            "abbreviation": "",
-            "siege": ""
-        }
+        "journal_link": "https://www.loc.gov/resource/llflg.87648643_20190502_01"
     },
     {
+        "number": "2019-00177/pytg",
+        "date": "11 mars 2019",
+        "denomination": "ASSOCIATION ZOODPANGA CIAL OUAHIGOUYA",
+        "objective": "Œuvrer au renforcement de la internationale nord-sud au profit du pement endogene de la province du yatenga financement et la realisation de projets",
+        "abbreviation": "",
+        "siege": "",
         "id": "22faa85262298558115acf6e639bd9d3",
-        "declaration number": [
-            "2019-00177/pytg",
-            "11 mars 2019"
-        ],
-        "details": {
-            "number": "2019-00177/pytg",
-            "date": "11 mars 2019",
-            "denomination": "",
-            "objective": "",
-            "abbreviation": "PROVINCE DU YATENGA",
-            "siege": ""
-        }
+        "journal_link": "https://www.loc.gov/resource/llflg.87648643_20190502_01"
     },
     {
+        "number": "2019-0 045/pbzg",
+        "date": "18 fevrier 2019",
+        "denomination": "ASSOCIATION DES JEUNES MECANICIENS DE KOMBISSIRI",
+        "objective": "Promouvoir lentreprenariat des jeunes de kombissiri dans le secteur informel",
+        "abbreviation": "",
+        "siege": "KOMBISSIRI",
         "id": "cd8a63b282c43f642876205108eff80c",
-        "declaration number": [
-            "2019-0 045/pbzg",
-            "18 fevrier 2019"
-        ],
-        "details": {
-            "number": "2019-0 045/pbzg",
-            "date": "18 fevrier 2019",
-            "denomination": "ASSOCIATION DES JEUNES MECANICIENS DE KOMBISSIRI",
-            "objective": "",
-            "abbreviation": "",
-            "siege": ""
-        }
+        "journal_link": "https://www.loc.gov/resource/llflg.87648643_20190502_01"
     },
     {
+        "number": "2019- 00514701",
+        "date": "28 fevrier 2019",
+        "denomination": "WENDLAMANEGDA",
+        "objective": "Femme et genre objet principal contribuer à lautonomisation economique sociale de la femme",
+        "abbreviation": "",
+        "siege": "OUAGADOUGOU ADRESSE TEL 76 23 39 14",
         "id": "96788e97d0ae1bb0daa1463ea98e9bc4",
-        "declaration number": [
-            "2019- 00514701",
-            "28 fevrier 2019"
-        ],
-        "details": {
-            "number": "2019- 00514701",
-            "date": "28 fevrier 2019",
-            "denomination": "",
-            "objective": "",
-            "abbreviation": "",
-            "siege": ""
-        }
+        "journal_link": "https://www.loc.gov/resource/llflg.87648643_20190502_01"
     },
     {
+        "number": "2019-1072",
+        "date": "14 mars 2019",
+        "denomination": "WENDLAMANEGDA",
+        "objective": "Femme et genre objet principal contribuer à lautonomisation economique sociale de la femme",
+        "abbreviation": "",
+        "siege": "OUAGADOUGOU ADRESSE TEL 76 23 39 14",
         "id": "221946c5902353d29dec3facbe709f47",
-        "declaration number": [
-            "2019-1072",
-            "14 mars 2019"
-        ],
-        "details": {
-            "number": "2019-1072",
-            "date": "14 mars 2019",
-            "denomination": "",
-            "objective": "",
-            "abbreviation": "",
-            "siege": ""
-        }
+        "journal_link": "https://www.loc.gov/resource/llflg.87648643_20190502_01"
     },
     {
+        "number": "2019- 152",
+        "date": "28 fevrier 2019",
+        "denomination": "",
+        "objective": "",
+        "abbreviation": "",
+        "siege": "",
         "id": "ae33c85135bada77499e8a4a7b06c0ae",
-        "declaration number": [
-            "2019- 152",
-            "28 fevrier 2019"
-        ],
-        "details": {
-            "number": "2019- 152",
-            "date": "28 fevrier 2019",
-            "denomination": "",
-            "objective": "",
-            "abbreviation": "",
-            "siege": ""
-        }
+        "journal_link": "https://www.loc.gov/resource/llflg.87648643_20190502_01"
     },
     {
+        "number": "2017- 0044701",
+        "date": "09 janvier 2017",
+        "denomination": "",
+        "objective": "Promouvoir le blogging et la bonne gouvernance à travers les tic",
+        "abbreviation": "",
+        "siege": "",
         "id": "ea905e497c428c594781e76a50e63d43",
-        "declaration number": [
-            "2017- 0044701",
-            "09 janvier 2017"
-        ],
-        "details": {
-            "number": "2017- 0044701",
-            "date": "09 janvier 2017",
-            "denomination": "",
-            "objective": "",
-            "abbreviation": "",
-            "siege": ""
-        }
+        "journal_link": "https://www.loc.gov/resource/llflg.87648643_20190502_01"
     }
 ]

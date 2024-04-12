@@ -1,592 +1,592 @@
 [
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "BAMOGO KOUDOUGOU OMAR, TEL. 78 87 41 33",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "b2be06f5839571823aeca138561fa8e9",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BAMOGO KOUDOUGOU OMAR, TEL. 78 87 41 33"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "OUEDRAOGO OUSMANE, TEL. 70 92 59 81/ 76 19 44 51",
-        "role": "PRESIDENT"
+        "association_id": "b2be06f5839571823aeca138561fa8e9",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO OUSMANE, TEL. 70 92 59 81/ 76 19 44 51"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "A LA COMMUNICATION OUEDRAOGO ISSOUFOU, TEL. 70 36 53 80",
-        "role": "SECRETAIRE ADJOINT"
+        "association_id": "e3dc6978815afb6a6f1a48339fbfd067",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A LA COMMUNICATION OUEDRAOGO ISSOUFOU, TEL. 70 36 53 80"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "TAPSOBA PATINNEMA, TEL. 78 84 28 27",
-        "role": "SECRETAIRE A L'ORGANISATION"
+        "association_id": "e3dc6978815afb6a6f1a48339fbfd067",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "TAPSOBA PATINNEMA, TEL. 78 84 28 27"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "CONGO ISSA, TEL. 70 69 03 01",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "e3dc6978815afb6a6f1a48339fbfd067",
+        "role": "SECRETAIRE GENERAL",
+        "name": "CONGO ISSA, TEL. 70 69 03 01"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "COMPAORE ASSANE, TEL. 78 82 27 22",
-        "role": "VICE-PRESIDENT"
+        "association_id": "e3dc6978815afb6a6f1a48339fbfd067",
+        "role": "VICE-PRESIDENT",
+        "name": "COMPAORE ASSANE, TEL. 78 82 27 22"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "NACOULMA TASSERE, TEL. 76 65 82 14",
-        "role": "PRESIDENT"
+        "association_id": "e3dc6978815afb6a6f1a48339fbfd067",
+        "role": "PRESIDENT",
+        "name": "NACOULMA TASSERE, TEL. 76 65 82 14"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "GENERALE NIKIEMA PASCALINE, TEL. 70 28 14 41",
-        "role": "TRESORIERE"
+        "association_id": "e3dc6978815afb6a6f1a48339fbfd067",
+        "role": "TRESORIERE",
+        "name": "GENERALE NIKIEMA PASCALINE, TEL. 70 28 14 41"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "A L'INFORMATION ET A LA COMMUNICATION NASSA OUAMPOUSGA ERIC, TEL. 78 63 53 72",
-        "role": "SECRETAIRE ADJOINT"
+        "association_id": "e5cdad89612d2a2736448a503d99c3d3",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'INFORMATION ET A LA COMMUNICATION NASSA OUAMPOUSGA ERIC, TEL. 78 63 53 72"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ET AUX ACTIVITES SOCIOCULTURELLES NASSA R. MARCEL, TEL. 70 74 65 58",
-        "role": "SECRETAIRE ADJOINT A L'ORGANISATION"
+        "association_id": "e5cdad89612d2a2736448a503d99c3d3",
+        "role": "SECRETAIRE ADJOINT A L'ORGANISATION",
+        "name": "ET AUX ACTIVITES SOCIOCULTURELLES NASSA R. MARCEL, TEL. 70 74 65 58"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ET AUX ACTIVITES SOCIOCULTURELLES KOUNIKORGO R. PIERRE, TEL. 78 46 75 41",
-        "role": "SECRETAIRE A L'ORGANISATION"
+        "association_id": "e5cdad89612d2a2736448a503d99c3d3",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "ET AUX ACTIVITES SOCIOCULTURELLES KOUNIKORGO R. PIERRE, TEL. 78 46 75 41"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "OUEDRAOGO NONGARIM, TEL. 78 00 64 12",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "e5cdad89612d2a2736448a503d99c3d3",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO NONGARIM, TEL. 78 00 64 12"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "OUEDRAOGO N. PAUL, TEL. 78 57 48 17",
-        "role": "PRESIDENT"
+        "association_id": "e5cdad89612d2a2736448a503d99c3d3",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO N. PAUL, TEL. 78 57 48 17"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ET A LA COMMUNICATION NASSA OUAMPOUSGA ERIC, TEL. 78 63 53 72",
-        "role": "SECRETAIRE ADJOINT A L'INFORMATION"
+        "association_id": "e5cdad89612d2a2736448a503d99c3d3",
+        "role": "SECRETAIRE ADJOINT A L'INFORMATION",
+        "name": "ET A LA COMMUNICATION NASSA OUAMPOUSGA ERIC, TEL. 78 63 53 72"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ET A LA COMMUNICATION KOUNKORGO MAHAMADI, TEL. 70 06 69 68",
-        "role": "SECRETAIRE A L'INFORMATION"
+        "association_id": "e5cdad89612d2a2736448a503d99c3d3",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "ET A LA COMMUNICATION KOUNKORGO MAHAMADI, TEL. 70 06 69 68"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA IDRISSA ILALIDOU, TEL. 51 02 82 77",
-        "role": "SECRETAIRE CHARGE A L'INFORMATION ADJOINT"
+        "association_id": "1cf61b7c53859a1d2c1b3b57f0ca3ea2",
+        "role": "SECRETAIRE CHARGE A L'INFORMATION ADJOINT",
+        "name": "MAIGA IDRISSA ILALIDOU, TEL. 51 02 82 77"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA ABDOURHAMANE HAMADOU, TEL. 55 27 56 72",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "1cf61b7c53859a1d2c1b3b57f0ca3ea2",
+        "role": "SECRETAIRE GENERAL",
+        "name": "MAIGA ABDOURHAMANE HAMADOU, TEL. 55 27 56 72"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA MOUSSA ISSAKA, TEL. 76 18 79 37",
-        "role": "VICE-PRESIDENT"
+        "association_id": "1cf61b7c53859a1d2c1b3b57f0ca3ea2",
+        "role": "VICE-PRESIDENT",
+        "name": "MAIGA MOUSSA ISSAKA, TEL. 76 18 79 37"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA ABDOUL AZIZ, TEL. 65 18 86 95",
-        "role": "SECRETAIRE CHARGE A L'INFORMATION"
+        "association_id": "1cf61b7c53859a1d2c1b3b57f0ca3ea2",
+        "role": "SECRETAIRE CHARGE A L'INFORMATION",
+        "name": "MAIGA ABDOUL AZIZ, TEL. 65 18 86 95"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA SAIDOU ALHASSANE, TEL. 73 30 77 42",
-        "role": "PRESIDENT"
+        "association_id": "1cf61b7c53859a1d2c1b3b57f0ca3ea2",
+        "role": "PRESIDENT",
+        "name": "MAIGA SAIDOU ALHASSANE, TEL. 73 30 77 42"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA WESSOU SALOU, TEL. 66 00 73 11",
-        "role": "SECRETAIRE CHARGE A L'ORGANISATION"
+        "association_id": "1cf61b7c53859a1d2c1b3b57f0ca3ea2",
+        "role": "SECRETAIRE CHARGE A L'ORGANISATION",
+        "name": "MAIGA WESSOU SALOU, TEL. 66 00 73 11"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA KARTOUMI, TEL. 67 46 37 93 TRESORIER GENERAL ADJOINT MAIGA DJIBRILLA ALI, TEL. 73 11 38 65",
-        "role": "TRESORIER GENERAL"
+        "association_id": "1cf61b7c53859a1d2c1b3b57f0ca3ea2",
+        "role": "TRESORIER GENERAL",
+        "name": "MAIGA KARTOUMI, TEL. 67 46 37 93 TRESORIER GENERAL ADJOINT MAIGA DJIBRILLA ALI, TEL. 73 11 38 65"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "DIALLO BINTA, BP 13491 OUAGADOUGOU TEL. 50 48 48 54",
-        "role": "TRESORIERE"
+        "association_id": "1cf61b7c53859a1d2c1b3b57f0ca3ea2",
+        "role": "TRESORIERE",
+        "name": "DIALLO BINTA, BP 13491 OUAGADOUGOU TEL. 50 48 48 54"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA IDRISSA ILALIDOU, TEL. 51 02 82 77",
-        "role": "SECRETAIRE CHARGE A L'INFORMATION ADJOINT"
+        "association_id": "5ad157d1147ba6aed5c402c4b0cbb431",
+        "role": "SECRETAIRE CHARGE A L'INFORMATION ADJOINT",
+        "name": "MAIGA IDRISSA ILALIDOU, TEL. 51 02 82 77"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA ABDOURHAMANE HAMADOU, TEL. 55 27 56 72",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "5ad157d1147ba6aed5c402c4b0cbb431",
+        "role": "SECRETAIRE GENERAL",
+        "name": "MAIGA ABDOURHAMANE HAMADOU, TEL. 55 27 56 72"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA MOUSSA ISSAKA, TEL. 76 18 79 37",
-        "role": "VICE-PRESIDENT"
+        "association_id": "5ad157d1147ba6aed5c402c4b0cbb431",
+        "role": "VICE-PRESIDENT",
+        "name": "MAIGA MOUSSA ISSAKA, TEL. 76 18 79 37"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA ABDOUL AZIZ, TEL. 65 18 86 95",
-        "role": "SECRETAIRE CHARGE A L'INFORMATION"
+        "association_id": "5ad157d1147ba6aed5c402c4b0cbb431",
+        "role": "SECRETAIRE CHARGE A L'INFORMATION",
+        "name": "MAIGA ABDOUL AZIZ, TEL. 65 18 86 95"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA SAIDOU ALHASSANE, TEL. 73 30 77 42",
-        "role": "PRESIDENT"
+        "association_id": "5ad157d1147ba6aed5c402c4b0cbb431",
+        "role": "PRESIDENT",
+        "name": "MAIGA SAIDOU ALHASSANE, TEL. 73 30 77 42"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA WESSOU SALOU, TEL. 66 00 73 11",
-        "role": "SECRETAIRE CHARGE A L'ORGANISATION"
+        "association_id": "5ad157d1147ba6aed5c402c4b0cbb431",
+        "role": "SECRETAIRE CHARGE A L'ORGANISATION",
+        "name": "MAIGA WESSOU SALOU, TEL. 66 00 73 11"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "MAIGA KARTOUMI, TEL. 67 46 37 93 TRESORIER GENERAL ADJOINT MAIGA DJIBRILLA ALI, TEL. 73 11 38 65",
-        "role": "TRESORIER GENERAL"
+        "association_id": "5ad157d1147ba6aed5c402c4b0cbb431",
+        "role": "TRESORIER GENERAL",
+        "name": "MAIGA KARTOUMI, TEL. 67 46 37 93 TRESORIER GENERAL ADJOINT MAIGA DJIBRILLA ALI, TEL. 73 11 38 65"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SEMDE TASSERE, TEL. 77 44 73 55",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "9adf36486897531ea8091a1a7fe887c6",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SEMDE TASSERE, TEL. 77 44 73 55"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "COULIBALY SIAKA, TEL. 76 99 76 93",
-        "role": "PRESIDENT"
+        "association_id": "9adf36486897531ea8091a1a7fe887c6",
+        "role": "PRESIDENT",
+        "name": "COULIBALY SIAKA, TEL. 76 99 76 93"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E DIANE AISSATA",
-        "role": "VICE-PRESIDENT"
+        "association_id": "191636c272d1a6644754f2814203cc8f",
+        "role": "VICE-PRESIDENT",
+        "name": "E DIANE AISSATA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "DABERE CHEICK LYONEL",
-        "role": "PRESIDENT"
+        "association_id": "191636c272d1a6644754f2814203cc8f",
+        "role": "PRESIDENT",
+        "name": "DABERE CHEICK LYONEL"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "YEMBONE ADAMA",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "ce09d25652e3cb8d1c427824dbcdb91c",
+        "role": "SECRETAIRE GENERAL",
+        "name": "YEMBONE ADAMA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "KABORE MOUSSA",
-        "role": "PRESIDENT"
+        "association_id": "ce09d25652e3cb8d1c427824dbcdb91c",
+        "role": "PRESIDENT",
+        "name": "KABORE MOUSSA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "BILGO ZAKARIA",
-        "role": "VICE-PRESIDENT"
+        "association_id": "a71fbce58547327cb13aa0caa91cc167",
+        "role": "VICE-PRESIDENT",
+        "name": "BILGO ZAKARIA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ADJOUABOU JEREMIE ABANGA",
-        "role": "PRESIDENT"
+        "association_id": "a71fbce58547327cb13aa0caa91cc167",
+        "role": "PRESIDENT",
+        "name": "ADJOUABOU JEREMIE ABANGA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E KAFANDO MARIAM, TEL. 60 59 49 73",
-        "role": "VICE-PRESIDENT"
+        "association_id": "104f56138ba5bad6ed7867012a88b288",
+        "role": "VICE-PRESIDENT",
+        "name": "E KAFANDO MARIAM, TEL. 60 59 49 73"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E KABORE MAMOUNATA, TEL. 62 81 03 04",
-        "role": "PRESIDENT"
+        "association_id": "104f56138ba5bad6ed7867012a88b288",
+        "role": "PRESIDENT",
+        "name": "E KABORE MAMOUNATA, TEL. 62 81 03 04"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E SAVADOGO ROUKIYATOU",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "d6da2123864e4952baedf8200080c811",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E SAVADOGO ROUKIYATOU"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "TIAO IMA AROLE GODEFFROY",
-        "role": "PRESIDENT"
+        "association_id": "d6da2123864e4952baedf8200080c811",
+        "role": "PRESIDENT",
+        "name": "TIAO IMA AROLE GODEFFROY"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "OUILY HAMIDOU RECEPISSE DE DECLARATION D'ASSOCIATION N° 2018- 00448901 DU 13 AOÛT 2018. LE MINISTRE DE L'ADMINISTRATION TERRITORIALE ET DE LA DECENTRALISATION, DONNE AUX PERSONNES CI-APRES DESIGNEES, RECEPISSE DE DECLARATION D'EXISTENCE POUR L'ASSOCIATION REGIE PAR LA LOI N° 064- 2015/CNT DU 20 OCTOBRE 2015, PORTANT LIBERTE D'ASSOCIATION. DENOMINATION ASSOCIATION YI-SAN POUR LA PROMOTION DES DROITS DES PERSONNES VIVANT AVEC UN HANDICAP SIEGE KOUDOUGOU ADRESSE TEL. 72 90 59 34 DOMAINE D'INTERVENTION PROTECTION DES GROUPES SPECIFIQUES OBJET PRINCIPAL CONTRIBUER AU DEVELOPPEMENT ECONOMIQUE ET SOCIAL DES HANDICAPES DANS LEURS ACTIVITES D'AUTO-PROMOTION PRINCIPAUX DIRIGEANTS",
-        "role": "TRESORIER GENERAL"
+        "association_id": "d6da2123864e4952baedf8200080c811",
+        "role": "TRESORIER GENERAL",
+        "name": "OUILY HAMIDOU RECEPISSE DE DECLARATION D'ASSOCIATION N° 2018- 00448901 DU 13 AOÛT 2018. LE MINISTRE DE L'ADMINISTRATION TERRITORIALE ET DE LA DECENTRALISATION, DONNE AUX PERSONNES CI-APRES DESIGNEES, RECEPISSE DE DECLARATION D'EXISTENCE POUR L'ASSOCIATION REGIE PAR LA LOI N° 064- 2015/CNT DU 20 OCTOBRE 2015, PORTANT LIBERTE D'ASSOCIATION. DENOMINATION ASSOCIATION YI-SAN POUR LA PROMOTION DES DROITS DES PERSONNES VIVANT AVEC UN HANDICAP SIEGE KOUDOUGOU ADRESSE TEL. 72 90 59 34 DOMAINE D'INTERVENTION PROTECTION DES GROUPES SPECIFIQUES OBJET PRINCIPAL CONTRIBUER AU DEVELOPPEMENT ECONOMIQUE ET SOCIAL DES HANDICAPES DANS LEURS ACTIVITES D'AUTO-PROMOTION PRINCIPAUX DIRIGEANTS"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "TIAMA DIEUDONNE ERIC",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "b2e8d87154625944ae4ac6bda8ae7e21",
+        "role": "SECRETAIRE GENERAL",
+        "name": "TIAMA DIEUDONNE ERIC"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "TIAO IMA AROLE GODEFFROY",
-        "role": "PRESIDENT"
+        "association_id": "b2e8d87154625944ae4ac6bda8ae7e21",
+        "role": "PRESIDENT",
+        "name": "TIAO IMA AROLE GODEFFROY"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "OUEDRAOGO RAPHAEL, TEL. 74 61 29 86",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "e33cd85041b5016289acbe11841876eb",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO RAPHAEL, TEL. 74 61 29 86"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "NONGUIERMA DOMINIQUE, TEL. 79 14 40 63 PAGE 45 22 NOVEMBRE 2018 JOURNAL OFFICIEL DU BURKINA FASO N°47 3241",
-        "role": "VICE-PRESIDENT"
+        "association_id": "e33cd85041b5016289acbe11841876eb",
+        "role": "VICE-PRESIDENT",
+        "name": "NONGUIERMA DOMINIQUE, TEL. 79 14 40 63 PAGE 45 22 NOVEMBRE 2018 JOURNAL OFFICIEL DU BURKINA FASO N°47 3241"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ZONGO FERDINAND, TEL. 70 18 63 36",
-        "role": "PRESIDENT"
+        "association_id": "e33cd85041b5016289acbe11841876eb",
+        "role": "PRESIDENT",
+        "name": "ZONGO FERDINAND, TEL. 70 18 63 36"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ILBOUDO RAYMOND, TEL. 74 95 19 27",
-        "role": "TRESORIER GENERAL"
+        "association_id": "e33cd85041b5016289acbe11841876eb",
+        "role": "TRESORIER GENERAL",
+        "name": "ILBOUDO RAYMOND, TEL. 74 95 19 27"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E SOULAMA/TIAHOUN AIMEE, TEL. 70 30 39 67",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "0569cdc4b3fe12ecd80404048aa74e35",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E SOULAMA/TIAHOUN AIMEE, TEL. 70 30 39 67"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E ZIE/BICABA HATAMOU, TEL. 70 44 05 01",
-        "role": "PRESIDENT"
+        "association_id": "0569cdc4b3fe12ecd80404048aa74e35",
+        "role": "PRESIDENT",
+        "name": "E ZIE/BICABA HATAMOU, TEL. 70 44 05 01"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SAWADOGO BASGA LAURENT",
-        "role": "VICE-PRESIDENT"
+        "association_id": "23e31113012dcb504aba14fe6e2e2254",
+        "role": "VICE-PRESIDENT",
+        "name": "SAWADOGO BASGA LAURENT"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ILBOUDO DOMINIQUE",
-        "role": "PRESIDENT"
+        "association_id": "23e31113012dcb504aba14fe6e2e2254",
+        "role": "PRESIDENT",
+        "name": "ILBOUDO DOMINIQUE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SAVADOGO SAYDOU, TEL. 70 34 46 64",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "c7482345d21c5af6949e64e16f13271d",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SAVADOGO SAYDOU, TEL. 70 34 46 64"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SAVADOGO LASSANE, TEL. 76 48 94 86",
-        "role": "PRESIDENT"
+        "association_id": "c7482345d21c5af6949e64e16f13271d",
+        "role": "PRESIDENT",
+        "name": "SAVADOGO LASSANE, TEL. 76 48 94 86"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "EN",
-        "role": "SECRETAIRE ADJOINT"
+        "association_id": "106d846fdd41a9e544709478304b6c65",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "EN"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "TIENDREBEOGO R. ABLASSE DIT MACORONI, TEL. 78 04 40 72",
-        "role": "SECRETAIRE A L'ORGANISATION"
+        "association_id": "106d846fdd41a9e544709478304b6c65",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "TIENDREBEOGO R. ABLASSE DIT MACORONI, TEL. 78 04 40 72"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "KOLGO ADAMA, TEL. 76 04 63 43",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "106d846fdd41a9e544709478304b6c65",
+        "role": "SECRETAIRE GENERAL",
+        "name": "KOLGO ADAMA, TEL. 76 04 63 43"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "TIEMTORE BOUKARE, TEL. 70 34 60 33",
-        "role": "PRESIDENT"
+        "association_id": "106d846fdd41a9e544709478304b6c65",
+        "role": "PRESIDENT",
+        "name": "TIEMTORE BOUKARE, TEL. 70 34 60 33"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ZOUNGRANA SAÏDOU, TEL. 78 80 99 37",
-        "role": "TRESORIER GENERAL"
+        "association_id": "106d846fdd41a9e544709478304b6c65",
+        "role": "TRESORIER GENERAL",
+        "name": "ZOUNGRANA SAÏDOU, TEL. 78 80 99 37"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SAVADOGO OUSMANE, TEL. 76 64 56 98",
-        "role": "VICE-PRESIDENT"
+        "association_id": "23224da7854e59f38a7f5aa3f6d2b159",
+        "role": "VICE-PRESIDENT",
+        "name": "SAVADOGO OUSMANE, TEL. 76 64 56 98"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SAVADOGO SITTA, TEL. 70 81 98 67",
-        "role": "PRESIDENT"
+        "association_id": "23224da7854e59f38a7f5aa3f6d2b159",
+        "role": "PRESIDENT",
+        "name": "SAVADOGO SITTA, TEL. 70 81 98 67"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SANOU SIBIRI, TEL. 74 25 91 04",
-        "role": "SECRETAIRE ADJOINT"
+        "association_id": "c5150940422ecdb4ab5b9ff20b6079d8",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "SANOU SIBIRI, TEL. 74 25 91 04"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SANOU JEAN-FRANÇOIS, TEL. 71 78 45 51",
-        "role": "SECRETAIRE A L'ORGANISATION"
+        "association_id": "c5150940422ecdb4ab5b9ff20b6079d8",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "SANOU JEAN-FRANÇOIS, TEL. 71 78 45 51"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SANOU BAKARY, TEL. 71 70 27 39",
-        "role": "VICE-PRESIDENT"
+        "association_id": "c5150940422ecdb4ab5b9ff20b6079d8",
+        "role": "VICE-PRESIDENT",
+        "name": "SANOU BAKARY, TEL. 71 70 27 39"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SANOU ADAMA, TEL. 75 03 97 07",
-        "role": "PRESIDENT"
+        "association_id": "c5150940422ecdb4ab5b9ff20b6079d8",
+        "role": "PRESIDENT",
+        "name": "SANOU ADAMA, TEL. 75 03 97 07"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SANOU SIAKA, TEL. 74 70 26 50",
-        "role": "SECRETAIRE ADJOINT A L'INFORMATION"
+        "association_id": "c5150940422ecdb4ab5b9ff20b6079d8",
+        "role": "SECRETAIRE ADJOINT A L'INFORMATION",
+        "name": "SANOU SIAKA, TEL. 74 70 26 50"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "BARRO MASSA, TEL. 70 01 00 31",
-        "role": "SECRETAIRE A L'INFORMATION"
+        "association_id": "c5150940422ecdb4ab5b9ff20b6079d8",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "BARRO MASSA, TEL. 70 01 00 31"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "NARE SID-BEWENDIN ANGELOS, TEL. 70 94 04 33",
-        "role": "VICE-PRESIDENT"
+        "association_id": "fdf4a9479260366bfefff2fb3133e1b3",
+        "role": "VICE-PRESIDENT",
+        "name": "NARE SID-BEWENDIN ANGELOS, TEL. 70 94 04 33"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "NARE HENRI, TEL. 70 41 30 60",
-        "role": "PRESIDENT"
+        "association_id": "fdf4a9479260366bfefff2fb3133e1b3",
+        "role": "PRESIDENT",
+        "name": "NARE HENRI, TEL. 70 41 30 60"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "COMPAORE ABDOUL SAKOUR",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "1478a7c47a425accde2ec0cbb57f684b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "COMPAORE ABDOUL SAKOUR"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E YAKA SOMSIDA ERIC JEAN",
-        "role": "PRESIDENT"
+        "association_id": "1478a7c47a425accde2ec0cbb57f684b",
+        "role": "PRESIDENT",
+        "name": "E YAKA SOMSIDA ERIC JEAN"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "LAGBEMA WEND-PATEKDA",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "6d5f42dedcc56b401007009b7976ea25",
+        "role": "SECRETAIRE GENERAL",
+        "name": "LAGBEMA WEND-PATEKDA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "HAS SOU KOKOU SAMUEL T",
-        "role": "PRESIDENT"
+        "association_id": "6d5f42dedcc56b401007009b7976ea25",
+        "role": "PRESIDENT",
+        "name": "HAS SOU KOKOU SAMUEL T"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "KOURA DJIBRILLOU",
-        "role": "VICE-PRESIDENT"
+        "association_id": "20a4ea3daef9095a51888748b72a9c09",
+        "role": "VICE-PRESIDENT",
+        "name": "KOURA DJIBRILLOU"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "/CA SAWADOGO ALFRED 1ER",
-        "role": "PRESIDENT"
+        "association_id": "20a4ea3daef9095a51888748b72a9c09",
+        "role": "PRESIDENT",
+        "name": "/CA SAWADOGO ALFRED 1ER"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "OUEDRAOGO PAKISSIBA ALFRED",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "4f7e8619cbfcc31155d749e7c62e1488",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO PAKISSIBA ALFRED"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "KOROGO AMMADOU",
-        "role": "PRESIDENT"
+        "association_id": "4f7e8619cbfcc31155d749e7c62e1488",
+        "role": "PRESIDENT",
+        "name": "KOROGO AMMADOU"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "KOAMA HAROUNA",
-        "role": "VICE-PRESIDENT"
+        "association_id": "eb1f98d4ec9b4eee8c3252b7773e9326",
+        "role": "VICE-PRESIDENT",
+        "name": "KOAMA HAROUNA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E BEMBAMBA HABIBOU",
-        "role": "PRESIDENT"
+        "association_id": "eb1f98d4ec9b4eee8c3252b7773e9326",
+        "role": "PRESIDENT",
+        "name": "E BEMBAMBA HABIBOU"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E BORO/NIKIEMA RELWOUINDE EDWIGE",
-        "role": "VICE-PRESIDENT"
+        "association_id": "26847885d9d494b65a1c88187b6006b0",
+        "role": "VICE-PRESIDENT",
+        "name": "E BORO/NIKIEMA RELWOUINDE EDWIGE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E PAFADNAM/OULENE SIMA FLORENTINE",
-        "role": "PRESIDENT"
+        "association_id": "26847885d9d494b65a1c88187b6006b0",
+        "role": "PRESIDENT",
+        "name": "E PAFADNAM/OULENE SIMA FLORENTINE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "OUEDRAOGO AMINATA, MENAGERE, TEL. S/C 76 68 43 12",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "367f232e67af9d6da83fc2458ac395a1",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO AMINATA, MENAGERE, TEL. S/C 76 68 43 12"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "BAKOANE YOMBOE, TECHNICIEN EN BÂTIMENT ET MQRAICHER, TEL. 76 68 43 12",
-        "role": "PRESIDENT"
+        "association_id": "367f232e67af9d6da83fc2458ac395a1",
+        "role": "PRESIDENT",
+        "name": "BAKOANE YOMBOE, TECHNICIEN EN BÂTIMENT ET MQRAICHER, TEL. 76 68 43 12"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ZIRE ADAMA",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "8c6ce8402e1ba811a20494527dcf8555",
+        "role": "SECRETAIRE GENERAL",
+        "name": "ZIRE ADAMA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E N'DIAYE OUMOU",
-        "role": "PRESIDENT"
+        "association_id": "8c6ce8402e1ba811a20494527dcf8555",
+        "role": "PRESIDENT",
+        "name": "E N'DIAYE OUMOU"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "KAFANDO P. FADOUL",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "8342130f36341ccb431e2aed4ca0f09d",
+        "role": "SECRETAIRE GENERAL",
+        "name": "KAFANDO P. FADOUL"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ZABSONRE SOUMAILA",
-        "role": "PRESIDENT"
+        "association_id": "8342130f36341ccb431e2aed4ca0f09d",
+        "role": "PRESIDENT",
+        "name": "ZABSONRE SOUMAILA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "AMINA DIEME",
-        "role": "VICE-PRESIDENT"
+        "association_id": "a6f9ca1bf68b8b75b83c8e573e916b46",
+        "role": "VICE-PRESIDENT",
+        "name": "AMINA DIEME"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E NKOKOLO MASSAMBA ANGELTY",
-        "role": "PRESIDENT"
+        "association_id": "a6f9ca1bf68b8b75b83c8e573e916b46",
+        "role": "PRESIDENT",
+        "name": "E NKOKOLO MASSAMBA ANGELTY"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "YONI MOUSSA",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "4e230bbf1132e160b3712101ae7cb39d",
+        "role": "SECRETAIRE GENERAL",
+        "name": "YONI MOUSSA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "YONI ABDOU KARIMA",
-        "role": "PRESIDENT"
+        "association_id": "4e230bbf1132e160b3712101ae7cb39d",
+        "role": "PRESIDENT",
+        "name": "YONI ABDOU KARIMA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E: TIENDREBEOGO ALIZETA",
-        "role": "VICE-PRESIDENT"
+        "association_id": "f2b004d26df12f3961d8631a5a27c7e7",
+        "role": "VICE-PRESIDENT",
+        "name": "E: TIENDREBEOGO ALIZETA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E OUEDRAOGO GUESDANDE ADELINE",
-        "role": "PRESIDENT"
+        "association_id": "f2b004d26df12f3961d8631a5a27c7e7",
+        "role": "PRESIDENT",
+        "name": "E OUEDRAOGO GUESDANDE ADELINE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SIENOU ADAMA",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "3aa375a611f38e0bac4462c7b017ec5c",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SIENOU ADAMA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E DIASSO/YAMEOGO ZOULI CLARISSE",
-        "role": "PRESIDENT"
+        "association_id": "3aa375a611f38e0bac4462c7b017ec5c",
+        "role": "PRESIDENT",
+        "name": "E DIASSO/YAMEOGO ZOULI CLARISSE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "COMPAORE ALI",
-        "role": "VICE-PRESIDENT"
+        "association_id": "cb453cf1777cb4c356559a6c47f0b787",
+        "role": "VICE-PRESIDENT",
+        "name": "COMPAORE ALI"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "YAMEOGO WILFRID AIME G.SIDBEWINDE",
-        "role": "PRESIDENT"
+        "association_id": "cb453cf1777cb4c356559a6c47f0b787",
+        "role": "PRESIDENT",
+        "name": "YAMEOGO WILFRID AIME G.SIDBEWINDE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ZOUNGRANA OUSMANE",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "d6c52f2fb712179a931bd691faaff1e3",
+        "role": "SECRETAIRE GENERAL",
+        "name": "ZOUNGRANA OUSMANE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "TAPSOBA SALIF",
-        "role": "PRESIDENT"
+        "association_id": "d6c52f2fb712179a931bd691faaff1e3",
+        "role": "PRESIDENT",
+        "name": "TAPSOBA SALIF"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SAWADOGO ERIC RENE",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "496d360499e3d6091070b833a87aff67",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SAWADOGO ERIC RENE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "OUEDRAOGO PINGWINDE MARC",
-        "role": "PRESIDENT"
+        "association_id": "496d360499e3d6091070b833a87aff67",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO PINGWINDE MARC"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E BAGUIAN JEANNE",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "a1202cd7e9c2f44501b58e0ea2433a01",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E BAGUIAN JEANNE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E BARRY ABIBOU",
-        "role": "PRESIDENT"
+        "association_id": "a1202cd7e9c2f44501b58e0ea2433a01",
+        "role": "PRESIDENT",
+        "name": "E BARRY ABIBOU"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "GUINKO HAMADO",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "87f20147d6cce8aa4199a038b8e5956e",
+        "role": "SECRETAIRE GENERAL",
+        "name": "GUINKO HAMADO"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "ZABSONRE B. IDRISSA",
-        "role": "PRESIDENT"
+        "association_id": "87f20147d6cce8aa4199a038b8e5956e",
+        "role": "PRESIDENT",
+        "name": "ZABSONRE B. IDRISSA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "NAMOANO SYLVAIN",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "986f6cb23aa756668961a726c6ae0de3",
+        "role": "SECRETAIRE GENERAL",
+        "name": "NAMOANO SYLVAIN"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "NAMOANO FRANCIS",
-        "role": "PRESIDENT"
+        "association_id": "986f6cb23aa756668961a726c6ae0de3",
+        "role": "PRESIDENT",
+        "name": "NAMOANO FRANCIS"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "DEMBELE ISSIAKA, TEL. 75 19 23 71",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "0dbb9b1cc5ca8937ca29b48eac613711",
+        "role": "SECRETAIRE GENERAL",
+        "name": "DEMBELE ISSIAKA, TEL. 75 19 23 71"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "COULIBALY SIAKA, TEL. 67 36 42 2 1",
-        "role": "PRESIDENT"
+        "association_id": "0dbb9b1cc5ca8937ca29b48eac613711",
+        "role": "PRESIDENT",
+        "name": "COULIBALY SIAKA, TEL. 67 36 42 2 1"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "NACOULMA NAGNAMBZANGA THEOPHILE",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "f9c20f939c3538627b4c5aaaa27b16a8",
+        "role": "SECRETAIRE GENERAL",
+        "name": "NACOULMA NAGNAMBZANGA THEOPHILE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "OUEDRAOGO JEAN JACQUES",
-        "role": "PRESIDENT"
+        "association_id": "f9c20f939c3538627b4c5aaaa27b16a8",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO JEAN JACQUES"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "SORGHO LARBA",
-        "role": "VICE-PRESIDENT"
+        "association_id": "b970e0a99a298c9b133d9fdc2ea3948d",
+        "role": "VICE-PRESIDENT",
+        "name": "SORGHO LARBA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "KABORE ALASSANE",
-        "role": "PRESIDENT"
+        "association_id": "b970e0a99a298c9b133d9fdc2ea3948d",
+        "role": "PRESIDENT",
+        "name": "KABORE ALASSANE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E SODRE MARATA",
-        "role": "VICE-PRESIDENT"
+        "association_id": "8c212bce02688e0eaf986c92c4616a4c",
+        "role": "VICE-PRESIDENT",
+        "name": "E SODRE MARATA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "E OUEDRAOGO PASCALINE",
-        "role": "PRESIDENT"
+        "association_id": "8c212bce02688e0eaf986c92c4616a4c",
+        "role": "PRESIDENT",
+        "name": "E OUEDRAOGO PASCALINE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "KIND A YACOUBA",
-        "role": "VICE-PRESIDENT"
+        "association_id": "28efc1a113643849abce6fae19123b9e",
+        "role": "VICE-PRESIDENT",
+        "name": "KIND A YACOUBA"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20181122_01.txt",
-        "name": "NIKJEMA SALIFOU 1ER",
-        "role": "PRESIDENT"
+        "association_id": "28efc1a113643849abce6fae19123b9e",
+        "role": "PRESIDENT",
+        "name": "NIKJEMA SALIFOU 1ER"
     }
 ]

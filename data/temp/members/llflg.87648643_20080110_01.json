@@ -1,0 +1,597 @@
+[
+    {
+        "association_id": "5a3720c3080dbb1911a8680c21941332",
+        "role": "TRESORIERE ADJOINTE",
+        "name": "OUEDRAOGO MARIAM, MENAGERE AU SECTEUR N°22 OUAGADOUGOU 2EME"
+    },
+    {
+        "association_id": "5a3720c3080dbb1911a8680c21941332",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "E A L'INFORMATION OUEDRAOGO AÏSSIATA GERMAINE, MENAGERE AU SECTEUR N°22 OUAGADOUGOU"
+    },
+    {
+        "association_id": "5a3720c3080dbb1911a8680c21941332",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "OUEDRAOGO/OUEDRAOGO NADELA RAMATOU, MENAGERE AU SECTEUR N°22 OUAGADOUGOU"
+    },
+    {
+        "association_id": "5a3720c3080dbb1911a8680c21941332",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E CONCOBO/OUEDRAOGO FATI ROSINE, INSTITUTRICE EN SERVICE AU LYCEE MARIEN N'GOUABI 07 BP 5154 OUAGADOUGOU 07"
+    },
+    {
+        "association_id": "5a3720c3080dbb1911a8680c21941332",
+        "role": "VICE-PRESIDENT",
+        "name": "E YANOGO/TIENDREBEOGO BERNADETTE, SAGE-FEMME D'ETAT EN SERVICE A PAUL VI SECTEUR N°22 OUAGADOUGOU"
+    },
+    {
+        "association_id": "5a3720c3080dbb1911a8680c21941332",
+        "role": "PRESIDENT",
+        "name": "E KABORE/SANDWIDI TENIN N. FELICITE, INSTI- TUTRICE EN SERVICE AU LYCEE MARIEN N'GOUABI BP565 TEL. 50 35 02 64"
+    },
+    {
+        "association_id": "5a3720c3080dbb1911a8680c21941332",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "OUEDRAOGO/OUOBA BRIGITTE, MENAGERE AU SECTEUR N°22 OUAGADOUGOU"
+    },
+    {
+        "association_id": "5a3720c3080dbb1911a8680c21941332",
+        "role": "TRESORIERE",
+        "name": "TIENDREBEOGO/NANA MARIE MARTINE PASCALINE, COUTURIERE AU SECTEUR N°22 JERE"
+    },
+    {
+        "association_id": "783d1d0877dce987ae8ed1e4d4b7c979",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E KAMBOU DEBORAH, ELEVE A SARFALAO SECTEUR N°17 BOBO-DIOULASSO TEL. 76 82 66 92"
+    },
+    {
+        "association_id": "783d1d0877dce987ae8ed1e4d4b7c979",
+        "role": "PRESIDENT",
+        "name": "E KAMBOU PAUL, ELECTRICIEN A SARFALAO SECTEUR N°17 BOBO-DIOULASSO TEL. 76 82 66 92"
+    },
+    {
+        "association_id": "783d1d0877dce987ae8ed1e4d4b7c979",
+        "role": "TRESORIER GENERAL",
+        "name": "ADJOINT SANGUISSO BOUREIMA, ELEVE A SARFALAO SECTEUR N°17 BOBO-DIOULASSO TEL. 76 82 66 92"
+    },
+    {
+        "association_id": "783d1d0877dce987ae8ed1e4d4b7c979",
+        "role": "TRESORIERE",
+        "name": "GENERALE TUINA PRISCA, ELEVE A SARFALAO SECTEUR N°17 BOBO-DIOULASSO TEL. 76 18 35 38"
+    },
+    {
+        "association_id": "57381279bdcd322affaa9b46b4d22581",
+        "role": "CONSEILLERS",
+        "name": "MUNICIPAUX DANS LEURS ACTIVITES DE DEVE- LOPPEMENT DE LA COMMUNE (ASSAINISSEMENT, REBOISEMENT ETC...) PROMOTION DE L'ESPRIT DE FRATERNITE, D'ENTRAIDE ET DE SOLIDARITE ENTRE LES"
+    },
+    {
+        "association_id": "57381279bdcd322affaa9b46b4d22581",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "AUX ACTIVITES SOCIO-CULTURELLES CONGO ABDOULAYE, MECANOGRAPHE SAPHYTO BOBO-DIOULASSO S/C TEL. 76 58 67 83"
+    },
+    {
+        "association_id": "57381279bdcd322affaa9b46b4d22581",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO SALIF, AGENT CENTRE MURAZ BOBO-DIOULASSO"
+    },
+    {
+        "association_id": "57381279bdcd322affaa9b46b4d22581",
+        "role": "VICE-PRESIDENT",
+        "name": "BAZEMO BALEMA, CHAUFFEUR DE TAXI BOBO- DIOULASSO TEL. 76 47 25 92"
+    },
+    {
+        "association_id": "57381279bdcd322affaa9b46b4d22581",
+        "role": "PRESIDENT",
+        "name": "BEREMWOUDOUGOU ARISTIDE, PROFESSEUR CER- TIFIE AU LYCEE OUEZZIN COULIBALY BOBO-DIOULASSO TEL. 70 75 83 40"
+    },
+    {
+        "association_id": "57381279bdcd322affaa9b46b4d22581",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "MEDAROSALIE, MENAGERE SECTEUR N°21 BOBO-DIOULASSO TEL. 76 35 71 18"
+    },
+    {
+        "association_id": "57381279bdcd322affaa9b46b4d22581",
+        "role": "TRESORIERE",
+        "name": "GENERALE PODA NADEGE, INFIRMIERE CSPS SECTEUR N°21 BOBO-DIOULASSO TEL. 70 10 21 51"
+    },
+    {
+        "association_id": "c60e0d76433834e19b476835ab8ee797",
+        "role": "TRESORIERE ADJOINTE",
+        "name": "BELEM MARIAM, 05 BP 6011 OUAGADOUGOU 05"
+    },
+    {
+        "association_id": "c60e0d76433834e19b476835ab8ee797",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "E A L'ORGANISATION SANOGO SALIMATA, MENAGERE AU SECTEUR N°15"
+    },
+    {
+        "association_id": "c60e0d76433834e19b476835ab8ee797",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "NIGNAN AMI, MENAGERE AU SECTEUR N°15"
+    },
+    {
+        "association_id": "c60e0d76433834e19b476835ab8ee797",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E NAZE ALIZETA, 01 BP 10 000 OUAGADOUGOU 01, TEL. 50 49 47 31/50 38 45 62"
+    },
+    {
+        "association_id": "c60e0d76433834e19b476835ab8ee797",
+        "role": "VICE-PRESIDENT",
+        "name": "E HADJA DERRA RASMATA, MENAGERE AU SEC- TEUR N°15"
+    },
+    {
+        "association_id": "c60e0d76433834e19b476835ab8ee797",
+        "role": "PRESIDENT",
+        "name": "E TAPSOBA MAÏMOUNA, 01 BP 5569 OUAGADOUGOU 01, TEL. 50 31 08 54/55 50 38 80 81"
+    },
+    {
+        "association_id": "c60e0d76433834e19b476835ab8ee797",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "DERME FATI, MENAGERE AU SEC- TEUR N°15"
+    },
+    {
+        "association_id": "c60e0d76433834e19b476835ab8ee797",
+        "role": "TRESORIERE",
+        "name": "NIKIEMA CHANTAI, 01 BP 442 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "31f3f15f903114698bea934cc255c3ab",
+        "role": "SECRETAIRE GENERAL",
+        "name": "ZOUNGRANA MARCEL, S.G.B.B. BOBO- DIOULASSO TEL. 70 25 54 28"
+    },
+    {
+        "association_id": "31f3f15f903114698bea934cc255c3ab",
+        "role": "VICE-PRESIDENT",
+        "name": "SAM YABRE, ECOLE NATIONALE DES DOUANES OUAGADOUGOU TEL. 76 66 03 98"
+    },
+    {
+        "association_id": "31f3f15f903114698bea934cc255c3ab",
+        "role": "PRESIDENT",
+        "name": "NACOULMA M. ABBE MARCEL, PAROISSE SAINT GUILLAUME DE TANGGHIN SECTEUR N°23 TEL. 70 39 91 06"
+    },
+    {
+        "association_id": "31f3f15f903114698bea934cc255c3ab",
+        "role": "TRESORIER GENERAL",
+        "name": "ADJOINT NACOULMA FELIX, BIB SIEGE DE OUAGADOUGOU"
+    },
+    {
+        "association_id": "31f3f15f903114698bea934cc255c3ab",
+        "role": "TRESORIERE",
+        "name": "GENERALE CONGO HARIGUIETTA, ACTION SOCIALE OUAGADOUGOU"
+    },
+    {
+        "association_id": "6c87fea53e8c8aeb86865352350bfd97",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "AUX RELATIONS EXTERIEURES ZOUNGRANA DENIS, 01 BP 54 OUAGADOUGOU 01, TEL. 70 24 94 49"
+    },
+    {
+        "association_id": "6c87fea53e8c8aeb86865352350bfd97",
+        "role": "SECRETAIRE ADJOINT A L'ORGANISATION",
+        "name": "CONGO SENI, 01 BP 11400 OUAGADOUGOU 01 TEL. 70 22 67 58 2EME"
+    },
+    {
+        "association_id": "6c87fea53e8c8aeb86865352350bfd97",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "DIPAMA JEAN PIERRE, S/C BAGA MATHIEU 01 BP 562 OUAGADOUGOU 01 1ER"
+    },
+    {
+        "association_id": "6c87fea53e8c8aeb86865352350bfd97",
+        "role": "SECRETAIRE GENERAL",
+        "name": "TAPSOBA P. PROSPER, 03 BP 7034 OUAGADOUGOU 03, TEL. 70 20 01 22"
+    },
+    {
+        "association_id": "6c87fea53e8c8aeb86865352350bfd97",
+        "role": "VICE-PRESIDENT",
+        "name": "ILBOUDO VINCENT, S/C EGLISE APOSTOLIQUE 01 BP 5050 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "6c87fea53e8c8aeb86865352350bfd97",
+        "role": "PRESIDENT",
+        "name": "CONGO VINCENT, 01 BP 6000 OUAGADOUGOU 01, TEL. 76 26 79 68"
+    },
+    {
+        "association_id": "6c87fea53e8c8aeb86865352350bfd97",
+        "role": "TRESORIER GENERAL",
+        "name": "YAOGO OMAR, 01 BP 1320 OUAGADOUGOU 01, TEL. 70 34 04 97 TRESORIER GENERAL ADJOINT TAPSOBA SAIDOU, 01 BP 5235 OUAGADOUGOU 01, TEL. 70 20 40 00"
+    },
+    {
+        "association_id": "c69771dc42ac188d455e27d4099eee97",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "AUX RELATIONS SPORTIVES ET CULTURELLES ROUAMBA ADAMA, 04 BP 8305 OUAGADOUGOU 04"
+    },
+    {
+        "association_id": "c69771dc42ac188d455e27d4099eee97",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO MAMADOU, 01 BP 3891 OUAGADOUGOU 01, TEL. 70 23 57 85"
+    },
+    {
+        "association_id": "c69771dc42ac188d455e27d4099eee97",
+        "role": "VICE-PRESIDENT",
+        "name": "KABORE IDRISSA, 02 BP 5679 02"
+    },
+    {
+        "association_id": "c69771dc42ac188d455e27d4099eee97",
+        "role": "PRESIDENT",
+        "name": "KONGO IBRAHIM, 07 BP 107 OUAGADOUGOU 07 TEL. 76 43 64 07"
+    },
+    {
+        "association_id": "c69771dc42ac188d455e27d4099eee97",
+        "role": "TRESORIER GENERAL",
+        "name": "KANAZOE ABOUBACAR, 01 BP 3891 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "c69771dc42ac188d455e27d4099eee97",
+        "role": "TRESORIERE",
+        "name": "GENERALE ADJOINTE KOLOGO MARIAM, 06 BP 151 OUAGADOUGOU 06 COMMISSAIRE AUX COMPTES OUEDRAOGO ISSOUF, S/C 07 BP 107 OUAGADOUGOU 07 COMMISSAIRE AUX COMPTES ADJOINT SIMPORE ALIDOU, 02 BP 5679 OUAGADOUGOU 02"
+    },
+    {
+        "association_id": "785c7c4de8467b45358230d98a319919",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'INFORMATION SANFO FANTA, S/C 01 BP 4738 OUAGADOUGOU 01 COMMISSAIRE AUX COMPTES DAB RE ALASSANE, 01 BP 1368 OUAGADOUGOU 01 COMMISSAIRE AUX COMPTES ADJOINT TRAORE SAYOUBA, S/C 01 BP 1368 OUAGADOUGOU 01 1ER"
+    },
+    {
+        "association_id": "785c7c4de8467b45358230d98a319919",
+        "role": "SECRETAIRE GENERAL",
+        "name": "HEMA ROUKIA, S/C BP 4738 OUAGADOUGOU 01, TEL. 78 80 90 77"
+    },
+    {
+        "association_id": "785c7c4de8467b45358230d98a319919",
+        "role": "VICE-PRESIDENT",
+        "name": "DABRE OUSMANE, 01 BP 4738 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "785c7c4de8467b45358230d98a319919",
+        "role": "PRESIDENT",
+        "name": "YAMEOGO GREGOIRE DIT JULES, 02 BP 5505 OUAGADOUGOU 02, TEL. 70 72 16 80"
+    },
+    {
+        "association_id": "785c7c4de8467b45358230d98a319919",
+        "role": "SECRETAIRE ADJOINT A L'INFORMATION",
+        "name": "SANFO FANTA, S/C 01 BP 4738 OUAGADOUGOU 01 COMMISSAIRE AUX COMPTES DAB RE ALASSANE, 01 BP 1368 OUAGADOUGOU 01 COMMISSAIRE AUX COMPTES ADJOINT TRAORE SAYOUBA, S/C 01 BP 1368 OUAGADOUGOU 01 1ER"
+    },
+    {
+        "association_id": "785c7c4de8467b45358230d98a319919",
+        "role": "TRESORIER GENERAL",
+        "name": "BELEM HAMIDOU, 04 BP 8305 OUAGADOUGOU 04 TRESORIER GENERAL ADJOINT NIKIEMA DAOUDA, 01 BP 6731 OUAGADOUGOU"
+    },
+    {
+        "association_id": "785c7c4de8467b45358230d98a319919",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "KOUANDA ADAMA, S/C 01 BP 4738 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "747d39bd50e1418ff5655d63c6adc697",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'ORGANISATION WIMMENGA AWA, S/C 01 BP 4738 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "747d39bd50e1418ff5655d63c6adc697",
+        "role": "SECRETAIRE ADJOINT A L'ORGANISATION",
+        "name": "WIMMENGA AWA, S/C 01 BP 4738 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "747d39bd50e1418ff5655d63c6adc697",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "YANOGO HENRY, S/C 01 BP 6731 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "747d39bd50e1418ff5655d63c6adc697",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO OUSMANE, 01 BP 6731 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "747d39bd50e1418ff5655d63c6adc697",
+        "role": "VICE-PRESIDENT",
+        "name": "TINDANO MARIE, S/C 01 BP 6731 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "747d39bd50e1418ff5655d63c6adc697",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO DJIBRIL, S/C 7004 OUAGADOUGOU 01, TEL. 70 26 61 81"
+    },
+    {
+        "association_id": "747d39bd50e1418ff5655d63c6adc697",
+        "role": "SECRETAIRE ADJOINT A L'INFORMATION",
+        "name": "SAWADOGO AMINATA, S/C 01 BP 6731 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "747d39bd50e1418ff5655d63c6adc697",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "COMPAORE MOUSSA, S/C 01 BP 6731 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "ea792b3d08bb895f0ed1279d4079099b",
+        "role": "TRESORIERE ADJOINTE",
+        "name": "ZOMBO MARIAM, MENAGERE AU SECTEUR N°19 OUAGADOUGOU"
+    },
+    {
+        "association_id": "ea792b3d08bb895f0ed1279d4079099b",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "E ZAGRE SOLANGE, INSTITUTRICE A L'ECOLE NONGUIN MIKI SECTEUR N°19 OUAGADOUGOU PAGE 41 10 JANVIER 2008 JOURNAL OFFICIEL DU BURKINA FASO N°02 65"
+    },
+    {
+        "association_id": "ea792b3d08bb895f0ed1279d4079099b",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "YANOGO ZENABO, COMMERÇANTE AU MARCHE DU SECTEUR N°19 OUAGADOUGOU"
+    },
+    {
+        "association_id": "ea792b3d08bb895f0ed1279d4079099b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E KONKOBO CHRISTINE, MENAGERES AU SECTEUR N°19 OUAGADOUGOU"
+    },
+    {
+        "association_id": "ea792b3d08bb895f0ed1279d4079099b",
+        "role": "PRESIDENT",
+        "name": "E OUEDRAOGO AWA, MENAGERE AU SECTEUR N°19 OUAGADOUGOU TEL. 76 11 42 15"
+    },
+    {
+        "association_id": "ea792b3d08bb895f0ed1279d4079099b",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "SANDWIDI EDITH, MENAGERE AU SECTEUR N°19 OUAGADOUGOU"
+    },
+    {
+        "association_id": "ea792b3d08bb895f0ed1279d4079099b",
+        "role": "TRESORIERE",
+        "name": "OUEDRAOGO MARIAM, MENAGERE AU SECTEUR N°19 OUAGADOUGOU"
+    },
+    {
+        "association_id": "55c4ae9b3fb25af5331846e0796660da",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A LA MOBILISATION DES FEMMES WILLI BIBATTA, S/C 09 BP 712 OUAGADOUGOU 09 1ER"
+    },
+    {
+        "association_id": "55c4ae9b3fb25af5331846e0796660da",
+        "role": "SECRETAIRE GENERAL",
+        "name": "KABORE Y SAÏDOU, S/C 06 BP 9706 I OUAGADOUGOU 06, TEL. 76 03 11 22 I"
+    },
+    {
+        "association_id": "55c4ae9b3fb25af5331846e0796660da",
+        "role": "VICE-PRESIDENT",
+        "name": "MARANGA ABDOULAY, 06 BP 3853 I OUAGADOUGOU 06"
+    },
+    {
+        "association_id": "55c4ae9b3fb25af5331846e0796660da",
+        "role": "PRESIDENT",
+        "name": "DERRA MAHAMOUDOU, 06 BP 9706 OUAGADOUGOU 06 TEL. 70 28 50 54"
+    },
+    {
+        "association_id": "55c4ae9b3fb25af5331846e0796660da",
+        "role": "TRESORIER GENERAL",
+        "name": "OUEDRAOGO ALASSANE, S/C 01 BP 752 I OUAGADOUGOU 01 TRESORIER GENERAL ADJOINT NIEKIEMA K. ABDOU RASMANE, I 09 BP 327 OUAGADOUGOU 09"
+    },
+    {
+        "association_id": "583748ee51bf821002c657b27d52c0d6",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'INFORMATION KABORE ISSIAKA, 01 BP 6288 OUAGADOUGOU 01 COMMISSAIRE AUX COMPTE S NIKIEMA ELIE, 08 BP 11208 OUAGADOUGOU 08 COMMISSAIRE AUX COMPTES ADJOINT NABOLE OUMAROU, S/C 04 8401 OUAGADOUGOU 04 1ER"
+    },
+    {
+        "association_id": "583748ee51bf821002c657b27d52c0d6",
+        "role": "SECRETAIRE GENERAL",
+        "name": "KABORE SAÏDOU, S/C 01 BP 6348 OUAGADOUGOU 01, TEL. 70 70 66 97"
+    },
+    {
+        "association_id": "583748ee51bf821002c657b27d52c0d6",
+        "role": "VICE-PRESIDENT",
+        "name": "MAIGA BOUREIMA, 01 BP 6348 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "583748ee51bf821002c657b27d52c0d6",
+        "role": "PRESIDENT",
+        "name": "KABORE SALFO, 01 BP 4738 OUAGADOUGOU 01 TEL. 76 63 60 85"
+    },
+    {
+        "association_id": "583748ee51bf821002c657b27d52c0d6",
+        "role": "SECRETAIRE ADJOINT A L'INFORMATION",
+        "name": "KABORE ISSIAKA, 01 BP 6288 OUAGADOUGOU 01 COMMISSAIRE AUX COMPTE S NIKIEMA ELIE, 08 BP 11208 OUAGADOUGOU 08 COMMISSAIRE AUX COMPTES ADJOINT NABOLE OUMAROU, S/C 04 8401 OUAGADOUGOU 04 1ER"
+    },
+    {
+        "association_id": "583748ee51bf821002c657b27d52c0d6",
+        "role": "TRESORIER GENERAL",
+        "name": "NACANABO INOUSSA, S/C 04 BP 8305 OUAGADOUGOU 01 TRESORIER GENERAL ADJOINT NABOLE BOUKARI, S/C 01 BP 6813 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "583748ee51bf821002c657b27d52c0d6",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "NIKIEMA KARIM, S/C 01 BP 4277 OUAGADOUGOUOL"
+    },
+    {
+        "association_id": "4df3792f8c7a6615c2acc7f172ce6291",
+        "role": "TRESORIERE ADJOINTE",
+        "name": "ZIDOUEMBA/KANKOANDE SUZANNE, TEL. 70 10 00 84"
+    },
+    {
+        "association_id": "4df3792f8c7a6615c2acc7f172ce6291",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "E AUX RELATIONS EXTERIEURES KABORE THEODORA YASMINE, TEL. 76 50 50 09"
+    },
+    {
+        "association_id": "4df3792f8c7a6615c2acc7f172ce6291",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "ZONGO MOUSSA, TEL.:76 52 23 71"
+    },
+    {
+        "association_id": "4df3792f8c7a6615c2acc7f172ce6291",
+        "role": "VICE-PRESIDENT",
+        "name": "E SAWADOGO TAPSORE AMINATA, TEL. 70 41 71 75"
+    },
+    {
+        "association_id": "4df3792f8c7a6615c2acc7f172ce6291",
+        "role": "PRESIDENT",
+        "name": "CONGO S. NESON, 09 BP 1293 OUAGADOUGOU 09 TEL. 70 71 53 71"
+    },
+    {
+        "association_id": "4df3792f8c7a6615c2acc7f172ce6291",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "ET A LA COMMUNICATION SOME Y. FIRMIN, TEL. 70 26 44 72"
+    },
+    {
+        "association_id": "4df3792f8c7a6615c2acc7f172ce6291",
+        "role": "TRESORIERE",
+        "name": "TIENDREBEOGO CATHERINE, TEL. 76 66 27 59"
+    },
+    {
+        "association_id": "351aa70a5d7c3c1d3361696bb5741d7e",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "BONKOUNGOU K. ERIC, 01 BP 1185 OUAGADOUGOU 01, TEL. 76 52 24 94"
+    },
+    {
+        "association_id": "351aa70a5d7c3c1d3361696bb5741d7e",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BILGO MATHIEU, 01 BP 1185 OUAGADOUGOU 01, TEL. 70 75 38 72"
+    },
+    {
+        "association_id": "351aa70a5d7c3c1d3361696bb5741d7e",
+        "role": "VICE-PRESIDENT",
+        "name": "OUEDRAOGO ALBERT, TEL. 76 01 48 00"
+    },
+    {
+        "association_id": "351aa70a5d7c3c1d3361696bb5741d7e",
+        "role": "PRESIDENT",
+        "name": "NANA ABEL, 01 BP 1185 OUAGADOUGOU 01, TEL. 70 25 39 74"
+    },
+    {
+        "association_id": "351aa70a5d7c3c1d3361696bb5741d7e",
+        "role": "TRESORIER GENERAL",
+        "name": "OUEDROAGO K. MATHIEU, 01 BP 1185 OUAGADOUGOU 01 TEL. 70 26 26 44"
+    },
+    {
+        "association_id": "351aa70a5d7c3c1d3361696bb5741d7e",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "NANA A. CLAUDE, 01 BP 1185 OUAGADOUGOU 01, TEL. 70 25 10 52"
+    },
+    {
+        "association_id": "351aa70a5d7c3c1d3361696bb5741d7e",
+        "role": "TRESORIERE",
+        "name": "GENERALE ADJOINTE BONKOUNGOU R. CLARISSE, 01 BP 1185 OUAGADOUGOU 01, TEL. 76 02 48 29"
+    },
+    {
+        "association_id": "31663d3326d0ca57634a8655487d1ecb",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "AUX RELATIONS EXTERIEURES DAOUEGA HALIDOU, 01 BP 5421 OUAGADOUGOU 01, TEL. 70 21 61 33 2EME"
+    },
+    {
+        "association_id": "31663d3326d0ca57634a8655487d1ecb",
+        "role": "SECRETAIRE ADJOINT A L'ORGANISATION",
+        "name": "BELLA SAÏDOU, TEL. 70 23 20 40"
+    },
+    {
+        "association_id": "31663d3326d0ca57634a8655487d1ecb",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "ZOUNDI/SAWADOGO HONORINE, TEL. 70 27 70 78"
+    },
+    {
+        "association_id": "31663d3326d0ca57634a8655487d1ecb",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO MOHAMADI, 08 BP 11062 OUAGADOUGOU 08 TEL. 70 22 97 90"
+    },
+    {
+        "association_id": "31663d3326d0ca57634a8655487d1ecb",
+        "role": "VICE-PRESIDENT",
+        "name": "BEREWIDOUGOU GABRIEL, TEL. 973 642 3232 USA, TEL. 973 418 1886 2EME VICE-"
+    },
+    {
+        "association_id": "31663d3326d0ca57634a8655487d1ecb",
+        "role": "PRESIDENT",
+        "name": "TAPSOBA BOUREIMA, 08 BP 11123 OUAGADOUGOU 08 TEL. 70 23 24 23"
+    },
+    {
+        "association_id": "31663d3326d0ca57634a8655487d1ecb",
+        "role": "SECRETAIRE ADJOINT A L'INFORMATION",
+        "name": "NIKIEMA ANAS, TEL. 70 16 16 19 2®ME"
+    },
+    {
+        "association_id": "31663d3326d0ca57634a8655487d1ecb",
+        "role": "TRESORIER GENERAL",
+        "name": "KABRE YACOUBA, TEL. 70 11 75 66"
+    },
+    {
+        "association_id": "31663d3326d0ca57634a8655487d1ecb",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "ZOROM SEYDOU, 10 BP 13744 OUAGADOUGOU 10, TEL. 70 21 70 21"
+    },
+    {
+        "association_id": "781845a16040ccac599dab0c47e24102",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "LOURE APOLLINE, INSTITUTRICE, A OHG TEL. 70 72 21 23"
+    },
+    {
+        "association_id": "781845a16040ccac599dab0c47e24102",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E SOANGA/SIA N'MÂ, INSTITUTRICE A L'ECOLE DE OUFRE TEL. 70 38 08 01"
+    },
+    {
+        "association_id": "781845a16040ccac599dab0c47e24102",
+        "role": "VICE-PRESIDENT",
+        "name": "E OUBDA HANRYATOU, INSTITUTRICE A L'ECOLE BASNERE TEL. 76 65 23 80"
+    },
+    {
+        "association_id": "781845a16040ccac599dab0c47e24102",
+        "role": "PRESIDENT",
+        "name": "E RABO DJENEBA, INSTITUTRICE A L'ECOLE DE OUFRE TEL. 78 15 52 02"
+    },
+    {
+        "association_id": "781845a16040ccac599dab0c47e24102",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "GANAME ALIMA, INSTITUTRICE A OHG TEL. 70 38 08 06"
+    },
+    {
+        "association_id": "781845a16040ccac599dab0c47e24102",
+        "role": "TRESORIERE",
+        "name": "GENERALE SAWADOGO CATHERINE, INSTITUTRICE A L'ECOLE DE BOGOYA TEL. 76 56 42 58"
+    },
+    {
+        "association_id": "006054f6a949f5cdcd8d4a75523bad9b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "EL-RADI JIHAD, 06 BP 9339 OUAGADOUGOU 06"
+    },
+    {
+        "association_id": "006054f6a949f5cdcd8d4a75523bad9b",
+        "role": "PRESIDENT",
+        "name": "MEROUEH AHMED, 01 BP 1758 OUAGADOUGOU 01 1ER"
+    },
+    {
+        "association_id": "006054f6a949f5cdcd8d4a75523bad9b",
+        "role": "RESPONSABLE A L'INFORMATION",
+        "name": "ET A L'ORGANISATION MAIGA BOUBAKARI, 01 BP 138 OUAGADOUGOU 01"
+    },
+    {
+        "association_id": "0026c6dd85a2f1273e434c8a8ee859c5",
+        "role": "TRESORIERE ADJOINTE",
+        "name": "KOUDA SYLVIE, SECTEUR N°16 09 BP 903 OUAGADOUGOU 09 TEL. 50 42 30 88"
+    },
+    {
+        "association_id": "0026c6dd85a2f1273e434c8a8ee859c5",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E KYEMTORE MINATA, PORTE N°55, RUE 16-144"
+    },
+    {
+        "association_id": "0026c6dd85a2f1273e434c8a8ee859c5",
+        "role": "VICE-PRESIDENT",
+        "name": "E KONATE ALIDJATA, PORTE N°274, RUE 16-282"
+    },
+    {
+        "association_id": "0026c6dd85a2f1273e434c8a8ee859c5",
+        "role": "PRESIDENT",
+        "name": "E KONATE/NIKIEMA AMINATA, PORTE N°274, RUE 16-282 TEL 50 42 30 88"
+    },
+    {
+        "association_id": "0026c6dd85a2f1273e434c8a8ee859c5",
+        "role": "TRESORIERE",
+        "name": "COULIBALY KEZIA, PORTE N°81, RUE 16-189"
+    },
+    {
+        "association_id": "877edac2ca2a797bea39ffb4ba79392e",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E TRA0RE NATOGOMA RESTAURATRICE RESIDENTE A TOUSSIANA"
+    },
+    {
+        "association_id": "877edac2ca2a797bea39ffb4ba79392e",
+        "role": "PRESIDENT",
+        "name": "E COULIBALY ROSINE, RESTAURATRICE RESIDENTE A TOUSSIANA TEL 76 24 48 56 VICE PRESIDENTE 0UATTARA JACQUELINE RESTAURATRICE RESIDENTE A TOUSSIANA"
+    },
+    {
+        "association_id": "877edac2ca2a797bea39ffb4ba79392e",
+        "role": "TRESORIERE",
+        "name": "GENERALE OUATTARA BATOGOMA RESTAURATRICE RESIDENTE A TOUSSIANA"
+    }
+]

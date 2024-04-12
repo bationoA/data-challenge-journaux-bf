@@ -1,0 +1,47 @@
+[
+    {
+        "association_id": "e3744c8943e59464f2782298ace7fb1a",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO KISWENDSIDA YOUSSOUF"
+    },
+    {
+        "association_id": "e3744c8943e59464f2782298ace7fb1a",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO YACOUBA BAMBYAM"
+    },
+    {
+        "association_id": "f19768e5a518140b94d3da380530bfcd",
+        "role": "SECRETAIRE GENERAL",
+        "name": "ZANGO RELWENDE VINCENT"
+    },
+    {
+        "association_id": "f19768e5a518140b94d3da380530bfcd",
+        "role": "PRESIDENT",
+        "name": "COMPAORE PINGDAWENDE PHILIPPE"
+    },
+    {
+        "association_id": "b6cf5b65bc2a048718dcda5b01520444",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO MAHAMOUDOU"
+    },
+    {
+        "association_id": "b6cf5b65bc2a048718dcda5b01520444",
+        "role": "PRESIDENT",
+        "name": "KABORE DRAMANE"
+    },
+    {
+        "association_id": "9c9d1204130567b391080b0a753cfcbb",
+        "role": "PRESIDENT",
+        "name": "NANA SACRE"
+    },
+    {
+        "association_id": "0625b2df3d69944f4d06b5b4243f7a4a",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUATTARA ISSA, TEL 76 72 79 65"
+    },
+    {
+        "association_id": "0625b2df3d69944f4d06b5b4243f7a4a",
+        "role": "PRESIDENT",
+        "name": "DEME ISMAÏLA, TEL 78 74 60 82"
+    }
+]

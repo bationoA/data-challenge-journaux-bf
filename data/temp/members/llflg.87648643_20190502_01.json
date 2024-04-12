@@ -1,72 +1,72 @@
 [
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "KOMONDI MOUSSA, TEL. 61 05 23 21",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "65e915e47ef2f0a19b4c1f45396ddb80",
+        "role": "SECRETAIRE GENERAL",
+        "name": "KOMONDI MOUSSA, TEL. 61 05 23 21"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "HANRO BOUREIMA, TEL. 70 36 22 60",
-        "role": "PRESIDENT"
+        "association_id": "65e915e47ef2f0a19b4c1f45396ddb80",
+        "role": "PRESIDENT",
+        "name": "HANRO BOUREIMA, TEL. 70 36 22 60"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "OUEDRAOGO KALIZETA, TEL. 70 27 43 16",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "22faa85262298558115acf6e639bd9d3",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO KALIZETA, TEL. 70 27 43 16"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "OUEDRAOGO ABDOULAYE, TEL. 70 23 28 55",
-        "role": "PRESIDENT"
+        "association_id": "22faa85262298558115acf6e639bd9d3",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO ABDOULAYE, TEL. 70 23 28 55"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "NIKIEMA SALIF",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "cd8a63b282c43f642876205108eff80c",
+        "role": "SECRETAIRE GENERAL",
+        "name": "NIKIEMA SALIF"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "OUEDRAGO BENOIT",
-        "role": "PRESIDENT"
+        "association_id": "cd8a63b282c43f642876205108eff80c",
+        "role": "PRESIDENT",
+        "name": "OUEDRAGO BENOIT"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "E OUEDRAOGO MARTINE",
-        "role": "VICE-PRESIDENT"
+        "association_id": "96788e97d0ae1bb0daa1463ea98e9bc4",
+        "role": "VICE-PRESIDENT",
+        "name": "E OUEDRAOGO MARTINE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "E NACOULMA WEND-WAOGA PAULINE",
-        "role": "PRESIDENT"
+        "association_id": "96788e97d0ae1bb0daa1463ea98e9bc4",
+        "role": "PRESIDENT",
+        "name": "E NACOULMA WEND-WAOGA PAULINE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "E OUEDRAOGO MARTINE",
-        "role": "VICE-PRESIDENT"
+        "association_id": "221946c5902353d29dec3facbe709f47",
+        "role": "VICE-PRESIDENT",
+        "name": "E OUEDRAOGO MARTINE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "E NACOULMA WEND-WAOGA PAULINE",
-        "role": "PRESIDENT"
+        "association_id": "221946c5902353d29dec3facbe709f47",
+        "role": "PRESIDENT",
+        "name": "E NACOULMA WEND-WAOGA PAULINE"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "E KAFANDO AOUA, -TEL!70 79 30 18",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "ae33c85135bada77499e8a4a7b06c0ae",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E KAFANDO AOUA, -TEL!70 79 30 18"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "KADIOGO LOKRE, TEL. 70 75 56 07 )L",
-        "role": "PRESIDENT"
+        "association_id": "ae33c85135bada77499e8a4a7b06c0ae",
+        "role": "PRESIDENT",
+        "name": "KADIOGO LOKRE, TEL. 70 75 56 07 )L"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "OU ALI MINDIEBA, TEL.76 86 86 71",
-        "role": "SECRETAIRE GENERAL"
+        "association_id": "ea905e497c428c594781e76a50e63d43",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OU ALI MINDIEBA, TEL.76 86 86 71"
     },
     {
-        "asso_id": "data/journaux/file_llflg.87648643_20190502_01.txt",
-        "name": "E KINDO BASSERATOU, TEL. 76 64 3010",
-        "role": "PRESIDENT"
+        "association_id": "ea905e497c428c594781e76a50e63d43",
+        "role": "PRESIDENT",
+        "name": "E KINDO BASSERATOU, TEL. 76 64 3010"
     }
 ]

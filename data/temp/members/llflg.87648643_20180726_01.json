@@ -1,0 +1,617 @@
+[
+    {
+        "association_id": "870f0823c84073d27b7b5a2a183514f0",
+        "role": "SECRETAIRE GENERAL",
+        "name": "KABRE DANIEL"
+    },
+    {
+        "association_id": "870f0823c84073d27b7b5a2a183514f0",
+        "role": "PRESIDENT",
+        "name": "KABRE SANA JEAN-BAPTISTE"
+    },
+    {
+        "association_id": "9d18da89704c4b5e6c4cbf5cf77775fa",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'ORGANISATION 1AYAMA SATIEBA, TEL. 69 26 64 24"
+    },
+    {
+        "association_id": "9d18da89704c4b5e6c4cbf5cf77775fa",
+        "role": "SECRETAIRE ADJOINT A L'ORGANISATION",
+        "name": "1AYAMA SATIEBA, TEL. 69 26 64 24"
+    },
+    {
+        "association_id": "9d18da89704c4b5e6c4cbf5cf77775fa",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "HEMA T. IBRAHIM, TEL. 72 70 30 39"
+    },
+    {
+        "association_id": "9d18da89704c4b5e6c4cbf5cf77775fa",
+        "role": "SECRETAIRE GENERAL",
+        "name": "ZERBO IBRAHIM, TEL. 78 05 26 76"
+    },
+    {
+        "association_id": "9d18da89704c4b5e6c4cbf5cf77775fa",
+        "role": "PRESIDENT",
+        "name": "HEMA ISSOUF, TEL. 70 26 56 43"
+    },
+    {
+        "association_id": "9d18da89704c4b5e6c4cbf5cf77775fa",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "TRAORE M. SEYDOU, TEL. 78 82 53 26"
+    },
+    {
+        "association_id": "9d18da89704c4b5e6c4cbf5cf77775fa",
+        "role": "TRESORIERE",
+        "name": "DIABY/TONDE VERONIQUE, TEL. 78 11 61 95"
+    },
+    {
+        "association_id": "0766efd3ac0d7090b58e3f9bca9251c5",
+        "role": "VICE-PRESIDENT",
+        "name": "BANGRE MOUSSA"
+    },
+    {
+        "association_id": "0766efd3ac0d7090b58e3f9bca9251c5",
+        "role": "PRESIDENT",
+        "name": "KAFANDO DIDIER"
+    },
+    {
+        "association_id": "a51e509dacc622ca5a4266d5971b188d",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E ZINABA CECILE WENDPEGDA, A BOULSA SECTEUR N° 6, TEL. 71 06 99 84"
+    },
+    {
+        "association_id": "a51e509dacc622ca5a4266d5971b188d",
+        "role": "VICE-PRESIDENT",
+        "name": "E IMA W. MARGUERITE MARIE, GESTIONNAIRE A BOULSA SECTEUR N° 1, TEL. 71 24 92 21"
+    },
+    {
+        "association_id": "a51e509dacc622ca5a4266d5971b188d",
+        "role": "PRESIDENT",
+        "name": "NONABA DIEUDONNE, FORMATEUR A BOULSA SECTEUR N° 6, TEL. 24 70 77 17 70 37 67 49"
+    },
+    {
+        "association_id": "a51e509dacc622ca5a4266d5971b188d",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "NONABA EMILE, ANIMATEUR A BOULSA SECTEUR N° 6, TEL. 70 07 01 70"
+    },
+    {
+        "association_id": "a51e509dacc622ca5a4266d5971b188d",
+        "role": "TRESORIERE",
+        "name": "GENERALE IMA K. HONORINE, ANIMATRICE A BOULSA SECTEUR N° 1, TEL. 73 26 44 01"
+    },
+    {
+        "association_id": "4c45f56141c56e6c95b0dbb2581b6d24",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "ET A L'INFORMATION HIEN IRENE, TEL. 60 97 30 53"
+    },
+    {
+        "association_id": "4c45f56141c56e6c95b0dbb2581b6d24",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E NIGNAN/NAPON ASSANA"
+    },
+    {
+        "association_id": "4c45f56141c56e6c95b0dbb2581b6d24",
+        "role": "PRESIDENT",
+        "name": "E NIGNAN SALIMATA"
+    },
+    {
+        "association_id": "a8c6db8a3aca6660061b6597b0ea7907",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E NIGNAN/NAPON ASSANA"
+    },
+    {
+        "association_id": "a8c6db8a3aca6660061b6597b0ea7907",
+        "role": "PRESIDENT",
+        "name": "E NIGNAN SALIMATA"
+    },
+    {
+        "association_id": "6f6e2f3a4f8700c008b01c0b93f53ff7",
+        "role": "VICE-PRESIDENT",
+        "name": "POYGA OUEDAN"
+    },
+    {
+        "association_id": "6f6e2f3a4f8700c008b01c0b93f53ff7",
+        "role": "PRESIDENT",
+        "name": "TAPSOBAALI 1ER"
+    },
+    {
+        "association_id": "6fe757e6ed98042331beb38df9b6d0c1",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SAWADOGO NOMWINDE VIVIEN"
+    },
+    {
+        "association_id": "6fe757e6ed98042331beb38df9b6d0c1",
+        "role": "PRESIDENT",
+        "name": "SEGUEDA DAGNANG-NE-WENDE LEOPOLD"
+    },
+    {
+        "association_id": "f4e7d002838bf3e66f105ceaa41e3787",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BAYALA EDASSO RODRIGUE"
+    },
+    {
+        "association_id": "f4e7d002838bf3e66f105ceaa41e3787",
+        "role": "PRESIDENT",
+        "name": "E KABORE AOUA"
+    },
+    {
+        "association_id": "f4e7d002838bf3e66f105ceaa41e3787",
+        "role": "TRESORIERE",
+        "name": "GENERALE KANYILI MARIA RECEPISSE DE DECLARATION D'ASSOCIATION N° 2018- 00344301 DU 08 MAI 2018. LE MINISTRE DE L'ADMINISTRATION TERRITORIALE ET DE LA DECENTRALISATION, DONNE AUX PERSONNES CI-APRES DESIGNEES, RECEPISSE DE DECLARATION D'EXISTENCE POUR L'ASSOCIATION REGIE PAR LA LOI N° 064- 2015/CNT DU 20 OCTOBRE 2015, PORTANT LIBERTE D'ASSOCIATION. DENOMINATION ASSOCIATION DES TISSEUSES BARK-WENDE SIEGE OUAGADOUGOU ADRESSE TEL. 74 73 12 95 DOMAINE D'INTERVENTION PROMOTION DU SECTEUR PRIVE OBJET PRINCIPAL CONTRIBUER A LA PROMOTION DU PAGNE TISSE PRINCIPAUX DIRIGEANTS"
+    },
+    {
+        "association_id": "24bb6b1a70816856109228760232c1b1",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E OUEDRAOGO ANDREA LERE JUMELLE"
+    },
+    {
+        "association_id": "24bb6b1a70816856109228760232c1b1",
+        "role": "PRESIDENT",
+        "name": "E KABORE AOUA"
+    },
+    {
+        "association_id": "25bd192d101b0f371c0cb27849e719a5",
+        "role": "VICE-PRESIDENT",
+        "name": "NIKIEMA ZOEWENDPAOGRE MARTIN"
+    },
+    {
+        "association_id": "25bd192d101b0f371c0cb27849e719a5",
+        "role": "PRESIDENT",
+        "name": "ZANGRE FRANÇOIS"
+    },
+    {
+        "association_id": "31cf086e208ea96c87293b773d51ac2e",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "SAWADOGO JEAN, TEL. 78 21 79 83"
+    },
+    {
+        "association_id": "31cf086e208ea96c87293b773d51ac2e",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SAWADOGO N. KARIM, TEL. 78 06 83 59"
+    },
+    {
+        "association_id": "31cf086e208ea96c87293b773d51ac2e",
+        "role": "VICE-PRESIDENT",
+        "name": "SAWADOGO MAHAMA FELIX, TEL. 70 96 44 66"
+    },
+    {
+        "association_id": "31cf086e208ea96c87293b773d51ac2e",
+        "role": "PRESIDENT",
+        "name": "SAWADOGO R. CLEMENT, TEL. 78 81 84 83"
+    },
+    {
+        "association_id": "31cf086e208ea96c87293b773d51ac2e",
+        "role": "TRESORIER GENERAL",
+        "name": "SAWADOGO SIDIWAYA, TEL 76 46 23 61"
+    },
+    {
+        "association_id": "31cf086e208ea96c87293b773d51ac2e",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "SAWADOGO SIGUIA, TEL. 68 37 59 25"
+    },
+    {
+        "association_id": "31cf086e208ea96c87293b773d51ac2e",
+        "role": "TRESORIERE",
+        "name": "GENERALE ADJOINTE SAWADOGO G. AICHA JOSIANE, TEL. 79 83 88 74"
+    },
+    {
+        "association_id": "9b57a73baac929e998a78ccf46c76d18",
+        "role": "RESPONSABLE ADJOINT A L'INFORMATION",
+        "name": "SONDE HAMADOU, ELEVEUR A MANNI, TEL. 76 29 25 32"
+    },
+    {
+        "association_id": "9b57a73baac929e998a78ccf46c76d18",
+        "role": "SECRETAIRE GENERAL",
+        "name": "CISSE HAMIDOU, MAITRE CORANIQUE A MANNI, TEL. 76 23 89 67/70 83 98 19"
+    },
+    {
+        "association_id": "9b57a73baac929e998a78ccf46c76d18",
+        "role": "VICE-PRESIDENT",
+        "name": "DIALLO OUSMANE, ELEVEUR A KOULFO, TEL. 76 25 27 69"
+    },
+    {
+        "association_id": "9b57a73baac929e998a78ccf46c76d18",
+        "role": "PRESIDENT",
+        "name": "DIALLO OUSMANE, AGENT DE BUREAU, MAIRIE DE MANNI, TEL. 70 48 33 56/78 79 14 61"
+    },
+    {
+        "association_id": "9b57a73baac929e998a78ccf46c76d18",
+        "role": "RESPONSABLE A L'INFORMATION",
+        "name": "SIDIKI RAMATA, ELEVEUR A MANNI TEL. 60 79 09 90"
+    },
+    {
+        "association_id": "9b57a73baac929e998a78ccf46c76d18",
+        "role": "TRESORIER GENERAL",
+        "name": "TAMBOURA BELKO, INFIRMIER DIPLÔME D'ETAT A LA RETRAITE A MANNI, TEL. 71 13 92 25/ 78 53 34 96 TRESORIER GENERAL ADJOINT ZORE MOUSSA, ELEVEUR A OBDAGA, TEL. 76 21 86 47"
+    },
+    {
+        "association_id": "753fdb384562d82ef22bfeb016a6aff9",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "KONE KARIDA, TEL. 68 92 96 51"
+    },
+    {
+        "association_id": "753fdb384562d82ef22bfeb016a6aff9",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E COMPAORE ZOENABO, TEL. 79 07 19 96"
+    },
+    {
+        "association_id": "753fdb384562d82ef22bfeb016a6aff9",
+        "role": "VICE-PRESIDENT",
+        "name": "E OUEDRAOGO MARIAM, TEL. 78 17 28 99"
+    },
+    {
+        "association_id": "753fdb384562d82ef22bfeb016a6aff9",
+        "role": "PRESIDENT",
+        "name": "E TIENDREBEOGO SALAMATA, TEL. 76 29 07 82"
+    },
+    {
+        "association_id": "753fdb384562d82ef22bfeb016a6aff9",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "ET A LA PRESSE VELEGDA Y. BERNADINE, TEL. 76 76 86 09"
+    },
+    {
+        "association_id": "753fdb384562d82ef22bfeb016a6aff9",
+        "role": "TRESORIERE",
+        "name": "GENERALE TIENDREBEOGO FANTA, TEL. 78 06 46 41"
+    },
+    {
+        "association_id": "87b07ed6ec4c76a9b8d81ae6f243fa73",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SAWADOGO YAYA"
+    },
+    {
+        "association_id": "87b07ed6ec4c76a9b8d81ae6f243fa73",
+        "role": "PRESIDENT",
+        "name": "TAPSOBA ADAMA"
+    },
+    {
+        "association_id": "71559fd17ae4f1b62289e23d2932ff42",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO YOUSSOUF"
+    },
+    {
+        "association_id": "71559fd17ae4f1b62289e23d2932ff42",
+        "role": "PRESIDENT",
+        "name": "BAMOGO ADAMA"
+    },
+    {
+        "association_id": "03cf8900f05178f818fe7ccddf0e607f",
+        "role": "VICE-PRESIDENT",
+        "name": "E BARRY MARIAM"
+    },
+    {
+        "association_id": "03cf8900f05178f818fe7ccddf0e607f",
+        "role": "PRESIDENT",
+        "name": "E NIGNAN EMELINE"
+    },
+    {
+        "association_id": "66c016b697c8be084644cd07e648f2b3",
+        "role": "VICE-PRESIDENT",
+        "name": "E COMPAORE ADIARATOU"
+    },
+    {
+        "association_id": "66c016b697c8be084644cd07e648f2b3",
+        "role": "PRESIDENT",
+        "name": "E BADOUN/OUEDRAOGO AMI"
+    },
+    {
+        "association_id": "f48070362a96abd45c06eaa3449c2f44",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO YACOUBA"
+    },
+    {
+        "association_id": "f48070362a96abd45c06eaa3449c2f44",
+        "role": "PRESIDENT",
+        "name": "SAVADOGO BOUKARI"
+    },
+    {
+        "association_id": "cbef06ec370d1b996182c8c60e2c00eb",
+        "role": "VICE-PRESIDENT",
+        "name": "T1ENDREBEOGO ADAMA PAUL"
+    },
+    {
+        "association_id": "cbef06ec370d1b996182c8c60e2c00eb",
+        "role": "PRESIDENT",
+        "name": "OUATTARA ABOUBACAR"
+    },
+    {
+        "association_id": "4a3bdf58ebbdacfbc7b9d8267070b768",
+        "role": "VICE-PRESIDENT",
+        "name": "E BILGO FATIMATA"
+    },
+    {
+        "association_id": "4a3bdf58ebbdacfbc7b9d8267070b768",
+        "role": "PRESIDENT",
+        "name": "NOMBRE ROANNE EMMANUEL"
+    },
+    {
+        "association_id": "97a70e6f5b5cf290ec6c86dae2af2e80",
+        "role": "VICE-PRESIDENT",
+        "name": "E KAGONE AMINATA"
+    },
+    {
+        "association_id": "97a70e6f5b5cf290ec6c86dae2af2e80",
+        "role": "PRESIDENT",
+        "name": "E BARRY FATIMATA"
+    },
+    {
+        "association_id": "a7ed648ab8b18c3319a957650db6ed36",
+        "role": "VICE-PRESIDENT",
+        "name": "DAILA PAPIAN"
+    },
+    {
+        "association_id": "a7ed648ab8b18c3319a957650db6ed36",
+        "role": "PRESIDENT",
+        "name": "KASSIA SALIFOU"
+    },
+    {
+        "association_id": "23673f20e9a3570183d21fe915936885",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO SALIMATA, MENAGERE, TEL. 78 06 88 61"
+    },
+    {
+        "association_id": "23673f20e9a3570183d21fe915936885",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO SOMBEWENDIN, AGENT COMMUNAUTAIRE DE SANTE TEL. 70 38 22 57"
+    },
+    {
+        "association_id": "50fbb29a8f50eb966d9f0880368604e1",
+        "role": "VICE-PRESIDENT",
+        "name": "E SAKO HAOUA"
+    },
+    {
+        "association_id": "50fbb29a8f50eb966d9f0880368604e1",
+        "role": "PRESIDENT",
+        "name": "E SANA PASCALINE"
+    },
+    {
+        "association_id": "439ee5db160047250111cd34f4bd55c0",
+        "role": "SECRETAIRE GENERAL",
+        "name": "HERRERA MARTINEZ ANTONIO ROSENDO"
+    },
+    {
+        "association_id": "439ee5db160047250111cd34f4bd55c0",
+        "role": "PRESIDENT",
+        "name": "E MARCHESE MARIA ANTONIETTA"
+    },
+    {
+        "association_id": "72d965f73fee5b4d9afad187064e708f",
+        "role": "TRESORIERE ADJOINTE",
+        "name": "TISSOLOGO SYLVIE, COMMERÇANTE A FADA"
+    },
+    {
+        "association_id": "72d965f73fee5b4d9afad187064e708f",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "E MILOGO AÏSSA APOLLINE, COMMERÇANTE A FADA"
+    },
+    {
+        "association_id": "72d965f73fee5b4d9afad187064e708f",
+        "role": "VICE-PRESIDENT",
+        "name": "DAHANI IDRISSA, COMMERÇANT A FADA"
+    },
+    {
+        "association_id": "72d965f73fee5b4d9afad187064e708f",
+        "role": "PRESIDENT",
+        "name": "DAHANI SALIFOU, JARDINIER A FADA"
+    },
+    {
+        "association_id": "72d965f73fee5b4d9afad187064e708f",
+        "role": "TRESORIERE",
+        "name": "TRAORE HADIARATOU, COMMERÇANTE A FADA"
+    },
+    {
+        "association_id": "44a656cd7b81fbb1c9e609f44a4b3ffb",
+        "role": "VICE-PRESIDENT",
+        "name": "DJIGUEMDE GOUWINDMANEGRE OLIVIER"
+    },
+    {
+        "association_id": "44a656cd7b81fbb1c9e609f44a4b3ffb",
+        "role": "PRESIDENT",
+        "name": "E OUEDRAOGO GOAMA MARCELLINE"
+    },
+    {
+        "association_id": "ca6f191674c4c5f55734e617e36d0839",
+        "role": "VICE-PRESIDENT",
+        "name": "KABORE IBRAHIM"
+    },
+    {
+        "association_id": "ca6f191674c4c5f55734e617e36d0839",
+        "role": "PRESIDENT",
+        "name": "LOURGO BOUKARY"
+    },
+    {
+        "association_id": "9ffe83b38e562920f59cc2fc5a073e3b",
+        "role": "VICE-PRESIDENT",
+        "name": "KABORE IBRAHIM"
+    },
+    {
+        "association_id": "9ffe83b38e562920f59cc2fc5a073e3b",
+        "role": "PRESIDENT",
+        "name": "LOURGO BOUKARY"
+    },
+    {
+        "association_id": "07c9f5cf186920b55a9f3b2e5f18a473",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E OUEDRAOGO PASCALINE"
+    },
+    {
+        "association_id": "07c9f5cf186920b55a9f3b2e5f18a473",
+        "role": "PRESIDENT",
+        "name": "E SABO/COMPAORE JOE ELYSE"
+    },
+    {
+        "association_id": "3b5cf5a058650d5d61b32aaa57fc9ab2",
+        "role": "VICE-PRESIDENT",
+        "name": "E DERMA ALIZETA"
+    },
+    {
+        "association_id": "3b5cf5a058650d5d61b32aaa57fc9ab2",
+        "role": "PRESIDENT",
+        "name": "E DIAWARA DJENEBA"
+    },
+    {
+        "association_id": "c8e324c7031f172f759c10d052f4f9c4",
+        "role": "SECRETAIRE GENERAL",
+        "name": "COMPAORE IBRAHIM"
+    },
+    {
+        "association_id": "c8e324c7031f172f759c10d052f4f9c4",
+        "role": "PRESIDENT",
+        "name": "DICKO AHMED"
+    },
+    {
+        "association_id": "6ebd4065e035510901665970c36d8eab",
+        "role": "PRESIDENT",
+        "name": "OU CONSEIL DES MINISTRES VU IA CONSTITUTION VU LE DECRET N°2016-001/PRES DU 06 JANVIER 2016 PORTANT NOMINATION DU PREMIER MINISTRE VU!E DECRET N°2018-035/PRES/PM DU 31 JANVIER 2018 PORTANT REMANIEMENT DU GOUVERNEMENT VU IA IOI N°74-60/AN DU 03 AOÛT 1960 PORTANT CREATION DE L'ARMEE NATIONALE VU IA LOI N°G38-2016/AN DU 24 NOVEMBRE 20I6 PORTANT STATUT GENERAL DES PERSONNELS DES FORCES ARMEES NATIONALES VU LA LOI N°037-2016/AN DU 24 NOVEMBRE 2016 PORTANT CONDITIONS D'AVANCEMENT DES PERSONNELS D'ACTIVE DANS LES FORCES ARMEES NATIONALES VU LE DECRET N°2Q16-156/PRE5/PM/MDNAC DU 08 AVRIL 2016 PORTANT ORGANISATION DU MINISTERE DE IA DEFENSE NATIONALE ET DES ANCIENS COMBATTANTS VU L'ARRÊTE NC,2006-07S/DEF/CÂB DU 06 JUIN 2006 PORTANT INCIDENCE DES PUNITIONS SUR L'AVANCEMENT DES PERSONNELS D'ACTIVE DANS LES ARMEES ET SON MODIFICATÎF N°2009- 057/DEF/CAB DU 05 JUIN 2009 VU IA CIRCULAIRE N°2Q17-3G57/MDNAC/EMGA/DCL DU 13 AVRIL 2017 RELATIVE A L'AVANCEMENT AU TITRE DE L'ANNEE 2.018 DES PERSONNELS OFFICIERS, SOUS- OFFICIERS ET MILITAIRES DU RANG DES ARMEES DE TERRE, DE L'AIR ET DE LA GENDARMERIE NATIONALE, EN ACTIVITE DE SERVICE VU LA CIRCULAIRE ADDITIVE N°2017~5257/MDNAC/EMGA/DCL DU 13 JUILLET 2017 RELATIVE A L'AVANCEMENT AU TITRE DE L'ANNEE 2018 DES PERSONNELS OFFICIERS, SOUS- OFFICIERS ET MILITAIRES DU RANG DES ARMEES DE TERRE, DE L'AIR ET DE LA GENDARMERIE NATIONALE, EN ACTIVITE DE SERVICE VU LE DECRET NÔ2017-1217/PRES/PM/M DN AC DU 13 DECEMBRE 2017 PORTANT INSCRIPTION D'OFFICIERS D'ACTIVES DES FORCES ARMEES NATIONALES AU TABLEAU D'AVANCEMENT AU TITRE DE L'ANNEE 2018 PAGE 5 26 JUILLET 2018 JOURNAL OFFICIEL DU BURKINA FASO N°30 2035 DECRETE ARTICLE 1 LES OFFICIERS D'ACTIVE DES FORCES ARMEES NATIONALES DONT LES NOMS SUIVENT SONT PROMUS AUX GRADES SUPERIEURS ET PRENNENT RANG POUR COMPTER DU 1ER JUILLET; 2018. POUR LE GRADE: DE ARMEE DE TERRE COT PIERRE INF GENDARMERIE NATIONALE COL BAMBARÂ ORNER MARIE HERMANN GRIE GROUPEMENT CENTRAL DES ARMEES COL COL COL COL COL ADYNALI SOME FOFANA SOME KABORE ATAGODÂN VLNTA LA MOUSSA CLAUDE JEAN BAPTISTE MARIE DIEUDONNE TRN INF SAN INF MAT BRIGADE NATIONALE DES SAPEURS POMPIERS COT YAGO LAZARE GEN/SP POUR LE GRADE DE COLONEL ARMEE DE L'AIR LCL KAMBOU OLIO STEPHANE GILES CESAR R- I  GENDARMERIE NATIONALE ICI TRAORE YAYA GRIE POUR LE GRADE DE LIEUTENANT- COLON EL ARMEE DE L'AIR CDT SAKIRÂ IBRAHIM AIR GROUPEMENT CENTRAL DES ARMEES MED-CDT OUEDRAOGO TEGAWIND SINDINMA-NEGBA STEEVENS SAN BRIGADE NATIONALE DES SAPEURS POMPIERS CDT OUATTÂRA DAOUDA SAN POUR LE GRADE DE COMMANDANT ARMEE DE TERRE CNE KABORE WENDINMI CONSTANTIN ABC ARMEE DE VAIR CNE SAWÂDOGO YASNEMA-NEGRE INFOR GENDARMERIE NATIONALE CNE BAPAN NIANGAO GRIE CNE LQMPO OUINLIGAATI NIKODEME GRIE PAGE 7 26 JUILLET 2018 JOURNAL OFFICIEL DU BURKINA FASO N°30 2037 CNE SARA ALAIN TRS CNE YE DÛUHATOTIN DAOUDA LUC SAN CNE TRAORE DOUANT THIERRY GEN JUSTICE MILITAIRE CNE ZOUNGRANÂ WEND-LASSIDA JUDITH PASCALINE DJH ARMEE ÛE TERME LIN KÂBORE WENDINRNA-NECJDE ART LTN KONDÎTAMPE PALTGWENDÊ WENCESIAS JUMEAU |NF UN ZAGRE THIERRY ARISTIDE PARFAIT SAM GENDARMERIE NATIONALE LTN TRAORE KWE PASEAI LTN BAMBARA SAIFO LTN JOE HAMED LONGUI LEWIS GROUPEMENT CENTRAL DES ARMEES LTN BAZIE IZOMPEN MARIUS LTN SANOU CHRISTOPHE PASCAL BAKARY GEN BRIGADE NATIONALE DES SAPEURS POMPIER? LTN KÂBORE WENDKOUNI ÇAÎIXTE WENŒSIAS GRIE 4 R  JUSTICE MILITAIRE LTN PANANDTIGRI WEND-LAMITA ADAMA MODESTE D3M ARTICLE 2 T LE MINISTRE DE IA DEFENSE NATIONALE ET DES ANCIENS COMBATTANTS EST"
+    },
+    {
+        "association_id": "c91e20ae33495beaba0062044b5fa030",
+        "role": "VICE-PRESIDENT",
+        "name": "OUEDRAOGO OUSMANE"
+    },
+    {
+        "association_id": "c91e20ae33495beaba0062044b5fa030",
+        "role": "PRESIDENT",
+        "name": "E KONDE ANGELE"
+    },
+    {
+        "association_id": "a221b1a9a481943c5775b8027556766b",
+        "role": "VICE-PRESIDENT",
+        "name": "E KABORE/GUISSOU SIBIRI FRANÇOISE"
+    },
+    {
+        "association_id": "a221b1a9a481943c5775b8027556766b",
+        "role": "PRESIDENT",
+        "name": "E YAMEOGO/GUISSOU LEONIE PASSONDEDABA"
+    },
+    {
+        "association_id": "d1c4841871ab40ccf7b10cd5fc232a5d",
+        "role": "VICE-PRESIDENT",
+        "name": "GUIBLA TOUDABAMBA"
+    },
+    {
+        "association_id": "d1c4841871ab40ccf7b10cd5fc232a5d",
+        "role": "PRESIDENT",
+        "name": "BAMOGO NONGOBYALGRE DIT ABDOULAYE"
+    },
+    {
+        "association_id": "0cf01fdaf4865988cf1e46744fc77b1f",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E NIANG MINATA, TEL 72 49 17 89"
+    },
+    {
+        "association_id": "0cf01fdaf4865988cf1e46744fc77b1f",
+        "role": "PRESIDENT",
+        "name": "E PODA PRISCILLA, TEL 70 23 22 46"
+    },
+    {
+        "association_id": "9bf0cc30e26b6771b14d45cbd51035b8",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E OUEDRAOGO MARIAM"
+    },
+    {
+        "association_id": "9bf0cc30e26b6771b14d45cbd51035b8",
+        "role": "PRESIDENT",
+        "name": "E DAKOURE JEANNE MARIE"
+    },
+    {
+        "association_id": "0b4d2f18970e57602d2b1dcc3ff1cf52",
+        "role": "VICE-PRESIDENT",
+        "name": "E SAOUADOGO/ÔUËDRAOGÔ RASMATA"
+    },
+    {
+        "association_id": "0b4d2f18970e57602d2b1dcc3ff1cf52",
+        "role": "PRESIDENT",
+        "name": "E ZONGO SIPOKO"
+    },
+    {
+        "association_id": "8465fd27fa26af8f0d5fc0cb1a12c87e",
+        "role": "SECRETAIRE GENERAL",
+        "name": "KO AND A MOHAMED, TEL:70 29 8858"
+    },
+    {
+        "association_id": "8465fd27fa26af8f0d5fc0cb1a12c87e",
+        "role": "PRESIDENT",
+        "name": "MAIGAAMADO, TEL 71 99 61 83"
+    },
+    {
+        "association_id": "71387929d522c467a2800d2c12a4dc41",
+        "role": "SECRETAIRE GENERAL",
+        "name": "ZONGO ADAMA, TEL. 76 31 10 82"
+    },
+    {
+        "association_id": "71387929d522c467a2800d2c12a4dc41",
+        "role": "PRESIDENT",
+        "name": "ZONGO P. CLAVER, TEL. 76 52 59 10"
+    },
+    {
+        "association_id": "71387929d522c467a2800d2c12a4dc41",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "ET A L'ORGANISATION ZONGO N. LAZARE, TEL. 70 43 26 11"
+    },
+    {
+        "association_id": "71387929d522c467a2800d2c12a4dc41",
+        "role": "TRESORIERE",
+        "name": "GENERALE TANKOANO B. CLAUDINE, TEL. 78 95 17 94"
+    },
+    {
+        "association_id": "2ce1207db087364337e7fb258db9fbe1",
+        "role": "SECRETAIRE GENERAL",
+        "name": "TAMBEYAORE P. MICHEL, TEL. 70 43 88 33"
+    },
+    {
+        "association_id": "2ce1207db087364337e7fb258db9fbe1",
+        "role": "SECRETAIRE CHARGE A L'INFORMATION",
+        "name": "BAYALA INNOCENT, TEL. 70 10 42 29"
+    },
+    {
+        "association_id": "2ce1207db087364337e7fb258db9fbe1",
+        "role": "PRESIDENT",
+        "name": "BAMBARA DIDIER, TEL. 70 15 53 66"
+    },
+    {
+        "association_id": "2ce1207db087364337e7fb258db9fbe1",
+        "role": "SECRETAIRE CHARGE A L'ORGANISATION",
+        "name": "GUELENE ANDRE, TEL. 70 11 59 38"
+    },
+    {
+        "association_id": "2ce1207db087364337e7fb258db9fbe1",
+        "role": "TRESORIERE",
+        "name": "GENERALE KIBORA B. JULIENNE, TEL. 78 09 26 09"
+    },
+    {
+        "association_id": "f104372d7b04620b8fb0329ec173c3bc",
+        "role": "COMMISSAIRES AUX COMPTES",
+        "name": "BADO ISSA BAYALA NARCISSE PAGE 59 26 JUILLET 2018 JOURNAL OFFICIEL DU BURKINA FASO N°30 2089 DEC 2800 ETAT BURKINA FASO BILAN ETABLISSEMENT CBI SA I£J C FO-CPT-018-V0Û I2IQL1I7H!2I LIILI M DATE D'ARRÊTE CIB LC {EN MILLIONS DE FCFA) CODES POSTE ACTIF MONTANTS NETS 31/12/2016 31/12/2017 A1G CAISSE 11 198 9 602 A02 CREANCES INTERBANCAIRES 136 975 208 515 A03 A VUE 80 147 131 937 ACM BANQUES CENTRÂTES 23 392 29 098 AOS TRESOR PUBLIC. CCP 571 379 A07 AUTRES ETABLISSEMENTS DE CREDIT 56 184 102 460 AOS A TERME 56 828 76 578 B02 CREANCES SUR LA CLIENTELE 413 153 542 058 B10 PORTEFEUILLE D'EFFETS COMMERCIAUX 17 069 22 794 B11 CREDITS DE CAMPAGNE B12 CREDITS ORDINAIRES 17 069 22 794 B2A AUTRES CONCOURS A LA CLIENTELE 356 741 473 478 B2C CREDITS DE CAMPAGNE 15 732 27 030 B2G CREDITS ORDINAIRES 341 OCS 446 44? B2N COMPTES ORDINAIRES DEBITEURS 39 344 43 332 B50 AFFACTURAGE 2 454 C10 TITRES DE PLACEMENT 256 785 288 934 D1A IMMOBILISATIONS FINANCIERES 20 448 15 960 D50 CREDIT-BAÏL ET OPERATIONS ASSIMILEES D20 IMMOBILISATIONS INCORPORELLES 560 1 274 D22 IMMOBILISATIONS CORPORELLES 15 083 20 218 E01 ACTIONNAIRES OU ASSOCIES C20 AUTRES ACTIFS 15 163 22 598 CSA COMPTES D'ORDRE ET DIVERS 15 632 22 852 E90 TOTAL DE L'ACTIF 884 938 1 132 011 CU IF4311 IL FIL; 231 12II #11 IL 11 IL Y YSYI Y M M -I  DEC 2800 BILAN ETAT BURKINA FASO ETABLISSEMENT CBI SA FO-CPT-018-VQC [C] I 2J 0| 1} 7[ 1 I 2J [3ILL |CJ0JTJ4|8| [VJ C DATE D'ARRÊTE CLB LC (EN MILLIONS DE FCFA) CODE PASSIF MONTANTS NETS S POSTE 31/12/2016 31/12/2017 F02 DETTES INTERBANCAIRES 333 243 359 918 0 0 F03 A VUE 58 741 98 724 F05 TRESOR PUBLIC. CCP 0 0 F07 AUTRES ETABLISSEMENTS DE CREDIT 58 741 98 724 0 0 F08 A TERME 274 502 261 194 0 0 G02 DETTES A L'EGARD DE LA CLIENTELE 419 652 620 602 0 0 G03 COMPTES D'EPARGNE A VUE 62 531 80 507 G04 COMPTES D'EPARGNE A TERME 1 449 1 578 G05 BON DE CAISSE 0 1 900 G06 AUTRES DETTES A VUE 173 306 274 682 G07 AUTRES DETTES A TERME 182 366 261 835 0 0 H3Q DETTES REPRESENTEES PAR UN TITRE 1 500 800 0 0 H35 AUTRES PASSIFS 8 003 11 415 0 0 H6A COMPTES D'ORDRE ET DIVERS 10 643 16 691 0 0 L30 PROVISIONS POUR RISQUES ET"
+    },
+    {
+        "association_id": "f104372d7b04620b8fb0329ec173c3bc",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "E A L'ORGANISATION ET A L'INFORMATION KANDOLO DOROTHEE, SECTEUR N° 7 DE REO, TEL. 76 60 52 16"
+    },
+    {
+        "association_id": "f104372d7b04620b8fb0329ec173c3bc",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "ET A L'INFORMATION KANTIONO MADELEINE, SECTEUR N° 7 DE REO, TEL. 78 99 96 59"
+    },
+    {
+        "association_id": "f104372d7b04620b8fb0329ec173c3bc",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E BADO/KANDO BEATRICE, SECTEUR N° 7 DE REO, TEL. 76 07 65 32"
+    },
+    {
+        "association_id": "f104372d7b04620b8fb0329ec173c3bc",
+        "role": "VICE-PRESIDENT",
+        "name": "E KANYALA CLEMENCE, SECTEUR N° 7 DE REO, TEL. 78 82 71 80"
+    },
+    {
+        "association_id": "f104372d7b04620b8fb0329ec173c3bc",
+        "role": "PRESIDENT",
+        "name": "E FONDATRICE KANYALA FRANÇOISE MARIE, SECTEUR N° 7 DE REO, TEL. 71 02 39 40"
+    },
+    {
+        "association_id": "f104372d7b04620b8fb0329ec173c3bc",
+        "role": "TRESORIERE",
+        "name": "GENERALE KANYALA PAULINE, SECTEUR N° 7 DE REO, TEL. 71 11 83 34"
+    }
+]

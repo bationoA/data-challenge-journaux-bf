@@ -4,17 +4,16 @@ from src import Extractor
 
 if __name__ == "__main__":
     print("Starting...")
-    scraper = Scraper(n_threads=2)
-    scraper.run()
+    # scraper = Scraper(n_threads=2)
+    # scraper.run()
 
-    # extractor = Extractor()
-    # extractor.run()
+    extractor = Extractor()
+    extractor.run()
 
-#
+
 #
 # import argparse
 # import sys
-#
 # from src import Scraper
 # from src import Extractor
 #
@@ -89,4 +88,4 @@ if __name__ == "__main__":
 #         # print("extracting")
 #         extractor = Extractor(n_threads=et)
 #         extractor.run()
-#         pass
+#

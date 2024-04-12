@@ -1,0 +1,47 @@
+[
+    {
+        "association_id": "e9b5c6ac8445a4490bb6d63fd2b8136b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E SAWADOGO ALIMA"
+    },
+    {
+        "association_id": "e9b5c6ac8445a4490bb6d63fd2b8136b",
+        "role": "PRESIDENT",
+        "name": "E SAWADOGO RISNATOU"
+    },
+    {
+        "association_id": "e9b5c6ac8445a4490bb6d63fd2b8136b",
+        "role": "TRESORIERE",
+        "name": "TRAORE SHATA PRINCIPAUX DIRIGEANTS"
+    },
+    {
+        "association_id": "710dc0912edf22b87f51c927d99a83e5",
+        "role": "VICE-PRESIDENT",
+        "name": "ILLY ADAMA"
+    },
+    {
+        "association_id": "710dc0912edf22b87f51c927d99a83e5",
+        "role": "PRESIDENT",
+        "name": "KABORE ADAMA"
+    },
+    {
+        "association_id": "23c568b0ec04d063b5f33218b7482c92",
+        "role": "SECRETAIRE GENERAL",
+        "name": "MOURFOU SOMLAWENDE ARSENE, TEL. 70 75 06 58"
+    },
+    {
+        "association_id": "23c568b0ec04d063b5f33218b7482c92",
+        "role": "VICE-PRESIDENT",
+        "name": "E NIKLEMAADAMA"
+    },
+    {
+        "association_id": "23c568b0ec04d063b5f33218b7482c92",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO KARIM, TEL. 68 36 36 56"
+    },
+    {
+        "association_id": "23c568b0ec04d063b5f33218b7482c92",
+        "role": "TRESORIER GENERAL",
+        "name": "DI ALLO IBRAHIM, TEL 79 98 45 20"
+    }
+]

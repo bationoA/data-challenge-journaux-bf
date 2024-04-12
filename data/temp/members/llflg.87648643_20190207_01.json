@@ -1,0 +1,642 @@
+[
+    {
+        "association_id": "2a128f36fd55f14bf5d8d520e14a3fa7",
+        "role": "SECRETAIRE GENERAL",
+        "name": "DIALLO OUMAROU HASSANE, ADRESSE COMPTABLE/GOROM-GOROM, TEL. 70 28 11 21"
+    },
+    {
+        "association_id": "2a128f36fd55f14bf5d8d520e14a3fa7",
+        "role": "PRESIDENT",
+        "name": "BA BOUREIMA OUSMANE, ADRESSE ANIMATEUR A GOROM-GOROM, TEL. 70 70 06 20"
+    },
+    {
+        "association_id": "dbc46d7d828f8321017687a484102f00",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E SORGHO BLANDINE"
+    },
+    {
+        "association_id": "dbc46d7d828f8321017687a484102f00",
+        "role": "PRESIDENT",
+        "name": "E SORGHO/ZINSONNE FELICITE MARIE LUCILE"
+    },
+    {
+        "association_id": "f3ae9898688213856f6c7f0003a63067",
+        "role": "VICE-PRESIDENT",
+        "name": "E HIEN TEGNELE GERARD"
+    },
+    {
+        "association_id": "f3ae9898688213856f6c7f0003a63067",
+        "role": "PRESIDENT",
+        "name": "E DAO KOROTIMI"
+    },
+    {
+        "association_id": "c0f8e034f4052cdb657e52861f1875a4",
+        "role": "SECRETAIRE GENERAL",
+        "name": "COULIBALY PIE BIENVENU, TEL. 78 80 17 96"
+    },
+    {
+        "association_id": "c0f8e034f4052cdb657e52861f1875a4",
+        "role": "PRESIDENT",
+        "name": "COULIBALY SERGE, TEL. 61 99 99 44"
+    },
+    {
+        "association_id": "a5625082248d8b04e0fc16204bcc287b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "DEMBELE MARCELIN"
+    },
+    {
+        "association_id": "a5625082248d8b04e0fc16204bcc287b",
+        "role": "PRESIDENT",
+        "name": "MIHIN ALAIN"
+    },
+    {
+        "association_id": "1faa66cd906b94c63cf6435b3bdd7edc",
+        "role": "SECRETAIRE GENERAL",
+        "name": "DABIRE YO LEROU VALERIEN, TEL. 70 64 30 32"
+    },
+    {
+        "association_id": "1faa66cd906b94c63cf6435b3bdd7edc",
+        "role": "PRESIDENT",
+        "name": "DABIRE BAORBIERSOB, TEL. 61 58 45 41"
+    },
+    {
+        "association_id": "610e2e4fabc03caa2817f706128b53df",
+        "role": "CONSEILLERS",
+        "name": "KOMBATE BAKIDANI, TEL. 78 23 00 48 KJNDA SIDIKI. TEL. 79 54 44 03 SANFO RACHID, TEL. 79 90 55 15"
+    },
+    {
+        "association_id": "610e2e4fabc03caa2817f706128b53df",
+        "role": "RESPONSABLE ADJOINT A L'INFORMATION",
+        "name": "YAGUIBOU ISSOUF, TEL. 78 10 60 80"
+    },
+    {
+        "association_id": "610e2e4fabc03caa2817f706128b53df",
+        "role": "SECRETAIRE GENERAL",
+        "name": "NEYA BEPIAN, TEL. 71 36 28 33"
+    },
+    {
+        "association_id": "610e2e4fabc03caa2817f706128b53df",
+        "role": "PRESIDENT",
+        "name": "SIDIBE DIT COTY MARIUS PATRICK BRUNO, TEL. 79 86 30 22 PRESIDENT ADJOINT SOME GNIAHA CLARISSE, TEL. 74 49 48 21"
+    },
+    {
+        "association_id": "610e2e4fabc03caa2817f706128b53df",
+        "role": "RESPONSABLE A LA MOBILISATION FEMININE",
+        "name": "NIKIEMA ALIMATA, TEL. 73 50 53 10"
+    },
+    {
+        "association_id": "610e2e4fabc03caa2817f706128b53df",
+        "role": "RESPONSABLE ADJOINTE A LA MOBILISATION FEMININE",
+        "name": "T COMPAORE NAFISSATOU, TEL. 68 20 63 36"
+    },
+    {
+        "association_id": "610e2e4fabc03caa2817f706128b53df",
+        "role": "RESPONSABLE A L'INFORMATION",
+        "name": "TAPSOBA GOMKOUDOUGOU, TEL. 78 24 08 95"
+    },
+    {
+        "association_id": "610e2e4fabc03caa2817f706128b53df",
+        "role": "TRESORIERE",
+        "name": "SANA BALGUISSA, TEL. 70 19 81 14"
+    },
+    {
+        "association_id": "099a037196ca51bde65f9fd7abd9365a",
+        "role": "VICE-PRESIDENT",
+        "name": "E VELEGDA BASGA MAMOUNATA"
+    },
+    {
+        "association_id": "099a037196ca51bde65f9fd7abd9365a",
+        "role": "PRESIDENT",
+        "name": "NANA BOUREIMA LERE"
+    },
+    {
+        "association_id": "4e83c3e1ed626a6f1bf7c68d3d23c6cd",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E OUEDRAOGO/TIORO G. MARIAM, TEL. 73 11 79 94"
+    },
+    {
+        "association_id": "4e83c3e1ed626a6f1bf7c68d3d23c6cd",
+        "role": "PRESIDENT",
+        "name": "E BAMOUNI/TOURE ASSITA, TEL. 70 96 45 81"
+    },
+    {
+        "association_id": "a38a2c8d594cccabae58554aa838383b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E YANOGO/KAFANDO AMINATA"
+    },
+    {
+        "association_id": "a38a2c8d594cccabae58554aa838383b",
+        "role": "PRESIDENT",
+        "name": "E NIGNAN BARAKISSA"
+    },
+    {
+        "association_id": "41e3833c7f32ec90055d3e8bf37a775c",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'ORGANISATION SINARE YACOUBA, TEL. 76 47 37 28"
+    },
+    {
+        "association_id": "41e3833c7f32ec90055d3e8bf37a775c",
+        "role": "SECRETAIRE ADJOINT A L'ORGANISATION",
+        "name": "SINARE YACOUBA, TEL. 76 47 37 28"
+    },
+    {
+        "association_id": "41e3833c7f32ec90055d3e8bf37a775c",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "TIENDREBEOGO RASMANE, TEL. 78 51 81 12"
+    },
+    {
+        "association_id": "41e3833c7f32ec90055d3e8bf37a775c",
+        "role": "SECRETAIRE GENERAL",
+        "name": "KABORE NOMAM, TEL. 70 23 86 25"
+    },
+    {
+        "association_id": "41e3833c7f32ec90055d3e8bf37a775c",
+        "role": "VICE-PRESIDENT",
+        "name": "LALSAGA SALIFOU, TEL. 78 90 25 95 2E VICE-"
+    },
+    {
+        "association_id": "41e3833c7f32ec90055d3e8bf37a775c",
+        "role": "PRESIDENT",
+        "name": "KABORE JEAN PASCAL, TEL. 76 60 54 46 1ER"
+    },
+    {
+        "association_id": "41e3833c7f32ec90055d3e8bf37a775c",
+        "role": "TRESORIER GENERAL",
+        "name": "ADJOINT OUEDRAOGO KADRE, TEL. 73 92 30 09"
+    },
+    {
+        "association_id": "41e3833c7f32ec90055d3e8bf37a775c",
+        "role": "TRESORIERE",
+        "name": "GENERALE YABRE BOUREIMA, TEL. 78 31 37 24"
+    },
+    {
+        "association_id": "c0c9bbd3ac7febf7877c4f2c8a51efda",
+        "role": "PRESIDENT",
+        "name": "E KAGUEMBEGA/MULLER FRANZISKA MARGRITH"
+    },
+    {
+        "association_id": "eb5fa5e75928fa9cc3e2876da6f42669",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BAYALA AMBROISE, TEL. 72 62 22 21"
+    },
+    {
+        "association_id": "eb5fa5e75928fa9cc3e2876da6f42669",
+        "role": "PRESIDENT",
+        "name": "BADOLO BADOUA JEAN FULGENCE, TEL. 71 84 84 97"
+    },
+    {
+        "association_id": "eb5fa5e75928fa9cc3e2876da6f42669",
+        "role": "TRESORIERE",
+        "name": "KANYALA EZOMBOE, TEL. 71 54 34 10"
+    },
+    {
+        "association_id": "29ca8b819e18b67491eee44a9a935b88",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SARAMBE DORO, CULTIVATEUR A KIEMBARA, TEL. 70 02 62 28"
+    },
+    {
+        "association_id": "29ca8b819e18b67491eee44a9a935b88",
+        "role": "PRESIDENT",
+        "name": "TOPAN PERE, CULTIVATEUR A KIEMBARA, TEL. 70 33 36 81"
+    },
+    {
+        "association_id": "a825e91515f52f259da59112d7cb5bff",
+        "role": "VICE-PRESIDENT",
+        "name": "E NAKANABO/SOULAMA MONIQUE SOFENO"
+    },
+    {
+        "association_id": "a825e91515f52f259da59112d7cb5bff",
+        "role": "PRESIDENT",
+        "name": "OUANGRAOUA BAONBINGBA DESIRE"
+    },
+    {
+        "association_id": "ff8ef92978744e3747d2f85b1aae5d84",
+        "role": "SECRETAIRE GENERAL",
+        "name": "LOMPO L. A. NASSER, TEL. 70 06 78 44"
+    },
+    {
+        "association_id": "ff8ef92978744e3747d2f85b1aae5d84",
+        "role": "PRESIDENT",
+        "name": "LOMPO ADAMA, TEL. 70 72 26 53"
+    },
+    {
+        "association_id": "973d58f86074e6e7e951630cb5ba80bc",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E COULIBALY/BARRO MARIE JOSEE"
+    },
+    {
+        "association_id": "973d58f86074e6e7e951630cb5ba80bc",
+        "role": "PRESIDENT",
+        "name": "DEME KARIM"
+    },
+    {
+        "association_id": "519599f2ca3d61f7e2cc23590a404cc4",
+        "role": "PRESIDENT",
+        "name": "E ZONGO/YAMEOGO SIDBEWINDIN ADELINE"
+    },
+    {
+        "association_id": "16b76c072150a0b38a6ecfb832dde0b7",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E KABORE GEORGETTE"
+    },
+    {
+        "association_id": "16b76c072150a0b38a6ecfb832dde0b7",
+        "role": "PRESIDENT",
+        "name": "E SAKANDE/KABORE SIBDOU"
+    },
+    {
+        "association_id": "d1e5b5451425174a5d96bb4c140e4f21",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "E A L'INFORMATION KABORE AMI, TEL 67 09 07 27"
+    },
+    {
+        "association_id": "d1e5b5451425174a5d96bb4c140e4f21",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "LOURGO GOMKUILGA, TEL. 60 38 13 59"
+    },
+    {
+        "association_id": "d1e5b5451425174a5d96bb4c140e4f21",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E OUEDRAOGO TALATO, TEL. 79 59 88 04"
+    },
+    {
+        "association_id": "d1e5b5451425174a5d96bb4c140e4f21",
+        "role": "VICE-PRESIDENT",
+        "name": "E ILBOUDO HABIBOU, TEL. 75 32 48 20"
+    },
+    {
+        "association_id": "d1e5b5451425174a5d96bb4c140e4f21",
+        "role": "PRESIDENT",
+        "name": "E ILBOUDO DENISE, TEL. 60 38 13 59"
+    },
+    {
+        "association_id": "d1e5b5451425174a5d96bb4c140e4f21",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "OUEDRAOGO MARIE DELFINE, TEL. 64 21 59 54"
+    },
+    {
+        "association_id": "d1e5b5451425174a5d96bb4c140e4f21",
+        "role": "TRESORIERE",
+        "name": "GENERALE OUEDRAOGO JUDITH, TEL. 62 81 22 70"
+    },
+    {
+        "association_id": "8e88c159afc33f289efa847be1565c58",
+        "role": "VICE-PRESIDENT",
+        "name": "CABORE WINDLASIDA OLIVIER"
+    },
+    {
+        "association_id": "8e88c159afc33f289efa847be1565c58",
+        "role": "PRESIDENT",
+        "name": "TOE FLORENT"
+    },
+    {
+        "association_id": "04153c71979d89e6c66e5ec475b38845",
+        "role": "VICE-PRESIDENT",
+        "name": "KAFANDO SIBIRI"
+    },
+    {
+        "association_id": "04153c71979d89e6c66e5ec475b38845",
+        "role": "PRESIDENT",
+        "name": "E ROUAMBA SOPHIE"
+    },
+    {
+        "association_id": "25d941a026b535969fc2dada3df132c7",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BAKO ABDOU KARIM"
+    },
+    {
+        "association_id": "25d941a026b535969fc2dada3df132c7",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOOG ISSIAKA"
+    },
+    {
+        "association_id": "8d761aa8202606c6d095be696f2bc67e",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BALIMA PIERRE"
+    },
+    {
+        "association_id": "8d761aa8202606c6d095be696f2bc67e",
+        "role": "PRESIDENT",
+        "name": "OUEDRAOGO HERMANN"
+    },
+    {
+        "association_id": "285ce4a1ea1195d975d04b0b7a631d36",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SAWADOGO N. MICHEL, TEL. 70 72 18 67"
+    },
+    {
+        "association_id": "285ce4a1ea1195d975d04b0b7a631d36",
+        "role": "PRESIDENT",
+        "name": "SAWADOGO K. NOUFOU, TEL. 70 36 92 32"
+    },
+    {
+        "association_id": "285ce4a1ea1195d975d04b0b7a631d36",
+        "role": "TRESORIER GENERAL",
+        "name": "DIANDA KADRE, TEL. 70 43 08 38"
+    },
+    {
+        "association_id": "875ec6c2b35807eb143002ee39b1e266",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E OUEDRAOGO ALIMATA MARTINE, TEL. 66 91 01 69"
+    },
+    {
+        "association_id": "875ec6c2b35807eb143002ee39b1e266",
+        "role": "PRESIDENT",
+        "name": "E ILBOUDO ALIMATA, S/C TEL. 66 91 01 69"
+    },
+    {
+        "association_id": "875ec6c2b35807eb143002ee39b1e266",
+        "role": "TRESORIERE",
+        "name": "GENERALE OUEDRAOGO NATHALIE TINSACRE, TEL. 75 54 30 74"
+    },
+    {
+        "association_id": "5d6f20fff3e1159e3e88a3c301c79722",
+        "role": "SECRETAIRE GENERAL",
+        "name": "ZONGO YAMPAYONGDE B. ALASSANE"
+    },
+    {
+        "association_id": "5d6f20fff3e1159e3e88a3c301c79722",
+        "role": "PRESIDENT",
+        "name": "KIENTGA WENDEMI ASSANE"
+    },
+    {
+        "association_id": "590a6bfd5581e0542ef973fbab6af53d",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SOMBIE OUMAR, TEL. 74 97 86 66"
+    },
+    {
+        "association_id": "590a6bfd5581e0542ef973fbab6af53d",
+        "role": "PRESIDENT",
+        "name": "HIE BAYABOHIENNE, TEL. 76 36 92 44"
+    },
+    {
+        "association_id": "bdd6e4d99cd171c841bb626f001701d3",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E NAMOANO/LOMPO HONORINE, TEL. 70 71 79 85"
+    },
+    {
+        "association_id": "bdd6e4d99cd171c841bb626f001701d3",
+        "role": "PRESIDENT",
+        "name": "E KI/THIOMBIANO COLETTE, TEL. 70 35 66 80"
+    },
+    {
+        "association_id": "0667050b8c770e4d77dc2c80353ee2df",
+        "role": "VICE-PRESIDENT",
+        "name": "E OUEDRAOGO ALIMATA"
+    },
+    {
+        "association_id": "0667050b8c770e4d77dc2c80353ee2df",
+        "role": "PRESIDENT",
+        "name": "E SAWADOGO SAMIRATA"
+    },
+    {
+        "association_id": "0b09f0c10fa0f1a08cab6e66ba68166f",
+        "role": "SECRETAIRE GENERAL",
+        "name": "KERE SALFO"
+    },
+    {
+        "association_id": "0b09f0c10fa0f1a08cab6e66ba68166f",
+        "role": "PRESIDENT",
+        "name": "NANSL A KASSOUM"
+    },
+    {
+        "association_id": "c666c36fd5d73703f793c6f58be056b3",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E DIALLO MARIAM"
+    },
+    {
+        "association_id": "c666c36fd5d73703f793c6f58be056b3",
+        "role": "PRESIDENT",
+        "name": "DIALLO SAIDOU"
+    },
+    {
+        "association_id": "1c5c94c22ab7054c5e98dde42fcc52d4",
+        "role": "VICE-PRESIDENT",
+        "name": "E BAYALA EDRAOGO ODILE"
+    },
+    {
+        "association_id": "1c5c94c22ab7054c5e98dde42fcc52d4",
+        "role": "PRESIDENT",
+        "name": "E ZWETYELLE HELENE"
+    },
+    {
+        "association_id": "5aae5a0b25fd1ce93cfc1a7dc5077f87",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E KIEMTORE KOUILGA"
+    },
+    {
+        "association_id": "5aae5a0b25fd1ce93cfc1a7dc5077f87",
+        "role": "PRESIDENT",
+        "name": "E TIEMTORE/DIASSO KATAMAIN ELISABETH"
+    },
+    {
+        "association_id": "fbb4de623c7d483a984b3aa9d73295ed",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E KIEMTORE KOUILGA"
+    },
+    {
+        "association_id": "fbb4de623c7d483a984b3aa9d73295ed",
+        "role": "PRESIDENT",
+        "name": "E TIEMTORE/DIASSO KATAMAIN ELISABETH"
+    },
+    {
+        "association_id": "9caf1415b36635b67ace521e3c349f60",
+        "role": "SECRETAIRE GENERAL",
+        "name": "KARANTAO HAMIDOU"
+    },
+    {
+        "association_id": "9caf1415b36635b67ace521e3c349f60",
+        "role": "PRESIDENT",
+        "name": "GORO MADOU"
+    },
+    {
+        "association_id": "95cbbb91822be359647b0b8e8e24b80f",
+        "role": "SECRETAIRE GENERAL",
+        "name": "DIALLO KARIM"
+    },
+    {
+        "association_id": "95cbbb91822be359647b0b8e8e24b80f",
+        "role": "PRESIDENT",
+        "name": "KABA MICHEL"
+    },
+    {
+        "association_id": "2fef801ba1d2c64c9037557e3e24489e",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E TRAORE KARIDIA TEL. 76 15 20 86"
+    },
+    {
+        "association_id": "2fef801ba1d2c64c9037557e3e24489e",
+        "role": "PRESIDENT",
+        "name": "E BAZIE AICHA TEL. 68 57 09 88"
+    },
+    {
+        "association_id": "3edaa630eeeba6f15b7b7b1d64f87b5a",
+        "role": "SECRETAIRE GENERAL",
+        "name": "E KABORE JULIE NADINE, TEL. 78 36 25 96"
+    },
+    {
+        "association_id": "3edaa630eeeba6f15b7b7b1d64f87b5a",
+        "role": "PRESIDENT",
+        "name": "E NIKIEMA BINTOU, TEL. 70 69 82 83"
+    },
+    {
+        "association_id": "5184516c4614a3016a549e1bf1ae8087",
+        "role": "SECRETAIRE GENERAL",
+        "name": "SOULAMA MASSIEKE JOSUE TEL.75 18 60 67"
+    },
+    {
+        "association_id": "5184516c4614a3016a549e1bf1ae8087",
+        "role": "PRESIDENT",
+        "name": "MOMO SIE SERGE TEL. 71 40 06 96"
+    },
+    {
+        "association_id": "8c67ad9f93895ad289a919f3473e6dc9",
+        "role": "SECRETAIRE GENERAL",
+        "name": "ADEOTI AIDA TEL. 62 66 33 00"
+    },
+    {
+        "association_id": "8c67ad9f93895ad289a919f3473e6dc9",
+        "role": "PRESIDENT",
+        "name": "KOUSSOUBE MAHAMADI TEL. 72 36 20 99"
+    },
+    {
+        "association_id": "3c4729f42a10e054d45ec41ee5e22620",
+        "role": "SECRETAIRE GENERAL",
+        "name": "OUEDRAOGO PINGDEWENDE DIEUDONNE"
+    },
+    {
+        "association_id": "3c4729f42a10e054d45ec41ee5e22620",
+        "role": "PRESIDENT",
+        "name": "KOUANDAAHMED HAMZA"
+    },
+    {
+        "association_id": "20f7f09dd84368d67654da85b3817a6f",
+        "role": "RESPONSABLE ADJOINT A L'INFORMATION",
+        "name": "HEMA ABI TEL. 78 19 95 58"
+    },
+    {
+        "association_id": "20f7f09dd84368d67654da85b3817a6f",
+        "role": "SECRETAIRE GENERAL",
+        "name": "ADEOTI AIDA TEL. 62 66 33 00"
+    },
+    {
+        "association_id": "20f7f09dd84368d67654da85b3817a6f",
+        "role": "PRESIDENT",
+        "name": "KOUSSOUBE MAHAMADI TEL. 72 36 20 99"
+    },
+    {
+        "association_id": "20f7f09dd84368d67654da85b3817a6f",
+        "role": "RESPONSABLE A L'INFORMATION",
+        "name": "SAWADOGO LASSANE TEL. 75 97 72 62"
+    },
+    {
+        "association_id": "20f7f09dd84368d67654da85b3817a6f",
+        "role": "TRESORIERE",
+        "name": "BARRO OROKIA TEL. 73 57 95 96"
+    },
+    {
+        "association_id": "026d2c639097a1bbb91a5c154520bc1b",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'ORGANISATION TIEMTORE SOULEYMANE, TEL. 76 68 40 95"
+    },
+    {
+        "association_id": "026d2c639097a1bbb91a5c154520bc1b",
+        "role": "SECRETAIRE ADJOINT A L'ORGANISATION",
+        "name": "TIEMTORE SOULEYMANE, TEL. 76 68 40 95"
+    },
+    {
+        "association_id": "026d2c639097a1bbb91a5c154520bc1b",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "SOKONDOU K. DAOUDA, TEL. 78 69 99 05"
+    },
+    {
+        "association_id": "026d2c639097a1bbb91a5c154520bc1b",
+        "role": "SECRETAIRE GENERAL",
+        "name": "TIEMTORE PALOBDE, TEL. 78 48 18 94"
+    },
+    {
+        "association_id": "026d2c639097a1bbb91a5c154520bc1b",
+        "role": "VICE-PRESIDENT",
+        "name": "OUEDRAOGO RASMANE, TEL. 78 94 36 55"
+    },
+    {
+        "association_id": "026d2c639097a1bbb91a5c154520bc1b",
+        "role": "PRESIDENT",
+        "name": "COMPAORE MAHAMA, TEL. 78 74 84 46"
+    },
+    {
+        "association_id": "026d2c639097a1bbb91a5c154520bc1b",
+        "role": "SECRETAIRE ADJOINT A L'INFORMATION",
+        "name": "SOKONDOU BOUBACAR, TEL. 79 76 20 21"
+    },
+    {
+        "association_id": "026d2c639097a1bbb91a5c154520bc1b",
+        "role": "TRESORIER GENERAL",
+        "name": "KABRE BOUBACAR, TEL. 78 04 79 27 TRESORIER GENERAL ADJOINT OUEDRAOGO IDRISSA, TEL. 78 17 03 73"
+    },
+    {
+        "association_id": "026d2c639097a1bbb91a5c154520bc1b",
+        "role": "SECRETAIRE A L'INFORMATION",
+        "name": "COMPAORE YACOUBA, TEL. 78 37 74 41"
+    },
+    {
+        "association_id": "c06a5febdf198b8f9d138e198fe2eed3",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'ORGANISATION BADINI ADAMA, TEL. 78 91 24 54"
+    },
+    {
+        "association_id": "c06a5febdf198b8f9d138e198fe2eed3",
+        "role": "SECRETAIRE ADJOINT A L'ORGANISATION",
+        "name": "BADINI ADAMA, TEL. 78 91 24 54"
+    },
+    {
+        "association_id": "c06a5febdf198b8f9d138e198fe2eed3",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "OUEDRAOGO AMIDOU, TEL. 76 13 31 95"
+    },
+    {
+        "association_id": "c06a5febdf198b8f9d138e198fe2eed3",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BADINI MAHAMADY, TEL. 75 06 81 97"
+    },
+    {
+        "association_id": "c06a5febdf198b8f9d138e198fe2eed3",
+        "role": "PRESIDENT",
+        "name": "BADINI NONGUEBZANGA, TEL. 76 49 77 41"
+    },
+    {
+        "association_id": "c06a5febdf198b8f9d138e198fe2eed3",
+        "role": "TRESORIER GENERAL",
+        "name": "BADINI SOMALIA, TEL. 76 81 88 94 TRESORIER GENERAL ADJOINT BADINI HAMIDOU, TEL. 76 68 72 91 PREMIER"
+    },
+    {
+        "association_id": "019287e714f704cbaa4c727b17259c48",
+        "role": "SECRETAIRE ADJOINT",
+        "name": "A L'ORGANISATION BADINI ADAMA, TEL. 78 91 24 54"
+    },
+    {
+        "association_id": "019287e714f704cbaa4c727b17259c48",
+        "role": "SECRETAIRE ADJOINT A L'ORGANISATION",
+        "name": "BADINI ADAMA, TEL. 78 91 24 54"
+    },
+    {
+        "association_id": "019287e714f704cbaa4c727b17259c48",
+        "role": "SECRETAIRE A L'ORGANISATION",
+        "name": "OUEDRAOGO AMIDOU, TEL. 76 13 31 95"
+    },
+    {
+        "association_id": "019287e714f704cbaa4c727b17259c48",
+        "role": "SECRETAIRE GENERAL",
+        "name": "BADINI MAHAMADY, TEL. 75 06 81 97"
+    },
+    {
+        "association_id": "019287e714f704cbaa4c727b17259c48",
+        "role": "PRESIDENT",
+        "name": "BADINI NONGUEBZANGA, TEL. 76 49 77 41"
+    },
+    {
+        "association_id": "019287e714f704cbaa4c727b17259c48",
+        "role": "TRESORIER GENERAL",
+        "name": "BADINI SOMALIA, TEL. 76 81 88 94 TRESORIER GENERAL ADJOINT BADINI HAMIDOU, TEL. 76 68 72 91 PREMIER"
+    }
+]
