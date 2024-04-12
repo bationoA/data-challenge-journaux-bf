@@ -87,8 +87,6 @@ class Extractor:
 
         files_paths = [os.path.join(DOWNLOADED_FILES_FOLDER, file_name) for file_name in self.files_names]
 
-        # files_paths = files_paths[0:5]  # TODO: Remove
-
         with ThreadPoolExecutor(max_workers=self.num_threads) as executor:
             executor.map(self.extract_details, files_paths)
 
