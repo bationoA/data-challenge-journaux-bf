@@ -1,13 +1,10 @@
-import argparse
 import sys
+import argparse
 from src import Scraper
 from src import Extractor
 
 max_args_num = 2
-# Get the command-line arguments
-arguments = sys.argv
-
-tasks = ["scrap", "extract"]
+arguments = sys.argv  # Get the command-line arguments
 
 if __name__ == "__main__":
     # Create an argument parser

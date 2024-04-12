@@ -10,8 +10,8 @@ from tqdm import tqdm
 # CONSTANTS
 DATA_FOLDER = os.path.join("data")
 TEMP_FOLDER = os.path.join("data", "temp")
-DOWNLOADED_FILES_FOLDER = os.path.join(DATA_FOLDER, "journaux")
 CSV_FOLDER = os.path.join(DATA_FOLDER, "csv")
+DOWNLOADED_FILES_FOLDER = os.path.join(DATA_FOLDER, "journaux")
 
 
 def remove_journal_header(text):

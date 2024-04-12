@@ -1,7 +1,6 @@
 import os
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor
-
 from src.utils import DOWNLOADED_FILES_FOLDER, read_txt_file, extract_declaration_numbers_and_dates, DATA_FOLDER, \
     load_json, extract_association_details, clean_text, generate_declaration_id, save_to_json, TEMP_FOLDER, \
     generate_and_save_df
