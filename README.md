@@ -20,9 +20,9 @@ Il est important de noter que faire dérouler le programme sur l’ensemble des 
 ## Comment lancer le programme
 Suivez les étapes suivantes pour lancer le programme :
 
-1. **Étape 1 (pas obligatoire mais recommandée) :** Créez un environnement virtuel pour isoler les dépendances du projet.
+1. **Étape 1 (pas obligatoire, mais recommandée) :** Créez un environnement virtuel pour isoler les dépendances du projet.
    
-2. **Étape 2 :** Clonez ce repository à l'aide de la commande suivante:
+2. **Étape 2 :** Clonez ce repository à l'aide de la commande suivante :
 ```commandline
 git clone git@github.com:bationoA/data-challenge-journaux-bf.git
 ```
@@ -37,11 +37,11 @@ python main.py <parametre 1> <valeur 1> <parametre 2> <valeur 2> ...
 
 Les différents paramètres et leurs valeurs sont listés dans le tableau suivant :
 
-| Paramètre | Description                                            | Options                                             |
-|-----------|--------------------------------------------------------|-----------------------------------------------------|
-| -t        | Task                                                   | s: Scraping. Collecte uniquement les journaux en ligne. S'arrête une fois cette tâche accomplie. <br> e: Extract. Extracte uniquement les informations des journaux collectés. Ignore la phase de téléchargement. <br> b: Both. Exécute les deux tâches dans l’ordre collecte puis extraction. |
-| -st       | Scraping threads                                       | Nombre maximal de téléchargement simultanés. Dépend du processeur. Doit être supérieur à 0 et inférieur ou égal au nombre maximal de threads du processeur. Défaut = 1 |
-| -et       | Extraction threads                                     | Nombre maximal de fichiers journal à traiter simultanément. Doit être supérieur à 0 et inférieur ou égal au nombre maximal de threads du processeur. Défaut = 1 |
+| Paramètre | Description                                            | Options                                                                                                                                                                                                                                                                                                   |
+|-----------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -t        | Task                                                   | **s**: Scraping. Collecte uniquement les journaux en ligne. S'arrête une fois cette tâche accomplie. <br> **e**: Extract. Extrait uniquement les informations des journaux collectés. Ignore la phase de téléchargement. <br> **b**: Both. Exécute les deux tâches dans l’ordre collecte puis extraction. |
+| -st       | Scraping threads                                       | Nombre maximal de téléchargement simultanés. Dépend du processeur. Doit être supérieur à 0 et inférieur ou égal au nombre maximal de threads du processeur. Défaut = 1                                                                                                                                    |
+| -et       | Extraction threads                                     | Nombre maximal de fichiers journal à traiter simultanément. Doit être supérieur à 0 et inférieur ou égal au nombre maximal de threads du processeur. Défaut = 1                                                                                                                                           |
 
 ### Exemples de commandes
 
