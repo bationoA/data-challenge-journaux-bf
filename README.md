@@ -1,16 +1,21 @@
 # data-challenge-journaux-bf
 
-Ceci est une brève description du programme d’information automatique d’information dans le cadre de la compétition “Data Scraping Challenge” organisée par Open Burkina.
+Ceci est une brève description du programme d'extraction automatique d’information dans le cadre de la compétition “Data Scraping Challenge” organisée par Open Burkina.
 
-**Note**: Le système a été développé en langage Python 3.10 sous une distribution Linux. Bien que n’ayant pas été testé sur d’autres systèmes tels que Mac ou Windows, il devrait quand même fonctionner dans un environnement virtuel après installation des prérequis (fichier `requirements.txt`).
+Le programme collecte des journaux officiels numérisés sur le site accessible par ce [lien](https://www.loc.gov/search/?fa=partof:burkina+faso+legal+gazettes). 
+Ces journaux sont ensuite analysés à la recherche de declarations d'existence d'associations. Une fois ces declarations 
+identifiées, les informations sur l'association et ses membres sont extraites puis enregistrées dans deux fichiers CSV : 
+`associations.csv` et `membres.csv`.
+
+**Note**: Le programme a été développé en langage Python (version 3.10) sous une distribution Linux. Bien que n’ayant pas été testé sur d’autres systèmes tels que Mac ou Windows, il devrait quand même fonctionner dans un environnement virtuel après installation des prérequis (fichier `requirements.txt`).
 
 ## Comment ça marche
-Pour toute information sur le fonctionnement du programme vous pouvez ouvrir le fichier descriptif (PDF) du dossier `doc`: [Description](https://github.com/bationoA/data-challenge-journaux-bf/blob/main/doc/Description%20-%20DATA%20SCRAPING%20CHALLENGE.pdf)
+Pour toute information sur le fonctionnement interne du programme vous pouvez ouvrir le fichier descriptif (PDF) du 
+dossier `doc`: [Description](https://github.com/bationoA/data-challenge-journaux-bf/blob/main/doc/Description%20-%20DATA%20SCRAPING%20CHALLENGE.pdf).
 
 ## Le temps
 
-Il est important de noter que faire dérouler le programme sur l’ensemble des journaux du site web prendra plusieurs heures, voire jours, suivant la performance de l’ordinateur et de la connexion internet utilisés. Le programme se termine par un résultat similaire à celui dans l’image ci
-
+Il est important de noter que faire dérouler le programme sur l’ensemble des journaux du site web prendra plusieurs heures, voire jours, suivant la performance de l’ordinateur et de la connexion internet utilisés.
 
 ## Comment lancer le programme
 Suivez les étapes suivantes pour lancer le programme :
