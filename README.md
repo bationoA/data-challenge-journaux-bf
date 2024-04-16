@@ -1,36 +1,11 @@
 # data-challenge-journaux-bf
-webscraping
-
-
-## Introduction
 
 Ceci est une brève description du programme d’information automatique d’information dans le cadre de la compétition “Data Scraping Challenge” organisée par Open Burkina.
 
-## Note
+**Note**: Le système a été développé en langage Python 3.10 sous une distribution Linux. Bien que n’ayant pas été testé sur d’autres systèmes tels que Mac ou Windows, il devrait quand même fonctionner dans un environnement virtuel après installation des prérequis (fichier `requirements.txt`).
 
-Le système a été développé en langage Python 3.10 sous une distribution Linux. Bien que n’ayant pas été testé sur d’autres systèmes tels que Mac ou Windows, il devrait quand même fonctionner dans un environnement virtuel après installation des prérequis (fichier `requirements.txt`).
-
-## Approche
-
-Le système se compose de deux programmes (ou tâches) principaux indépendants implémentés en packages : `scraper`, en charge de la collection et la compilation des journaux ; et `extractor`, nommé `association` en charge de l’extraction des journaux collectés et leur enregistrement sous format CSV.
-
-### Scraper
-
-Le package `scraper` utilise le package Selenium pour accomplir sa tâche de collecte et compilation des textes dans les journaux. L'opération est effectuée de la façon suivante :
-
-1. **Collecte des liens des journaux :** Le programme commence par collecter les liens de l’ensemble des publications des journaux.
-2. **Assemblage des pages :** Pour chaque publication ou journal, collecter et rassembler toutes les pages du journal en un seul fichier.
-3. **Enregistrement des fichiers :** Chaque fichier contenant les pages d’une même publication (ou journal) est ensuite enregistré sous format texte (.txt).
-
-### Association (extractor)
-
-Le package `association` contient la classe `extractor` qui est chargée de l’extraction des informations se trouvant dans les fichiers collectés par la tâche de collecte effectuée par le package `scraper`. Le processus se déroule comme suit :
-
-1. **Identification des fichiers :** Le programme commence par identifier l’ensemble des fichiers textes contenant les publications existant sur le disque.
-2. **Identification des sections clés :** Pour chaque journal, une méthode parcourt le contenu à l'aide d’une expression régulière pour extraire les sections faisant mention d’une déclaration d’association.
-3. **Extraction d’informations :** Pour chaque section identifiée, le programme extrait deux types d’informations qui sont les détails des associations et la liste de leurs membres et leurs rôles dans l’association. Toutes les extractions d’informations sont effectuées en utilisant uniquement des expressions régulières.
-4. **Enregistrement des informations d’associations et membres :** Pour chaque publication, une fois que les associations et leurs membres extraits du journal, ils sont enregistrés sous format JSON dans deux dossiers temporaires l’un pour les associations et l’autres pour les membres.
-5. **Création de fichier CSV :** Le programme s'achève par la création de deux fichiers CSV. L’ensemble des fichiers JSON se trouvant dans les dossiers temporaires `association` et `membres` sont collectés séparément, transformés en DataFrame Pandas puis exportés en deux fichiers CSV.
+## Comment ça marche
+Pour toute information sur le fonctionnement du programme vous pouvez ouvrir le fichier descriptif (PDF) du dossier `doc`: [Description](https://github.com/bationoA/data-challenge-journaux-bf/blob/main/doc/Description%20-%20DATA%20SCRAPING%20CHALLENGE.pdf)
 
 ## Le temps
 
