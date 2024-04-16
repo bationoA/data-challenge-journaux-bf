@@ -57,9 +57,6 @@ python main.py -t e -et 5
 ```commandline
 python main.py -t b -st 2 -et 4
 ```
-## Licence
-
-Ce projet est sous licence MIT. Pour plus d'informations, consultez le fichier [LICENSE](LICENSE).
 
 ## Contact
 
